@@ -45,7 +45,7 @@ O PDF integral não deve ser enviado ao GitHub enquanto o repositório permanece
 - ingestão: concluída
 - mapeamento: concluído
 - segmentação: concluída em 10 blocos semânticos
-- segmentos analisados: 8/10
+- segmentos analisados: **9/10**
 
 ## GLOBAL_RULES
 
@@ -58,62 +58,67 @@ O PDF integral não deve ser enviado ao GitHub enquanto o repositório permanece
 
 ## LAST_COMPLETED_ACTION
 
-Executado **Segmento 08** de *Flores para Algernon* conforme `docs/ANALYSIS_PROTOCOL.md`:
+Executado **Segmento 09** de *Flores para Algernon* conforme `docs/ANALYSIS_PROTOCOL.md`:
 
-- escopo narrativo: `RELATÓRIO DE PROGRESSO 16`, de 14 de julho até a conclusão da entrada/carta de 26 de agosto;
-- localização física: p. 136, a partir do cabeçalho do Relatório 16, até p. 155;
-- artefato criado: `books/flores-para-algernon/analysis/08.md`;
-- `analysis/SEGMENTATION.md` e `books/flores-para-algernon/STATUS.md` sincronizados;
-- segmentos analisados: **8/10**;
-- nenhum conteúdo de 1º de setembro ou posterior foi incorporado à análise do Segmento 08.
+- escopo narrativo: continuação do `RELATÓRIO DE PROGRESSO 16`, de **1º a 27 de setembro**;
+- localização física: pp. **156–168**;
+- artefato criado: `books/flores-para-algernon/analysis/09.md`;
+- `analysis/08.md`, `analysis/SEGMENTATION.md` e `books/flores-para-algernon/STATUS.md` sincronizados;
+- segmentos analisados: **9/10**;
+- fronteira final confirmada: o `RELATÓRIO DE PROGRESSO 17` começa na p. 169, em 3 de outubro;
+- nenhum conteúdo do Relatório 17 foi incorporado ao Segmento 09.
 
-Eixos consolidados: visita a Warren e concretização do possível futuro institucional de Charlie; tensão entre perda de autonomia e cuidado humano real; Winslow e crítica ao distanciamento intelectual; pesquisa consumindo o tempo relacional; reencontro com Rose e Norma; culpa e reconciliação parcial entre irmãos; repetição da cena da faca e persistência corporal do trauma; perdão como tentativa de compreender sem apagar o dano; coquetel dos Nemur e defesa da existência/personhood do Charlie pré-operatório; insuficiência da inteligência sem afeição; antigo Charlie como componente contínuo da identidade e como espelho moral; solidão; descoberta da falha; formulação do Efeito Algernon-Gordon; deterioração de Algernon convertida em modelo prognóstico; previsão de rápida deterioração de Charlie.
+Eixos consolidados: revisão externa do Efeito Algernon-Gordon; confirmação da falha em 15 de setembro; recomendação de interromper novos testes humanos; primeiros sinais percebidos de deterioração em Charlie; morte e dissecação de Algernon; enterro com flores; passagem da memória em expansão para memória ameaçada; retorno à rua Marks; reencontro com Rose e Norma; confissão e culpa de Norma; estigma familiar; repetição da faca por Rose; trauma corporal persistente; perdão/compreensão sem reparação integral; ampulheta do conhecimento; “três ratos cegos”; antigo Charlie à janela.
 
-### Mudança epistemológica sobre a falha experimental
+### Mudança epistemológica sobre a falha e Charlie
 
-Até o Segmento 07, a regressão cognitiva de Algernon era `TEXTUAL_FACT`, mas seu valor prognóstico para Charlie permanecia aberto. O Segmento 08 altera esse estado:
+A sequência de evidências agora é:
 
-- Charlie conclui seus experimentos e formaliza os resultados no relatório **“O efeito Algernon-Gordon: um estudo da estrutura e função de inteligência aumentada”**;
-- relaciona a deterioração temporal à magnitude do aumento artificial de inteligência;
-- considera seus próprios dados válidos depois de repetidas verificações;
-- infere, a partir do modelo, que sua própria deterioração mental deverá ser rápida.
+1. **Segmento 07:** Burt constata perda de respostas complexas em Algernon; regressão cognitiva do rato torna-se `TEXTUAL_FACT`.
+2. **Segmento 08:** Charlie formula o **Efeito Algernon-Gordon** e conclui, com base nos próprios dados, que sua deterioração deverá ser rápida.
+3. **Segmento 09:** especialistas externos confirmam os resultados em 15 de setembro; Charlie começa a registrar distração, perda de objetos, irritabilidade e esquecimento mais rápido; a morte e dissecação de Algernon fornecem evidência fisiológica adicional.
 
-Portanto, **a formulação científica da falha por Charlie passa a ser `TEXTUAL_FACT` dentro do Segmento 08**. Permanecem abertos o mecanismo fisiológico detalhado, a reversibilidade, a cronologia diretamente observada da regressão em Charlie e a validação independente dos cálculos.
+Portanto:
 
-### Reencontro familiar
+- a falha experimental está **confirmada independentemente dentro da narrativa**;
+- há **evidência textual de início de deterioração percebida por Charlie**;
+- permanecem abertas a velocidade exata, a extensão funcional, a evolução linguística e o desfecho da regressão, a serem observados no Segmento 10.
 
-O Segmento 08 também resolve parcialmente uma questão aberta desde os segmentos iniciais:
+### Correção factual registrada
 
-- Charlie reencontra Rose e Norma;
-- Norma admite culpa e ressentimentos associados ao estigma da infância e busca reconstruir o vínculo;
-- Charlie oferece apoio e experimenta o papel de irmão mais velho que desejava;
-- ele percebe, porém, que a aceitação atual de Norma depende em parte de sua condição presente de homem inteligente e independente;
-- Rose repete a ameaça com faca e a acusação sexual do passado, reativando o trauma;
-- o reencontro produz compreensão e algum afeto, mas **não equivale a reparação integral da família**.
+Durante a leitura do Segmento 09, a fonte demonstrou que o **reencontro presencial com Rose e Norma, a confissão de Norma e a cena da faca ocorrem na entrada de 27 de setembro**.
 
-### Correção de fronteira registrada
+Uma versão anterior de `analysis/08.md` havia deslocado esses acontecimentos para julho–agosto. A inconsistência foi corrigida:
 
-A fonte confirma que a entrada de **26 de agosto** é seguida pela entrada de **1º de setembro**; 2 de setembro é a entrada subsequente. Assim:
+- Segmento 08 permanece p. 136–155, 14 de julho–26 de agosto, terminando na formulação do Efeito Algernon-Gordon;
+- Segmento 09 permanece pp. 156–168, 1º–27 de setembro, e contém o reencontro familiar;
+- `analysis/08.md`, `analysis/09.md`, `analysis/SEGMENTATION.md` e `STATUS.md` estão sincronizados;
+- a correção foi factual/cronológica, sem alteração dos limites físicos dos segmentos.
 
-- Segmento 08 permanece p. 136–155, de 14 de julho a 26 de agosto;
-- Segmento 09 permanece pp. 156–168, mas passa a abranger **1º–27 de setembro**.
+### Fronteira 09/10 verificada
 
-A correção é apenas cronológica. Não houve mudança de paginação nem sobreposição de conteúdo.
+A fonte confirma que a entrada de **27 de setembro** encerra o `RELATÓRIO DE PROGRESSO 16`. O conteúdo seguinte é:
+
+- p. 169: `RELATÓRIO DE PROGRESSO 17`;
+- primeira entrada: **3 de outubro**.
+
+Assim, o Segmento 09 termina sem sobreposição e o Segmento 10 começa na p. 169.
 
 ## NEXT_ACTION
 
-Ler `books/flores-para-algernon/BOOK.md`, `books/flores-para-algernon/STATUS.md`, `books/flores-para-algernon/analysis/01.md` a `analysis/08.md` e `docs/ANALYSIS_PROTOCOL.md`.
+Ler `books/flores-para-algernon/BOOK.md`, `books/flores-para-algernon/STATUS.md`, `books/flores-para-algernon/analysis/01.md` a `analysis/09.md` e `docs/ANALYSIS_PROTOCOL.md`.
 
-Executar **somente o Segmento 09** de *Flores para Algernon*:
+Executar **somente o Segmento 10** de *Flores para Algernon*:
 
-- início: p. 156, entrada de **1º de setembro** do `RELATÓRIO DE PROGRESSO 16`;
-- fim narrativo: conclusão da entrada de **27 de setembro**, atualmente mapeada até p. 168;
-- criar `books/flores-para-algernon/analysis/09.md` conforme `templates/book/analysis/PART_TEMPLATE.md`;
-- usar a obra real como fonte e as análises 01–08 como memória de continuidade, registrando página + Relatório/data quando possível;
-- preservar a distinção epistemológica entre a conclusão própria de Charlie em 26 de agosto e a verificação externa que começa em 1º de setembro;
-- verificar durante a leitura a fronteira final contra o início do `RELATÓRIO DE PROGRESSO 17` na p. 169;
-- ao concluir, atualizar `analysis/SEGMENTATION.md`, `STATUS.md` e este checkpoint para 9/10 segmentos analisados;
-- **não iniciar o Segmento 10 na mesma etapa**.
+- início: p. 169, cabeçalho `RELATÓRIO DE PROGRESSO 17`, entrada de **3 de outubro**;
+- fim narrativo: conclusão da entrada de **21 de novembro**, atualmente mapeada até p. 188;
+- criar `books/flores-para-algernon/analysis/10.md` conforme `templates/book/analysis/PART_TEMPLATE.md`;
+- usar a obra real como fonte e as análises 01–09 como memória de continuidade;
+- acompanhar explicitamente a regressão formal da escrita — ortografia, sintaxe, vocabulário, extensão, abstração e organização — como `TEXTUAL_FACT` quando observável;
+- verificar durante a leitura que a narrativa realmente termina na p. 188 e que p. 189 já pertence ao material pós-narrativo;
+- ao concluir, atualizar `analysis/SEGMENTATION.md`, `STATUS.md` e este checkpoint para **10/10 segmentos analisados** e marcar `PART_ANALYSIS` como concluída;
+- definir a próxima `NEXT_ACTION` como **apenas a primeira ação pequena de `CONSOLIDATE`**, lendo antes o protocolo canônico correspondente;
+- **não iniciar consolidação, auditoria ou síntese na mesma etapa**.
 
 ## CONTINUATION_COMMAND
 
