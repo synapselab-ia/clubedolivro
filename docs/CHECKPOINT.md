@@ -52,7 +52,7 @@ O PDF integral não deve ser enviado ao GitHub enquanto o repositório permanece
 - síntese crítica interna: **concluída**
 - posição de leitor: **concluída — `CONSTRUCTED_READER_POSITION`**
 - nota construída: **9/10**
-- input pessoal do usuário: **opcional**
+- `FINALIZE`: **1/4 artefatos obrigatórios concluídos**
 - artefatos de síntese concluídos:
   - `synthesis/STRUCTURE.md`
   - `synthesis/CHARACTERS.md`
@@ -64,54 +64,20 @@ O PDF integral não deve ser enviado ao GitHub enquanto o repositório permanece
   - `synthesis/CRITICAL_ANALYSIS.md`
   - `synthesis/READER_POSITION.md`
 - artefatos finais:
-  - [ ] `final/REVIEW.md`
+  - [x] `final/REVIEW.md`
   - [ ] `final/MY_OPINION.md`
   - [ ] `final/BOOK_CLUB_BRIEF.md`
   - [ ] `final/DISCUSSION_QUESTIONS.md`
 
-## METHODOLOGY_CORRECTION
-
-A finalidade operacional do projeto foi corrigida após instrução explícita do usuário.
-
-### Objetivo correto
+## METHODOLOGY_CANON
 
 O sistema deve permitir que o usuário **discuta a obra com domínio e segurança mesmo sem ter realizado leitura integral por conta própria**.
 
-A IA é responsável por:
-
-1. ler/analisar a fonte real;
-2. produzir notas rastreáveis;
-3. consolidar e auditar interpretações;
-4. construir uma posição de leitor específica e defensável;
-5. produzir materiais de revisão rápida e discussão.
-
-### PERSONALIZE revisado
-
-Modo padrão:
+Modo padrão de `PERSONALIZE`:
 
 `CONSTRUCTED_READER_POSITION`
 
-O usuário não precisa fornecer reação pessoal para desbloquear `PERSONALIZE`.
-
-Reações reais, quando existirem, servem como calibração opcional e prevalecem sobre preferências geradas.
-
-### Limite epistemológico
-
-A posição preparada pode usar primeira pessoa, nota, elogios, críticas e preferências construídas a partir da análise. Não deve inventar:
-
-- fatos da obra;
-- citações;
-- leitura de passagem que não ocorreu;
-- memória autobiográfica como “quando eu li tal capítulo...” ou “lembro de ter sentido...”.
-
-### Arquivos globais corrigidos
-
-- `README.md`;
-- `docs/METHODOLOGY.md`;
-- `docs/PERSONAL_OPINION_PROTOCOL.md`;
-- `docs/FINAL_OUTPUT_PROTOCOL.md`;
-- `templates/book/BOOK.md`;
-- `templates/book/STATUS.md`.
+Reações reais do usuário são calibração opcional, não requisito. A posição preparada pode usar primeira pessoa, nota, elogios e críticas, mas não deve inventar fatos, citações ou memórias autobiográficas de leitura.
 
 ## READER_POSITION_CANON — FLORES PARA ALGERNON
 
@@ -134,7 +100,7 @@ A posição preparada pode usar primeira pessoa, nota, elogios, críticas e pref
 
 O miolo insiste mais do que o necessário em variações do bloqueio afetivo/sexual e em explicações de temas que a própria forma já demonstra.
 
-### Posições conversacionais preservadas
+### Salvaguardas principais
 
 - Charlie–Algernon funciona melhor que Charlie–Alice como relação central para esta posição;
 - Charlie também reproduz condescendência no auge;
@@ -143,31 +109,37 @@ O miolo insiste mais do que o necessário em variações do bloqueio afetivo/sex
 - família não é plenamente reparada;
 - colegas mudam no final sem redenção total demonstrada;
 - o final é circular sem ser reset perfeito;
-- o pedido das flores fecha a obra deslocando valor de desempenho para memória/cuidado.
+- o pedido das flores fecha a obra deslocando valor de desempenho para memória/cuidado;
+- Chicago identifica insuficiência metodológica, não prova sozinho a regressão;
+- a ciência é falível e institucionalmente criticável, não apresentada como fraude integral.
 
 ## LAST_COMPLETED_ACTION
 
-Concluída a correção metodológica global solicitada pelo usuário e, sob a metodologia revisada, **somente `PERSONALIZE`** para *Flores para Algernon*.
+Executado **somente o primeiro artefato de `FINALIZE`: `final/REVIEW.md`** para *Flores para Algernon*.
 
-- removido o bloqueio `PENDING_USER_REACTION` como requisito metodológico;
-- reação do usuário passou a ser opcional;
-- confirmado que `synthesis/READER_POSITION.md` não existia;
-- criado e verificado `synthesis/READER_POSITION.md`;
-- posição consolidada com nota 9/10, elogios, críticas, ritmo, estilo, final, argumentos, contra-argumentos, perguntas e armadilhas;
-- `PERSONALIZE` marcado como concluído;
-- estado avançado para `FINALIZE`;
-- nenhum arquivo `final/` foi criado nesta execução.
+### Execução
+
+- relidos `AGENTS.md`, este checkpoint, `BOOK.md`, `STATUS.md`, `docs/FINAL_OUTPUT_PROTOCOL.md`, `synthesis/AUDIT.md`, `synthesis/CRITICAL_ANALYSIS.md` e `synthesis/READER_POSITION.md`;
+- confirmado antes da escrita que `final/REVIEW.md` não existia;
+- criado e verificado `books/flores-para-algernon/final/REVIEW.md`;
+- a resenha contém identificação, síntese breve, tese crítica, pontos fortes, limitações, análise formal/temática e avaliação final 9/10;
+- a resenha preserva a distinção entre ciência falível e anticiência, a cadeia correta do Efeito Algernon-Gordon, Algernon como ser vivo + dado + vínculo, Warren como agência sob constrangimento e o final como circularidade sem reset;
+- nenhuma memória autobiográfica de leitura foi inventada;
+- confirmado que `final/MY_OPINION.md` ainda não existe;
+- `MY_OPINION.md`, `BOOK_CLUB_BRIEF.md` e `DISCUSSION_QUESTIONS.md` não foram criados nesta execução;
+- `FINALIZE` permanece em andamento.
 
 ## NEXT_ACTION
 
-Executar **somente o primeiro artefato de `FINALIZE`: `final/REVIEW.md`**.
+Executar **somente o segundo artefato de `FINALIZE`: `final/MY_OPINION.md`**.
 
-1. Ler `docs/FINAL_OUTPUT_PROTOCOL.md`, `books/flores-para-algernon/STATUS.md`, `synthesis/AUDIT.md`, `synthesis/CRITICAL_ANALYSIS.md` e `synthesis/READER_POSITION.md`.
-2. Confirmar antes da escrita que `books/flores-para-algernon/final/REVIEW.md` não existe.
-3. Criar somente `final/REVIEW.md` com síntese breve, tese crítica, pontos fortes, limitações, forma/temas e avaliação final coerente com a posição 9/10.
-4. Não inventar fatos, citações ou memória autobiográfica de leitura.
-5. Atualizar `STATUS.md` e este checkpoint após verificar o artefato.
-6. **Não criar `MY_OPINION.md`, `BOOK_CLUB_BRIEF.md` ou `DISCUSSION_QUESTIONS.md` na mesma execução.**
+1. Ler `docs/FINAL_OUTPUT_PROTOCOL.md`, `books/flores-para-algernon/STATUS.md`, `synthesis/AUDIT.md`, `synthesis/CRITICAL_ANALYSIS.md`, `synthesis/READER_POSITION.md` e `final/REVIEW.md`.
+2. Confirmar antes da escrita que `books/flores-para-algernon/final/MY_OPINION.md` não existe.
+3. Criar uma posição em primeira pessoa derivada de `READER_POSITION.md`, mantendo o modo `CONSTRUCTED_READER_POSITION`.
+4. Incluir avaliação geral, nota 9/10, méritos, reservas, relação/elemento mais marcante, ritmo, estilo, final e 3–7 argumentos defensáveis.
+5. Não inventar memória autobiográfica de leitura, fato ou citação.
+6. Atualizar `STATUS.md` e este checkpoint após verificar o artefato.
+7. **Não criar `BOOK_CLUB_BRIEF.md` ou `DISCUSSION_QUESTIONS.md` na mesma execução.**
 
 ## CONTINUATION_COMMAND
 
