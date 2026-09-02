@@ -41,21 +41,22 @@ O PDF integral não deve ser enviado ao GitHub enquanto o repositório permanece
 - autor: Daniel Keyes
 - edição analisada: Aleph, edição eletrônica brasileira de 2018, tradução de Luisa Geisler
 - fonte legível: PDF fornecido diretamente ao ChatGPT/File Library
-- estado: `AUDIT`
+- estado: `SYNTHESIZE`
 - ingestão: concluída
 - mapeamento: concluído
 - segmentação: concluída em 10 blocos semânticos
 - análise parcial: concluída — **10/10**
 - consolidação-base: concluída — **6/6**
-- artefatos-base concluídos:
+- auditoria adversarial: **concluída — PASS**
+- artefatos concluídos:
   - `synthesis/STRUCTURE.md`
   - `synthesis/CHARACTERS.md`
   - `synthesis/THEMES.md`
   - `synthesis/SYMBOLS.md`
   - `synthesis/KEY_PASSAGES.md`
   - `synthesis/INTERPRETATIONS.md`
-- auditoria: ainda não executada
-- próximo artefato: `synthesis/AUDIT.md`
+  - `synthesis/AUDIT.md`
+- próximo artefato: `synthesis/CRITICAL_ANALYSIS.md`
 
 ## GLOBAL_RULES
 
@@ -68,63 +69,101 @@ O PDF integral não deve ser enviado ao GitHub enquanto o repositório permanece
 
 ## LAST_COMPLETED_ACTION
 
-Executada **somente a sexta e última ação-base de `CONSOLIDATE`** para *Flores para Algernon*:
+Executada **somente a etapa `AUDIT`** para *Flores para Algernon*:
 
-- relidos `AGENTS.md`, este checkpoint, `BOOK.md`, `STATUS.md`, `docs/SYNTHESIS_PROTOCOL.md`, todos os artefatos-base existentes e `analysis/01.md` a `analysis/10.md`;
-- confirmado antes da execução que `synthesis/INTERPRETATIONS.md` não existia;
-- criado e verificado `books/flores-para-algernon/synthesis/INTERPRETATIONS.md`;
-- consolidação-base marcada como **6/6** e `CONSOLIDATE` concluído;
-- estado do livro avançado para `AUDIT` sem criar `synthesis/AUDIT.md`;
-- nenhum artefato de auditoria ou síntese crítica foi criado.
+- relidos `AGENTS.md`, `docs/AUDIT_PROTOCOL.md`, `BOOK.md`, `STATUS.md`, `analysis/01.md` a `analysis/10.md` e os seis artefatos-base de consolidação;
+- confirmado antes da execução que `synthesis/AUDIT.md` não existia;
+- criado e verificado `books/flores-para-algernon/synthesis/AUDIT.md`;
+- realizada auditoria adversarial de integridade factual, cobertura, interpretações, símbolos/temas, contradições internas, linguagem inflada e lacunas;
+- interpretações centrais classificadas como `SUPPORTED`, `SUPPORTED_WITH_CAVEATS`, `UNCERTAIN` ou `REJECTED`;
+- não foi encontrada nova correção factual importante;
+- nenhum `NEEDS_SOURCE_RECHECK` obrigatório permaneceu;
+- nenhuma pesquisa externa foi realizada;
+- auditoria encerrada com **`AUDIT: PASS`**;
+- estado do livro avançado para `SYNTHESIZE`;
+- `synthesis/CRITICAL_ANALYSIS.md` **não foi criado**.
 
-### Interpretações concorrentes registradas
+### Interpretações confirmadas
 
-Foram testadas com tese, evidência a favor, melhor evidência contrária, limitações e classificação provisória:
+`SUPPORTED`:
 
-1. **circularidade trágica** versus **transformação residual**;
-2. **inteligência como libertação** versus **nova forma de isolamento**;
-3. **ciência como falha ética/institucional** versus **ciência falível que produz conhecimento**;
-4. **Warren como perda de autonomia** versus **agência residual na escolha do cuidado**;
-5. **antigo Charlie como cisão subjetiva** versus **continuidade pessoal**;
-6. **Algernon/flores como fechamento afetivo e figurativo**, mantendo Algernon irredutível a símbolo puro;
-7. **reconciliação familiar** versus **compreensão sem reparação plena**;
-8. **redenção dos colegas da padaria** versus **pertencimento transformado sem apagamento do abuso**.
+- capacidade cognitiva não é medida suficiente de valor humano;
+- Relatórios de Progresso funcionam como forma narrativa que participa diretamente do argumento;
+- continuidade pessoal explica melhor a obra que dois Charlies literalmente separados;
+- a obra critica falibilidade, poder e práticas do projeto sem se tornar anticientífica;
+- Algernon deve permanecer personagem/ser vivo, série empírica e paralelo estrutural simultaneamente;
+- o reencontro familiar produz compreensão/reaproximação parcial, não reparação plena;
+- a padaria final registra pertencimento transformado e mudança relacional sem apagar o abuso anterior;
+- labirinto, janela e flores possuem suporte simbólico forte.
 
-### Sínteses provisórias de maior escala
+### Interpretações delimitadas
 
-Também foram registradas, ainda sujeitas à auditoria:
+`SUPPORTED_WITH_CAVEATS`:
 
+- circularidade formal trágica + transformação residual;
+- inteligência como nova forma de isolamento;
+- avaliação ética do experimento;
+- Warren como perda de autonomia e como escolha residual de cuidado;
+- antigo Charlie como cisão subjetiva;
+- persistência moral/afetiva durante a regressão;
 - tragédia do conhecimento e do limite;
-- valor humano não redutível à capacidade cognitiva;
 - autonomia distinta de independência absoluta;
-- Relatórios de Progresso como forma que participa diretamente do argumento do romance.
+- gaiola, espelho, portas, luz/escuridão e recompensa como motivos/símbolos de alcance delimitado.
 
-### Salvaguardas preservadas
+### Leituras rejeitadas como tese final
 
-- nenhuma interpretação provisória foi convertida em tese final;
-- a correção cronológica Rose/Norma permanece em 27 de setembro / Segmento 09;
-- a cadeia científica permanece: sinais em Algernon → regressão observável → Efeito Algernon-Gordon → validação externa → regressão de Charlie;
-- Algernon continua personagem/ser vivo/série empírica e paralelo estrutural, não símbolo puro;
+`REJECTED`:
+
+- reset perfeito;
+- inteligência como mal em si;
+- ciência como fraude/inimiga da humanidade;
+- pesquisadores já sabiam a forma específica da regressão;
+- antigo Charlie como pessoa literalmente separada;
+- Algernon como mero símbolo;
+- Warren como simples prisão/gaiola humana;
+- reparação familiar plena;
+- redenção/absolvição total dos colegas da padaria;
+- compaixão por Klaus como prova de preservação integral da maturação moral;
+- epígrafe de Platão como chave totalizante;
+- promoção de hipóteses locais frágeis a símbolos centrais.
+
+### Elementos subponderados identificados
+
+A síntese crítica deverá incorporar com mais nitidez:
+
+- documentação, privacidade, autoria e controle dos registros;
+- capacidade de Charlie reproduzir condescendência;
+- cuidado como rede de relações, não apenas Warren versus autonomia;
+- distinção entre persistência interna e efeitos externos da trajetória;
+- coexistência da função empírica e afetiva de Algernon;
+- imprensa como repetição secundária da lógica de objetificação/espetáculo;
+- Guarino como contraste entre validade científica e trato humano, sem idealização.
+
+### Salvaguardas canônicas preservadas
+
+- Rose/Norma permanecem em **27 de setembro / Segmento 09**;
+- a cadeia científica permanece: sinais em Algernon → regressão observável → Efeito Algernon-Gordon → validação externa → regressão de Charlie → documentação formal do declínio;
+- Chicago elimina a segurança da permanência, mas não prova sozinho a regressão;
+- Algernon não foi reduzido a símbolo;
 - Warren não foi reduzido a simples gaiola;
 - o antigo Charlie não foi tratado como pessoa literalmente separada;
-- hipóteses simbólicas frágeis continuam rebaixadas;
+- a regressão final foi classificada como aproximação/circularidade forte, não reset perfeito;
+- hipóteses simbólicas frágeis permanecem rebaixadas;
 - não houve pesquisa externa.
 
 ## NEXT_ACTION
 
-Ler `docs/AUDIT_PROTOCOL.md`, `books/flores-para-algernon/STATUS.md`, `BOOK.md`, `analysis/01.md` a `analysis/10.md` e os seis artefatos-base em `synthesis/`.
+Executar **somente a etapa `SYNTHESIZE` correspondente a `synthesis/CRITICAL_ANALYSIS.md`**:
 
-Executar **somente `AUDIT`**:
-
-- confirmar que `books/flores-para-algernon/synthesis/AUDIT.md` ainda não existe;
-- realizar auditoria adversarial de fatos, cobertura, interpretações, símbolos/temas, contradições internas, linguagem inflada e lacunas;
-- classificar interpretações como `SUPPORTED`, `SUPPORTED_WITH_CAVEATS`, `UNCERTAIN` ou `REJECTED`;
-- criar `synthesis/AUDIT.md` com as seções obrigatórias do protocolo: `FACTUAL_CORRECTIONS`, `INTERPRETATIONS_CONFIRMED`, `INTERPRETATIONS_DOWNGRADED`, `INTERPRETATIONS_REJECTED`, `MISSING_OR_UNDERWEIGHTED_ELEMENTS`, `NEEDS_SOURCE_RECHECK` e `FINAL_CONFIDENCE_NOTES`;
-- retornar à fonte original somente se uma conclusão relevante realmente exigir conferência; não preencher lacunas por memória;
-- usar somente leitura interna; não iniciar pesquisa externa;
-- ao terminar, atualizar `STATUS.md` e este checkpoint de acordo com o resultado;
-- **não criar `CRITICAL_ANALYSIS.md` na mesma execução**;
-- **não iniciar `SYNTHESIZE`, `PERSONALIZE` ou `FINALIZE`**.
+1. Ler `docs/SYNTHESIS_PROTOCOL.md`, `books/flores-para-algernon/STATUS.md`, `BOOK.md`, `analysis/01.md` a `analysis/10.md`, os seis artefatos-base e `synthesis/AUDIT.md`.
+2. Confirmar antes da escrita que `books/flores-para-algernon/synthesis/CRITICAL_ANALYSIS.md` ainda não existe.
+3. Criar **somente** `synthesis/CRITICAL_ANALYSIS.md`.
+4. Incorporar obrigatoriamente correções, classificações, limites e elementos subponderados de `AUDIT.md`.
+5. Responder às questões de `docs/SYNTHESIS_PROTOCOL.md`: função global da obra, conflitos, arcos, temas fortes, forma/ponto de vista, ambiguidades, interpretações rivais, eficácia, limitações defensáveis e questões de discussão.
+6. Não converter hipótese rejeitada em tese nem reelevar símbolos rebaixados.
+7. Não iniciar pesquisa externa nesta etapa.
+8. Depois de criar e verificar `CRITICAL_ANALYSIS.md`, atualizar `STATUS.md` e este checkpoint.
+9. **Não iniciar `PERSONALIZE` ou `FINALIZE` na mesma execução.**
 
 ## CONTINUATION_COMMAND
 
