@@ -1,0 +1,38 @@
+# BOOK — {{TITLE}}
+
+## IDENTIFICATION
+
+- `TITLE`: {{TITLE}}
+- `AUTHOR`: {{AUTHOR}}
+- `ORIGINAL_TITLE`: {{ORIGINAL_TITLE_OR_UNKNOWN}}
+- `LANGUAGE_ANALYZED`: {{LANGUAGE}}
+- `EDITION`: {{EDITION_OR_UNKNOWN}}
+- `TRANSLATOR`: {{TRANSLATOR_OR_NA}}
+- `PUBLISHER`: {{PUBLISHER_OR_UNKNOWN}}
+- `FORMAT`: {{PDF_EPUB_TEXT_OTHER}}
+- `TOTAL_PAGES_OR_LOCATIONS`: {{VALUE_OR_UNKNOWN}}
+
+## SOURCE
+
+- `STORAGE_SOURCE`: {{WHERE_THE_FILE_IS_STORED}}
+- `READABLE_SOURCE`: {{HOW_THE_AI_ACCESSED_THE_TEXT}}
+- `SOURCE_VERIFIED`: NO
+
+## ANALYSIS_CONFIGURATION
+
+- `TARGET_SEGMENTS`: 10
+- `SEGMENTATION_MODE`: SEMANTIC
+- `EXTERNAL_RESEARCH`: AFTER_INTERNAL_AUDIT
+- `PERSONAL_OPINION_STATUS`: NOT_COLLECTED
+
+## STRUCTURE_NOTES
+
+Preencher após o mapeamento inicial da obra.
+
+## EDITION_NOTES
+
+Registrar particularidades de tradução, paginação ou edição que afetem referências.
+
+## SOURCE_WARNINGS
+
+Registrar páginas ausentes, OCR ruim, capítulos incompletos ou qualquer limitação da fonte.
