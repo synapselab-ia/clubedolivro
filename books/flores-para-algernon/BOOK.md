@@ -26,11 +26,11 @@
 - `EXTERNAL_RESEARCH`: AFTER_INTERNAL_AUDIT
 - `READER_POSITION_MODE`: CONSTRUCTED_BY_DEFAULT
 - `USER_REACTION_INPUT`: OPTIONAL
-- `READER_POSITION_STATUS`: READY_TO_BUILD
+- `READER_POSITION_STATUS`: COMPLETE
 
 ## PERSONALIZATION_NOTE
 
-O usuário não precisa ter realizado leitura integral da obra para concluir `PERSONALIZE`. A posição de leitor deve ser construída a partir da análise auditada em `synthesis/AUDIT.md` e `synthesis/CRITICAL_ANALYSIS.md`.
+O usuário não precisa ter realizado leitura integral da obra para concluir `PERSONALIZE`. A posição de leitor foi construída a partir da análise auditada em `synthesis/AUDIT.md` e `synthesis/CRITICAL_ANALYSIS.md` e está registrada em `synthesis/READER_POSITION.md`.
 
 Reações reais do usuário, quando existirem, funcionam como calibração opcional e têm prioridade sobre preferências geradas. Não inventar memórias autobiográficas de leitura nem afirmar que o usuário leu trecho específico.
 
