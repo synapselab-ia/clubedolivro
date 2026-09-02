@@ -45,7 +45,7 @@ O PDF integral não deve ser enviado ao GitHub enquanto o repositório permanece
 - ingestão: concluída
 - mapeamento: concluído
 - segmentação: concluída em 10 blocos semânticos
-- segmentos analisados: 1/10
+- segmentos analisados: 2/10
 
 ## GLOBAL_RULES
 
@@ -58,29 +58,31 @@ O PDF integral não deve ser enviado ao GitHub enquanto o repositório permanece
 
 ## LAST_COMPLETED_ACTION
 
-Executado **Segmento 01** de *Flores para Algernon* conforme `docs/ANALYSIS_PROTOCOL.md`:
+Executado **Segmento 02** de *Flores para Algernon* conforme `docs/ANALYSIS_PROTOCOL.md`:
 
-- escopo: pp. 7–24 do PDF;
-- período narrativo: 3 a 29 de março;
-- artefato criado: `books/flores-para-algernon/analysis/01.md`;
-- análise preserva fatos, personagens, arcos, temas, motivos, passagens-chave, níveis de confiança e questões abertas;
+- escopo narrativo: 30 de março até a conclusão da entrada de 18 de abril;
+- localização física: pp. 25–40, encerrando antes de `RELATÓRIO DE PROGRESSO 10` na p. 40;
+- artefato criado: `books/flores-para-algernon/analysis/02.md`;
 - `books/flores-para-algernon/STATUS.md` sincronizado;
-- nenhum conteúdo do Segmento 02 foi analisado nesta etapa.
+- nenhum conteúdo do Relatório 10 foi analisado nesta etapa.
 
-Eixos iniciais rastreados: inteligência como promessa de pertencimento, escrita como medidor do experimento, ironia dramática nas relações da padaria, paralelismo Charlie–Algernon, recuperação de memória, assimetria de poder científico e primeiros sinais de autonomia cognitiva.
+Eixos consolidados neste segmento: aceleração da escrita e leitura, linguagem como arquivo de identidade, promoção profissional, perda da inocência social, descoberta consciente da crueldade de Joe e Frank, memória autobiográfica reinterpretada, descompasso entre cognição e maturidade emocional, questionamento do Q.I. e da autoridade científica, Rorschach como espelho estrutural e emergência de preocupação com privacidade.
+
+### Correção de paginação registrada
+
+Durante a leitura da fonte foi verificado que a **p. 40 contém a conclusão da entrada de 18 de abril e, em seguida, o início do Relatório 10 (21 de abril)**. `analysis/SEGMENTATION.md` foi corrigido sem modificar o limite narrativo: Segmento 02 termina antes do Relatório 10 e Segmento 03 começa no cabeçalho do Relatório 10, ambos localizados fisicamente na p. 40.
 
 ## NEXT_ACTION
 
-Ler `books/flores-para-algernon/BOOK.md`, `books/flores-para-algernon/STATUS.md`, `books/flores-para-algernon/analysis/01.md` e `docs/ANALYSIS_PROTOCOL.md`.
+Ler `books/flores-para-algernon/BOOK.md`, `books/flores-para-algernon/STATUS.md`, `books/flores-para-algernon/analysis/01.md`, `books/flores-para-algernon/analysis/02.md` e `docs/ANALYSIS_PROTOCOL.md`.
 
-Executar **somente o Segmento 02** de *Flores para Algernon*:
+Executar **somente o Segmento 03** de *Flores para Algernon*:
 
-- escopo: pp. 25–39 do PDF;
-- início: entrada de 30 de março no `Relatório de Progresso 8`;
-- fim: conclusão do novo teste de Rorschach em 18 de abril;
-- criar `books/flores-para-algernon/analysis/02.md` conforme `templates/book/analysis/PART_TEMPLATE.md`;
-- usar a obra real como fonte e `analysis/01.md` como memória de continuidade, registrando página + Relatório/data quando possível;
-- ao concluir, atualizar `STATUS.md` e este checkpoint para 2/10 segmentos analisados, sem iniciar o Segmento 03 na mesma etapa.
+- início: p. 40, cabeçalho `RELATÓRIO DE PROGRESSO 10`, entrada de 21 de abril;
+- fim: p. 60, conclusão da entrada de 10 de maio no Relatório 11;
+- criar `books/flores-para-algernon/analysis/03.md` conforme `templates/book/analysis/PART_TEMPLATE.md`;
+- usar a obra real como fonte e as análises 01–02 como memória de continuidade, registrando página + Relatório/data quando possível;
+- ao concluir, atualizar `STATUS.md` e este checkpoint para 3/10 segmentos analisados, sem iniciar o Segmento 04 na mesma etapa.
 
 ## CONTINUATION_COMMAND
 
