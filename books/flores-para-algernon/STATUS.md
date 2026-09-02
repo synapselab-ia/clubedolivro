@@ -2,7 +2,7 @@
 
 ## STATE
 
-`PERSONALIZE`
+`FINALIZE`
 
 ## PROGRESS
 
@@ -13,7 +13,7 @@
 - [x] CONSOLIDATE
 - [x] AUDIT
 - [x] SYNTHESIZE
-- [ ] PERSONALIZE
+- [x] PERSONALIZE
 - [ ] FINALIZE
 - [ ] COMPLETE
 
@@ -40,6 +40,7 @@
 - [x] `synthesis/INTERPRETATIONS.md`
 - [x] `synthesis/AUDIT.md`
 - [x] `synthesis/CRITICAL_ANALYSIS.md`
+- [x] `synthesis/READER_POSITION.md`
 
 ## PIPELINE_STATUS
 
@@ -47,25 +48,44 @@
 - consolidação-base: **6/6 concluída**
 - auditoria adversarial: **PASS**
 - síntese crítica interna: **concluída**
-- opinião pessoal do usuário: **`PENDING_USER_REACTION`**
-- estágio atual: `PERSONALIZE`
-- bloqueio atual: faltam reações pessoais suficientes do usuário para consolidação sem invenção
+- posição de leitor: **concluída — `CONSTRUCTED_READER_POSITION`**
+- input pessoal do usuário: **opcional, não bloqueante**
+- próximo estágio: `FINALIZE`
 
-## PERSONALIZATION_STATUS
+## READER_POSITION_CANON
 
-`PENDING_USER_REACTION`
+A posição canônica para os materiais finais está em `synthesis/READER_POSITION.md`.
 
-A busca no contexto disponível e no repositório não encontrou reações pessoais suficientes do usuário especificamente sobre *Flores para Algernon*.
+### Avaliação geral
 
-Para concluir `PERSONALIZE`, coletar respostas curtas sobre pelo menos:
+- nota construída: **9/10**;
+- avaliação: livro excelente, especialmente pela integração entre forma e conteúdo, pelo arco Charlie–Algernon e pelo final;
+- principal reserva: repetição no miolo do conflito afetivo/sexual e de algumas explicações temáticas que poderiam ser mais implícitas.
 
-1. impressão geral — gostou ou não e por quê;
-2. personagem, relação ou elemento que mais funcionou ou mais irritou;
-3. ritmo e/ou estilo;
-4. se o final funcionou e por quê;
-5. nota aproximada.
+### Posições principais
 
-Respostas informais são suficientes. Não inventar sentimentos, preferências, críticas ou nota.
+- a inteligência é ganho real de capacidade, não mal em si;
+- o tema mais forte é a separação entre capacidade cognitiva e valor humano;
+- pertencimento é um eixo tão importante quanto inteligência;
+- Charlie–Algernon é a relação mais forte da obra, acima do romance Charlie–Alice para esta posição;
+- Charlie também reproduz condescendência no auge e não é vítima moralmente imune;
+- a obra critica poder/objetificação científica sem ser anticientífica;
+- Warren representa cuidado + perda de independência + agência residual sob constrangimento;
+- família alcança compreensão parcial, não reparação;
+- padaria final demonstra mudança real sem apagar abuso anterior;
+- o final é circular, mas não um reset perfeito;
+- o pedido das flores desloca valor de desempenho para memória/cuidado.
+
+### Uso conversacional
+
+`READER_POSITION.md` contém:
+
+- versão de 30 segundos;
+- versão mais crítica;
+- argumentos defensáveis;
+- respostas a discordâncias previsíveis;
+- perguntas para devolver ao grupo;
+- armadilhas factuais e interpretativas.
 
 ## FINAL_ARTIFACTS
 
@@ -73,43 +93,6 @@ Respostas informais são suficientes. Não inventar sentimentos, preferências, 
 - [ ] `final/MY_OPINION.md`
 - [ ] `final/BOOK_CLUB_BRIEF.md`
 - [ ] `final/DISCUSSION_QUESTIONS.md`
-
-## CRITICAL_ANALYSIS_CANON
-
-A análise crítica global está consolidada em `synthesis/CRITICAL_ANALYSIS.md` e deve ser a referência interpretativa principal nas etapas posteriores, sempre em conjunto com `synthesis/AUDIT.md`.
-
-### Tese crítica principal
-
-`SUPPORTED` — A obra usa mudanças extremas de capacidade cognitiva para testar o que acontece com **dignidade, pertencimento, autonomia, identidade e cuidado** quando a sociedade altera radicalmente a forma de classificar Charlie. A inteligência produz ganhos reais, mas não constitui medida suficiente de valor humano, maturidade, afeto ou direito à dignidade.
-
-### Forma e estrutura
-
-- os Relatórios de Progresso são simultaneamente narrativa, documento experimental, arquivo autobiográfico e disputa de autoria;
-- a posição epistemológica do leitor muda com Charlie: no início o leitor percebe mais que o narrador; no auge acompanha um narrador de repertório extraordinário; na regressão volta a perceber perdas que Charlie já não consegue organizar plenamente;
-- existe circularidade formal forte, mas não reset humano perfeito;
-- retornos a padaria, sala de Alice, linguagem simples e amuletos são recontextualizados pelo percurso intermediário.
-
-### Conflitos organizadores
-
-- capacidade cognitiva versus valor humano;
-- pertencimento versus posição social;
-- autonomia versus cuidado;
-- ciência como conhecimento versus ciência como instituição de poder;
-- memória/continuidade versus mudança radical;
-- compreensão intelectual versus experiência emocional e corporal;
-- conhecimento, tempo e mortalidade.
-
-### Elementos que não podem ser apagados em etapas posteriores
-
-- Charlie também reproduz condescendência durante o auge; não tratá-lo como vítima moralmente imune;
-- Algernon permanece simultaneamente ser vivo/personagem, série empírica e paralelo estrutural;
-- documentação, privacidade, autoria e controle dos registros são eixo transversal;
-- cuidado funciona como rede: Alice, Strauss, Fay, sra. Mooney, Donner, colegas e Warren;
-- persistência interna em Charlie deve ser distinguida dos efeitos externos de sua trajetória;
-- família alcança compreensão/reaproximação parcial, não reparação;
-- a padaria final demonstra mudança relacional/comportamental, não redenção total;
-- Warren envolve perda de independência e agência residual sob constrangimento;
-- ciência falível, crítica ética/institucional e produção real de conhecimento coexistem.
 
 ## POST_AUDIT_AND_SYNTHESIS_SAFEGUARDS
 
@@ -126,7 +109,8 @@ Etapas futuras não devem:
 - chamar a defesa final de Joe/Frank/Gimpy de redenção total sem ressalva;
 - usar a compaixão por Klaus como prova de preservação integral da personalidade moral;
 - elevar epígrafe de Platão, ampulheta, sombra, “três ratos cegos”, medalhão/objetos brilhantes ou reflexo de Algernon a chave central;
-- confundir circularidade formal com retorno exato ao ponto inicial.
+- confundir circularidade formal com retorno exato ao ponto inicial;
+- inventar memória autobiográfica de leitura para o usuário.
 
 ## SOURCE_ISSUES
 
@@ -144,27 +128,34 @@ Etapas futuras não devem:
 
 ## LAST_COMPLETED_ACTION
 
-Executada **somente a verificação/coleta inicial do estágio `PERSONALIZE`**.
+Concluída a correção metodológica solicitada pelo usuário e, sob a nova metodologia, **somente a etapa `PERSONALIZE`**.
 
-### Execução
+### Correção global
 
-- relidos `AGENTS.md`, `docs/CHECKPOINT.md`, `docs/PERSONAL_OPINION_PROTOCOL.md`, `BOOK.md`, este `STATUS.md`, `synthesis/AUDIT.md` e `synthesis/CRITICAL_ANALYSIS.md`;
-- verificado o repositório em busca de reação/opinião pessoal já registrada;
-- verificado o contexto recuperável do usuário especificamente para reações a *Flores para Algernon*;
-- não foi encontrada reação suficiente para formular opinião pessoal sem invenção;
-- estágio marcado operacionalmente como **`PENDING_USER_REACTION`**;
-- nenhum artefato `final/` foi criado;
-- `PERSONALIZE` permanece incompleto;
+- `docs/METHODOLOGY.md` passou a declarar que o objetivo é preparar o usuário para discutir a obra com domínio mesmo sem leitura integral própria;
+- `docs/PERSONAL_OPINION_PROTOCOL.md` passou a usar `CONSTRUCTED_READER_POSITION` como modo padrão;
+- reação pessoal do usuário tornou-se calibração opcional, não pré-requisito;
+- `docs/FINAL_OUTPUT_PROTOCOL.md` passou a derivar `MY_OPINION.md` de `synthesis/READER_POSITION.md`;
+- `README.md` e templates de novos livros foram corrigidos para o mesmo modelo;
+- memórias autobiográficas de leitura continuam proibidas quando não fornecidas pelo usuário.
+
+### Execução para este livro
+
+- confirmado que `synthesis/READER_POSITION.md` não existia;
+- criado e verificado `synthesis/READER_POSITION.md`;
+- posição construída com nota 9/10, elogios, reservas, ritmo, estilo, final, relações centrais, argumentos, contra-argumentos, perguntas e armadilhas;
+- `PERSONALIZE` concluído sem exigir reação do usuário;
+- nenhum artefato `final/` foi criado nesta execução;
 - `FINALIZE` não foi iniciado.
 
 ## NEXT_ACTION
 
-Continuar **somente `PERSONALIZE`** após receber reação real do usuário.
+Executar **somente o primeiro artefato de `FINALIZE`: `final/REVIEW.md`**.
 
-1. Coletar/usar respostas do usuário sobre: impressão geral, personagem/relação/elemento que mais funcionou ou irritou, ritmo/estilo, final e nota aproximada.
-2. Registrar as reações sem alterar o sentido.
-3. Relacioná-las a elementos concretos da obra usando `synthesis/AUDIT.md` e `synthesis/CRITICAL_ANALYSIS.md` como limites factuais/interpretativos.
-4. Distinguir gosto pessoal de avaliação técnica.
-5. Consolidar a posição pessoal do usuário somente quando houver material suficiente.
-6. Atualizar este `STATUS.md` e `docs/CHECKPOINT.md`.
-7. Não criar ainda os artefatos finais e **não iniciar `FINALIZE` na mesma execução**.
+1. Ler `docs/FINAL_OUTPUT_PROTOCOL.md`, `synthesis/AUDIT.md`, `synthesis/CRITICAL_ANALYSIS.md` e `synthesis/READER_POSITION.md`.
+2. Confirmar que `final/REVIEW.md` não existe.
+3. Criar uma resenha crítica específica da obra, com síntese breve, tese central, pontos fortes, limitações, temas/formas relevantes e avaliação final.
+4. A resenha deve ser coerente com a posição 9/10, mas permanecer uma resenha crítica — não confundir com `MY_OPINION.md`.
+5. Não inventar memória de leitura, citação ou fato não auditado.
+6. Atualizar este `STATUS.md` e `docs/CHECKPOINT.md` depois da criação/verificação.
+7. **Não criar ainda os outros três artefatos finais na mesma execução.**
