@@ -2,7 +2,7 @@
 
 ## STATE
 
-`FINALIZE`
+`COMPLETE`
 
 ## PROGRESS
 
@@ -15,7 +15,7 @@
 - [x] SYNTHESIZE
 - [x] PERSONALIZE
 - [x] FINALIZE
-- [ ] COMPLETE
+- [x] COMPLETE
 
 ## SEGMENTS
 
@@ -49,85 +49,47 @@
 - [x] `final/BOOK_CLUB_BRIEF.md`
 - [x] `final/DISCUSSION_QUESTIONS.md`
 
-## PIPELINE_STATUS
+## FINAL_POSITION
 
-- análise parcial: **10/10 concluída**
-- consolidação-base: **6/6 concluída**
-- auditoria adversarial: **PASS**
-- síntese crítica interna: **concluída**
-- posição de leitor: **concluída — `CONSTRUCTED_READER_POSITION`**
-- `FINALIZE`: **4/4 artefatos obrigatórios concluídos**
-- `COMPLETE`: **pendente de auditoria final de encerramento**
+- modo: `CONSTRUCTED_READER_POSITION`
+- nota construída: **9/10**
+- maior mérito técnico: os Relatórios de Progresso incorporam ascensão e regressão na própria linguagem
+- relação mais forte: **Charlie–Algernon**
+- principal reserva: repetição no miolo do eixo trauma/sexualidade e algum excesso explicativo
+- leitura do final: **circularidade sem reset perfeito**
 
-## READER_POSITION_CANON
+## FINAL_AUDIT
 
-A posição canônica para os materiais finais está em `synthesis/READER_POSITION.md`.
+`FINAL_AUDIT: PASS`
 
-- nota construída: **9/10**;
-- maior mérito técnico: Relatórios de Progresso incorporam ascensão e regressão na própria linguagem;
-- relação mais forte: **Charlie–Algernon**;
-- principal reserva: repetição no miolo do eixo trauma/sexualidade e excesso explicativo em alguns trechos;
-- final: **circularidade sem reset perfeito**.
+Checklist aplicado conforme `docs/FINAL_OUTPUT_PROTOCOL.md`:
 
-### Posições principais
+- [x] os materiais finais não contradizem `synthesis/AUDIT.md`;
+- [x] fatos e interpretações permanecem distinguidos adequadamente;
+- [x] `final/MY_OPINION.md` deriva de `synthesis/READER_POSITION.md`;
+- [x] a posição preparada é específica, coerente e defensável;
+- [x] nenhuma memória autobiográfica de leitura foi inventada;
+- [x] afirmações específicas relevantes têm suporte nas notas e sínteses;
+- [x] não há citações extensas desnecessárias da obra;
+- [x] `final/BOOK_CLUB_BRIEF.md` é utilizável como revisão rápida antes/durante reunião;
+- [x] `final/BOOK_CLUB_BRIEF.md` contém armadilhas factuais e respostas a discordâncias;
+- [x] os quatro artefatos finais obrigatórios existem no estado real do repositório;
+- [x] este `STATUS.md` reflete os arquivos realmente existentes.
+
+### Salvaguardas confirmadas na auditoria final
+
+Os materiais finais preservam as formulações canônicas de que:
 
 - inteligência é ganho real de capacidade, não mal em si;
-- capacidade cognitiva não é medida suficiente de valor humano;
-- pertencimento depende de reciprocidade e reconhecimento;
-- Charlie também reproduz condescendência durante o auge;
-- a obra critica poder e objetificação científica sem ser anticientífica;
-- Algernon permanece ser vivo, dado científico, paralelo estrutural e vínculo afetivo;
+- a obra critica poder/objetificação científica sem ser anticientífica;
+- Chicago identifica insuficiência metodológica, não prova a regressão;
+- o Efeito Algernon-Gordon é formulado por Charlie posteriormente e validado externamente;
+- Algernon não é reduzido a símbolo;
+- antigo e novo Charlie não são tratados como pessoas literalmente separadas;
 - Warren combina cuidado, perda de independência e agência sob constrangimento;
 - família alcança compreensão parcial, não reparação plena;
-- padaria final mostra mudança relacional, não redenção total;
-- documentação, privacidade e autoria são eixo transversal importante.
-
-## FINALIZE_PROGRESS
-
-### `final/REVIEW.md`
-
-**COMPLETE** — resenha crítica analítica, coerente com a avaliação 9/10 e com a auditoria.
-
-### `final/MY_OPINION.md`
-
-**COMPLETE** — posição em primeira pessoa no modo `CONSTRUCTED_READER_POSITION`, sem memória autobiográfica inventada.
-
-### `final/BOOK_CLUB_BRIEF.md`
-
-**COMPLETE** — revisão rápida para antes/durante a reunião, com resumo, personagens, temas, cronologia, posição, argumentos, respostas a discordâncias e armadilhas.
-
-### `final/DISCUSSION_QUESTIONS.md`
-
-**COMPLETE** — 30 perguntas abertas organizadas por eixos, com notas de facilitação, tensões possíveis, combinações para diferentes rumos de reunião e seleção final de cinco perguntas prioritárias.
-
-Cobertura explícita:
-
-- dignidade/capacidade;
-- pertencimento;
-- ciência/poder;
-- Charlie–Algernon;
-- autonomia/cuidado;
-- identidade/memória;
-- família/padaria;
-- forma/linguagem;
-- final.
-
-## POST_AUDIT_AND_SYNTHESIS_SAFEGUARDS
-
-Etapas futuras não devem:
-
-- tratar inteligência como mal em si;
-- tratar ciência como fraude/inimiga da humanidade;
-- dizer que os pesquisadores já conheciam o Efeito Algernon-Gordon antes de Charlie;
-- dizer que Chicago já prova a regressão;
-- tratar antigo e novo Charlie como pessoas literalmente separadas;
-- reduzir Algernon a símbolo;
-- transformar Warren em simples gaiola/prisão humana;
-- afirmar reparação familiar plena;
-- chamar a defesa final de Joe/Frank/Gimpy de redenção total sem ressalva;
-- usar a compaixão por Klaus como prova de preservação integral da personalidade moral;
-- confundir circularidade formal com retorno exato ao ponto inicial;
-- inventar memória autobiográfica de leitura para o usuário.
+- a mudança dos colegas da padaria não é tratada como redenção total;
+- a regressão final não é tratada como retorno humano perfeitamente idêntico ao começo.
 
 ## SOURCE_ISSUES
 
@@ -141,35 +103,21 @@ Etapas futuras não devem:
 - Segmento 08 termina em 26 de agosto e Segmento 09 começa em **1º de setembro**.
 - Reencontro com Rose/Norma, confissão de Norma e cena da faca: **27 de setembro / Segmento 09**.
 - Relatório 17 começa em **3 de outubro, p. 169**.
-- narrativa termina na **p. 188, 21 de novembro**; p. 189 inicia `Sobre o autor`.
+- A narrativa termina na **p. 188, 21 de novembro**; p. 189 inicia `Sobre o autor`.
 
 ## LAST_COMPLETED_ACTION
 
-Executado **somente o quarto artefato de `FINALIZE`: `final/DISCUSSION_QUESTIONS.md`**.
+Executada **somente a etapa `COMPLETE`** como auditoria final de encerramento.
 
-### Execução
-
-- relidos `AGENTS.md`, `docs/CHECKPOINT.md`, `BOOK.md`, este `STATUS.md`, `docs/FINAL_OUTPUT_PROTOCOL.md`, `synthesis/AUDIT.md`, `synthesis/CRITICAL_ANALYSIS.md`, `synthesis/READER_POSITION.md` e `final/BOOK_CLUB_BRIEF.md`;
-- confirmado antes da escrita que `final/DISCUSSION_QUESTIONS.md` não existia;
-- criado e verificado `books/flores-para-algernon/final/DISCUSSION_QUESTIONS.md`;
-- perguntas construídas para gerar interpretações rivais sustentáveis por evidência textual, sem gabarito escolar;
-- incluídas notas de facilitação sem impor resposta correta;
-- preservadas todas as salvaguardas auditadas;
-- `FINALIZE` concluído — **4/4**;
-- `COMPLETE` não foi executado nesta execução.
+- verificada a existência real dos quatro artefatos finais;
+- aplicado integralmente o checklist de `docs/FINAL_OUTPUT_PROTOCOL.md`;
+- conferidos os materiais contra `synthesis/AUDIT.md`, `synthesis/CRITICAL_ANALYSIS.md` e `synthesis/READER_POSITION.md`;
+- nenhuma inconsistência bloqueante foi encontrada;
+- `FINAL_AUDIT: PASS`;
+- livro encerrado como `COMPLETE`.
 
 ## NEXT_ACTION
 
-Executar **somente `COMPLETE`**, como auditoria final de encerramento.
+Nenhuma ação adicional para este livro.
 
-1. Ler `docs/FINAL_OUTPUT_PROTOCOL.md`, este `STATUS.md`, `docs/CHECKPOINT.md` e os quatro artefatos finais.
-2. Verificar no estado real do repositório que existem:
-   - `final/REVIEW.md`;
-   - `final/MY_OPINION.md`;
-   - `final/BOOK_CLUB_BRIEF.md`;
-   - `final/DISCUSSION_QUESTIONS.md`.
-3. Aplicar o checklist final de qualidade de `docs/FINAL_OUTPUT_PROTOCOL.md`.
-4. Conferir coerência dos materiais finais com `synthesis/AUDIT.md`, `synthesis/CRITICAL_ANALYSIS.md` e `synthesis/READER_POSITION.md`.
-5. Se houver inconsistência bloqueante, corrigir somente o necessário e permanecer fora de `COMPLETE` até verificar novamente.
-6. Se tudo passar, marcar este livro como `COMPLETE` e atualizar `docs/CHECKPOINT.md` para refletir o encerramento do livro.
-7. Definir a próxima ação global sem iniciar a análise de uma nova obra automaticamente.
+Não reabrir etapas concluídas sem instrução explícita do usuário ou evidência concreta de inconsistência. O projeto global deve aguardar a indicação/fonte de uma nova obra.
