@@ -26,8 +26,8 @@
 - [x] 05 — p. 84, a partir do Relatório 13, até p. 102 — 10 a 13 de junho: Chicago, objetificação científica, revelações sobre Algernon, falha metodológica e ruptura com o projeto
 - [x] 06 — pp. 103–116 — Relatório 14, 15 a 20 de junho: fuga transformada em autonomia, vida privada com Algernon, entrada de Fay e reencontro fracassado com Matt
 - [x] 07 — pp. 117–136, até antes do Relatório 16 — 21 de junho a 12 de julho: integração do antigo Charlie, Fay, missão ética, agravamento de Algernon e retorno ao laboratório sob autonomia científica
-- [x] 08 — p. 136, a partir do Relatório 16, até p. 155 — 14 de julho a 26 de agosto: Warren, reencontro com Rose e Norma, relações pessoais, investigação intensiva e formulação do Efeito Algernon-Gordon
-- [ ] 09 — pp. 156–168 — 1º a 27 de setembro: verificação da falha, primeiros sinais de regressão e novos confrontos
+- [x] 08 — p. 136, a partir do Relatório 16, até p. 155 — 14 de julho a 26 de agosto: Warren, pesquisa intensiva, crise de identidade/isolamento e formulação do Efeito Algernon-Gordon
+- [x] 09 — pp. 156–168 — 1º a 27 de setembro: validação externa da falha, primeiros sinais em Charlie, morte de Algernon e reencontro com Rose e Norma
 - [ ] 10 — pp. 169–188 — Relatório 17, 3 de outubro a 21 de novembro: declínio, perda progressiva e encerramento
 
 ## SYNTHESIS_ARTIFACTS
@@ -50,19 +50,18 @@
 
 ## OPEN_QUESTIONS
 
-- Acompanhar como a forma dos relatórios muda junto com o estado cognitivo e emocional de Charlie, especialmente a partir do primeiro sinal inequívoco de regressão nele próprio.
-- Acompanhar a deterioração de Algernon após a formulação do Efeito Algernon-Gordon e comparar sua curva com os sinais diretamente observáveis em Charlie.
-- Verificar a validação externa do relatório de Charlie: a relação temporal/proporcional foi formulada em 26 de agosto, mas a conferência por outros especialistas começa somente no Segmento 09.
-- Determinar o mecanismo fisiológico detalhado e a reversibilidade, ainda não resolvidos pela formulação do Efeito Algernon-Gordon.
-- Acompanhar como a nova autoridade científica de Charlie altera a relação com Nemur, Strauss e Burt depois do envio formal do relatório.
-- Observar se Warren permanecerá como possibilidade ou se se tornará destino efetivo e como a percepção ambivalente de cuidado real versus perda de autonomia será retomada.
-- Acompanhar a presença do “antigo Charlie” depois do episódio do espelho: o modelo binário novo/antigo foi enfraquecido, mas álcool e trauma ainda produzem respostas descontínuas.
-- Rastrear os motivos de labirinto, gaiola, amarras, portas/janelas, espelho, faca, ampulheta/tempo, incinerador e Warren.
-- Acompanhar o reencontro com Rose e Norma: a reconciliação com Norma é real, porém condicionada pela transformação atual de Charlie, e Rose reencenou o trauma da faca.
-- Verificar se Charlie conseguirá manter o papel de apoio financeiro e afetivo que assumiu diante de Norma e Rose enquanto sua condição muda.
-- Acompanhar o contraste entre Fay e Alice depois de a pesquisa competir materialmente com a relação com Fay e Charlie formular explicitamente a insuficiência da inteligência sem afeição humana.
-- Acompanhar a questão do consentimento original à luz do resultado: Charlie atual compreende riscos, destino institucional e consequências que o Charlie pré-operatório não podia avaliar com a mesma capacidade.
-- Distinguir sinais cognitivos reais em Charlie de ansiedade, álcool, fadiga e respostas traumáticas.
+- Acompanhar a velocidade e a forma concreta da regressão de Charlie no Relatório 17.
+- Rastrear alterações formais da escrita: vocabulário, sintaxe, ortografia, extensão das entradas e capacidade de abstração.
+- Verificar se a regressão de Charlie reproduz simplesmente o estado pré-operatório ou produz uma condição diferente, conforme os riscos iniciais sugeriam.
+- Acompanhar como Charlie administra moradia, dinheiro, trabalho, cuidados pessoais e autonomia à medida que perde capacidades.
+- Observar as respostas de Alice, Strauss, Nemur e Burt durante o declínio efetivo.
+- Verificar se Warren permanece possibilidade ou se se transforma em destino concreto.
+- Acompanhar qualquer retorno à padaria, ao Centro de Adultos ou a outros espaços da vida anterior.
+- Rastrear a continuidade do “antigo Charlie” e o motivo da janela quando as distinções entre antigo/novo se tornam menos sustentáveis.
+- Observar como a morte de Algernon e o túmulo com flores são retomados no encerramento.
+- Verificar se há continuidade prática do reencontro com Rose e Norma.
+- Rastrear os motivos de labirinto, gaiola, amarras, janelas/espelhos, faca, sombra, ampulheta/tempo, flores e “três ratos cegos”.
+- Preservar na síntese a distinção epistemológica: regressão de Algernon → formulação de Charlie → confirmação externa → sinais observados em Charlie.
 
 ## SOURCE_ISSUES
 
@@ -74,48 +73,56 @@
 - A p. 84 contém o fim da entrada de 8 de junho e o início do Relatório 13; é compartilhada apenas como localização física entre os Segmentos 04 e 05, sem sobreposição de conteúdo.
 - A p. 136 contém o fim da entrada de 12 de julho e o início do Relatório 16; é compartilhada apenas como localização física entre os Segmentos 07 e 08, sem sobreposição de conteúdo.
 - A fronteira 08/09 foi corrigida cronologicamente: depois da entrada de 26 de agosto vem **1º de setembro**, e não 2 de setembro. A paginação permanece p. 136–155 para o Segmento 08 e pp. 156–168 para o Segmento 09.
+- **Correção factual registrada no Segmento 09:** o reencontro presencial com Rose e Norma, a confissão de Norma e a cena da faca ocorrem em **27 de setembro**, e não antes de 26 de agosto. `analysis/08.md`, `analysis/09.md` e `analysis/SEGMENTATION.md` foram sincronizados.
+- A fronteira 09/10 foi conferida: 27 de setembro encerra o Relatório 16 na p. 168; o `RELATÓRIO DE PROGRESSO 17` começa na p. 169 em 3 de outubro.
 
 ## LAST_COMPLETED_ACTION
 
-Segmento 08 concluído em `analysis/08.md`, cobrindo o `RELATÓRIO DE PROGRESSO 16` desde **14 de julho** até o fim da entrada/carta de **26 de agosto**, na p. 136–155. A análise registrou:
+Segmento 09 concluído em `analysis/09.md`, cobrindo o `RELATÓRIO DE PROGRESSO 16` de **1º a 27 de setembro**, pp. 156–168. A análise registrou:
 
-- visita solitária de Charlie à Residência Pública e Centro de Treinamento Warren e transformação do plano de contingência abstrato em futuro institucional concreto;
-- ambivalência de Warren: perda de autonomia, escassez e longa permanência coexistem com funcionários dedicados e cuidado individual real;
-- intervenção de Winslow contra o distanciamento de “torre de marfim” e aprofundamento da virada ética iniciada no Segmento 07;
-- absorção crescente de Charlie pela pesquisa, com redução do espaço dedicado a Fay e surgimento de outro parceiro na vida dela;
-- reencontro com Norma e Rose, confissão de Norma sobre ressentimentos da infância, tentativa de reconciliação e breve realização do papel de irmão mais velho;
-- percepção de Charlie de que o afeto atual de Norma é parcialmente condicionado pela inteligência e independência que ele possui agora;
-- repetição, por Rose, da ameaça com faca e da acusação sexual do passado, reativando respostas corporais traumáticas em Charlie;
-- tentativa consciente de compreender/perdoar Rose sem negar o dano familiar;
-- impasse de pesquisa em 11 de agosto e retorno do motivo do labirinto/beco sem saída à própria prática científica;
-- coquetel dos Nemur: formulação explícita de que inteligência e educação sem afeição humana são insuficientes, conflito sobre crédito científico e reafirmação de que Charlie já era uma pessoa antes da cirurgia;
-- discussão com Strauss sobre dissociação e enfraquecimento do modelo simples de “antigo Charlie contra novo Charlie”;
-- episódio do espelho depois da embriaguez, no qual o antigo Charlie passa também a funcionar como perspectiva moral sobre a arrogância do Charlie atual;
-- solidão de Charlie diante do afastamento de Fay e descoberta, por volta de 4h30, da falha central do experimento;
-- carta de 26 de agosto a Nemur e relatório **“O efeito Algernon-Gordon: um estudo da estrutura e função de inteligência aumentada”**;
-- sistematização da deterioração mental/física de Algernon e formulação de que a deterioração temporal acompanha a magnitude do aumento artificial de inteligência;
-- conclusão de Charlie, com base em seus próprios dados, de que sua deterioração mental deverá ser rápida;
-- distinção epistemológica preservada: **a conclusão científica de Charlie pertence ao Segmento 08; a verificação externa dos resultados começa em 1º de setembro e pertence ao Segmento 09**.
+- transformação dos relatórios em diário prospectivo da própria regressão;
+- envio do Efeito Algernon-Gordon e dos dados a especialistas da Universidade de Hallston para revisão independente;
+- distinção entre a conclusão própria de Charlie, em 26 de agosto, e a validação externa posterior;
+- confirmação dos resultados em 15 de setembro e reconhecimento de que a falha é central para a hipótese experimental;
+- recomendação de Charlie para interromper novos testes humanos até pesquisas adicionais em animais;
+- primeiros possíveis sinais pessoais em 17 de setembro: distração, perda de objetos e irritabilidade;
+- morte de Algernon em meados de setembro e dissecação compatível com as previsões de deterioração;
+- primeiro medo explícito de Charlie diante do futuro depois da morte de Algernon;
+- recusa do incinerador, enterro de Algernon no quintal e colocação de flores silvestres sobre o túmulo;
+- inversão do arco da memória: Charlie passa a registrar rapidamente lembranças porque percebe que está esquecendo mais depressa;
+- decisão de visitar Rose buscando compreensão antes que o ressentimento domine o encontro;
+- reencontro presencial com Rose e Norma na entrada de 27 de setembro;
+- confissão de Norma sobre ressentimento, estigma social e mentira infantil contra Charlie;
+- reconciliação parcial entre os irmãos e oferta de apoio financeiro por Charlie;
+- repetição da cena da faca por Rose e reativação somática do trauma de Charlie;
+- escolha de Charlie por tentar compreender/perdoar Rose sem negar o dano;
+- encerramento do Relatório 16 com a ampulheta do conhecimento, a cantiga dos “três ratos cegos” e a imagem do antigo Charlie à janela.
 
-### Correção de fronteira registrada
+### Mudança epistemológica
 
-A fonte confirma que a entrada de **26 de agosto** é seguida por **1º de setembro**; 2 de setembro é a entrada subsequente. Assim:
+A sequência canônica agora é:
 
-- Segmento 08 permanece p. 136–155, 14 de julho–26 de agosto;
-- Segmento 09 permanece pp. 156–168, mas passa a iniciar em 1º de setembro.
+1. **Segmento 07:** regressão cognitiva de Algernon torna-se `TEXTUAL_FACT` observável.
+2. **Segmento 08:** Charlie formula o Efeito Algernon-Gordon e prevê rápida deterioração própria.
+3. **Segmento 09:** especialistas externos confirmam os resultados; depois surgem sinais percebidos em Charlie e a morte/autópsia de Algernon fornece evidência fisiológica adicional.
 
-Não houve mudança de paginação nem sobreposição de conteúdo. `analysis/SEGMENTATION.md` foi sincronizado.
+Portanto, a falha experimental está agora **confirmada independentemente dentro da narrativa**, e há **evidência textual de início de deterioração percebida pelo próprio Charlie**. A extensão, velocidade e forma final permanecem para o Segmento 10.
+
+### Correção do Segmento 08
+
+Durante esta execução foi detectado que a versão anterior de `analysis/08.md` deslocava indevidamente o reencontro com Rose/Norma para julho–agosto. A fonte localiza esses acontecimentos na entrada de **27 de setembro**. O arquivo 08 foi revisado apenas para corrigir essa inconsistência factual e preservar rastreabilidade; seus limites continuam p. 136–155, 14 de julho–26 de agosto.
 
 ## NEXT_ACTION
 
-Ler `books/flores-para-algernon/BOOK.md`, `books/flores-para-algernon/STATUS.md`, `books/flores-para-algernon/analysis/01.md` a `analysis/08.md` e `docs/ANALYSIS_PROTOCOL.md`.
+Ler `books/flores-para-algernon/BOOK.md`, `books/flores-para-algernon/STATUS.md`, `books/flores-para-algernon/analysis/01.md` a `analysis/09.md` e `docs/ANALYSIS_PROTOCOL.md`.
 
-Executar **somente o Segmento 09** de *Flores para Algernon*:
+Executar **somente o Segmento 10** de *Flores para Algernon*:
 
-- início: p. 156, entrada de **1º de setembro** do `RELATÓRIO DE PROGRESSO 16`;
-- fim: p. 168, conclusão da entrada de **27 de setembro**, imediatamente antes do `RELATÓRIO DE PROGRESSO 17` na p. 169;
-- criar `books/flores-para-algernon/analysis/09.md` conforme `templates/book/analysis/PART_TEMPLATE.md`;
-- usar a obra real como fonte e as análises 01–08 como memória de continuidade, preservando a distinção entre conclusão própria de Charlie em 26 de agosto e verificação externa posterior;
-- verificar a fronteira final contra o início do `RELATÓRIO DE PROGRESSO 17` na p. 169;
-- ao concluir, sincronizar `analysis/SEGMENTATION.md`, `STATUS.md` e `docs/CHECKPOINT.md` para 9/10 segmentos analisados;
-- **não iniciar o Segmento 10 na mesma etapa**.
+- início: p. 169, cabeçalho `RELATÓRIO DE PROGRESSO 17`, entrada de **3 de outubro**;
+- fim narrativo: conclusão da entrada de **21 de novembro**, na p. 188, imediatamente antes do material pós-narrativo iniciado em p. 189;
+- criar `books/flores-para-algernon/analysis/10.md` conforme `templates/book/analysis/PART_TEMPLATE.md`;
+- usar a obra real como fonte e as análises 01–09 como memória de continuidade;
+- registrar cuidadosamente a regressão formal da escrita como elemento narrativo, distinguindo mudanças linguísticas observáveis de interpretação;
+- verificar na fonte a fronteira final da narrativa antes de sincronizar os documentos canônicos;
+- ao concluir, marcar os **10/10 segmentos** como analisados, concluir `PART_ANALYSIS` e definir como próxima etapa apenas a primeira ação pequena de `CONSOLIDATE`, conforme protocolo canônico aplicável;
+- **não iniciar a consolidação na mesma etapa**.
