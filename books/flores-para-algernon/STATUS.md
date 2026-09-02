@@ -19,7 +19,7 @@
 
 ## SEGMENTS
 
-- [ ] 01 — pp. 7–24 — Relatórios 1–8, de 3 a 29 de março: seleção, cirurgia, recuperação inicial e primeira vitória sobre Algernon
+- [x] 01 — pp. 7–24 — Relatórios 1–8, de 3 a 29 de março: seleção, cirurgia, recuperação inicial e primeira vitória sobre Algernon
 - [ ] 02 — pp. 25–39 — 30 de março a 18 de abril: aceleração intelectual, alfabetização avançada, descoberta das humilhações e novo Rorschach
 - [ ] 03 — pp. 40–60 — Relatório 10 e início do 11, 21 de abril a 10 de maio: competência, alienação, Alice, memória e dilema moral de Gimpy
 - [ ] 04 — pp. 61–83 — 11 de maio a 8 de junho: autonomia moral, ruptura com a padaria, desenvolvimento afetivo e preparação para Chicago
@@ -51,6 +51,9 @@
 ## OPEN_QUESTIONS
 
 - Acompanhar como a forma dos relatórios muda junto com o estado cognitivo e emocional de Charlie.
+- Rastrear quando e como Charlie passa a compreender a crueldade embutida nas relações da padaria.
+- Acompanhar a identificação Charlie–Algernon e o papel do rato como espelho experimental.
+- Observar a progressão das memórias familiares e sua relação com o aumento cognitivo.
 - Verificar durante a leitura parcial se os limites semânticos aprovados precisam de ajuste fino; qualquer mudança deve ser registrada antes de alterar segmentos já analisados.
 
 ## SOURCE_ISSUES
@@ -61,10 +64,10 @@
 
 ## LAST_COMPLETED_ACTION
 
-`INGEST`, `MAP` e `SEGMENT` concluídos a partir do PDF fornecido pelo usuário. Estrutura de 17 Relatórios de Progresso mapeada e plano de 10 segmentos semânticos aprovado.
+Segmento 01 concluído em `analysis/01.md`, cobrindo pp. 7–24 (3 a 29 de março). A análise registrou fatos, personagens, arcos, temas, motivos, passagens-chave, interpretações por nível de confiança e questões abertas. O primeiro segmento confirma como eixos iniciais: inteligência como promessa de pertencimento, ironia dramática nas amizades da padaria, paralelismo Charlie–Algernon, início da recuperação de memória e primeiros sinais de questionamento da autoridade.
 
 ## NEXT_ACTION
 
-Analisar **Segmento 01 — pp. 7–24, do Relatório de Progresso 1 até o fim da entrada de 29 de março no Relatório 8** conforme `docs/ANALYSIS_PROTOCOL.md` e `templates/book/analysis/PART_TEMPLATE.md`.
+Analisar **somente o Segmento 02 — pp. 25–39, da entrada de 30 de março no Relatório de Progresso 8 até o fim do novo teste de Rorschach em 18 de abril** conforme `docs/ANALYSIS_PROTOCOL.md` e `templates/book/analysis/PART_TEMPLATE.md`.
 
-Criar `analysis/01.md`, registrar evidências com página + Relatório/data quando possível e, ao concluir, marcar apenas o Segmento 01 como concluído antes de definir a próxima ação.
+Antes de analisar, ler `analysis/01.md` para continuidade. Criar `analysis/02.md`, registrar evidências com página + Relatório/data quando possível e, ao concluir, marcar apenas o Segmento 02 como concluído antes de definir a próxima ação.
