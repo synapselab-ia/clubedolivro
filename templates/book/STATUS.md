@@ -44,6 +44,14 @@ A quantidade pode ser ajustada se a segmentação semântica exigir.
 - [ ] `synthesis/INTERPRETATIONS.md`
 - [ ] `synthesis/AUDIT.md`
 - [ ] `synthesis/CRITICAL_ANALYSIS.md`
+- [ ] `synthesis/READER_POSITION.md`
+
+## PERSONALIZATION
+
+- modo padrão: `CONSTRUCTED_READER_POSITION`
+- input pessoal do usuário: opcional
+- não bloquear `PERSONALIZE` pela ausência de reação real do usuário
+- se o usuário fornecer preferências/reação, calibrar a posição sem refazer a análise
 
 ## FINAL_ARTIFACTS
 
