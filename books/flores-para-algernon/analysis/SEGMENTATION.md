@@ -46,8 +46,8 @@ A paginação abaixo é a paginação física do PDF fornecido pelo usuário.
 | 01 | Relatórios 1–8, 3–29 de março | pp. 7–24 | Arco completo da seleção e cirurgia até o primeiro sinal inequívoco de ganho cognitivo: Charlie derrota Algernon. |
 | 02 | 30–31 de março + Relatório 9, até 18 de abril | pp. 25–40, encerrando antes de `Relatório de Progresso 10` na p. 40 | Consolida a aceleração intelectual, a mudança da escrita e a descoberta consciente de antigas humilhações; termina com o Rorschach revisitado. |
 | 03 | Relatório 10 + Relatório 11 até 10 de maio | p. 40, a partir de `Relatório de Progresso 10`, até p. 61, encerrando antes da entrada de 11 de maio | Reúne competência crescente, deslocamento social, memória, surgimento do desejo por Alice e o dilema moral envolvendo Gimpy. |
-| 04 | 11 de maio–8 de junho | p. 61, a partir da entrada de 11 de maio, até p. 83 | Arco de autonomia moral e afetiva, perda da padaria, isolamento e preparação para a convenção científica. |
-| 05 | Relatório 13, 10–13 de junho | pp. 84–102 | Unidade concentrada na convenção de Chicago: objetificação de Charlie, novas informações sobre Algernon e ruptura com o controle institucional. |
+| 04 | 11 de maio–8 de junho | p. 61, a partir da entrada de 11 de maio, até p. 84, encerrando antes de `Relatório de Progresso 13` | Arco de autonomia moral e afetiva, perda da padaria, isolamento, ruptura crescente com Alice e preparação para a convenção científica. |
+| 05 | Relatório 13, 10–13 de junho | p. 84, a partir de `Relatório de Progresso 13`, até p. 102 | Unidade concentrada na convenção de Chicago: objetificação de Charlie, novas informações sobre Algernon e ruptura com o controle institucional. |
 | 06 | Relatório 14, 15–20 de junho | pp. 103–116 | Pós-fuga imediato: independência, vida fora do laboratório, Fay e reencontro com o passado/paternidade. |
 | 07 | 21 de junho–12 de julho, incluindo Relatório 15 | pp. 117–135 | Pesquisa autônoma, relações afetivas, sinais preocupantes em Algernon e decisão de retornar ao laboratório. |
 | 08 | Relatório 16, 14 de julho–26 de agosto | pp. 136–155 | Visita a Warren e investigação intensiva do experimento; termina na carta formal a Nemur, antes da confirmação definitiva. |
@@ -77,6 +77,17 @@ Correção aplicada sem alterar o limite narrativo:
 - Segmento 04: começa na mesma p. 61, **a partir da entrada de 11 de maio**.
 
 A p. 61 é compartilhada apenas como localização física; não há sobreposição de conteúdo entre as análises.
+
+### Ajuste de paginação — Segmentos 04/05
+
+Durante a execução do Segmento 04 foi verificado na fonte que a **entrada de 8 de junho continua na p. 84 e termina antes do cabeçalho `RELATÓRIO DE PROGRESSO 13`, que começa na mesma página**. A tabela anterior registrava p. 83 como término físico do Segmento 04.
+
+Correção aplicada sem alterar o limite narrativo:
+
+- Segmento 04: termina na p. 84, **somente até o fim da entrada de 8 de junho**;
+- Segmento 05: começa na mesma p. 84, **a partir do cabeçalho `RELATÓRIO DE PROGRESSO 13`**.
+
+A p. 84 é compartilhada apenas como localização física; não há sobreposição de conteúdo entre as análises.
 
 Qualquer alteração posterior exige registrar primeiro o motivo aqui e em `STATUS.md`. Segmentos já analisados não devem ter seus limites alterados sem auditoria explícita.
 
