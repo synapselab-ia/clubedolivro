@@ -1,6 +1,6 @@
 # FINAL_OUTPUT_PROTOCOL — Materiais Finais
 
-Os materiais finais só devem ser produzidos depois de análise parcial, consolidação e auditoria, salvo ordem explícita do usuário.
+Os materiais finais só devem ser produzidos depois de análise parcial, consolidação, auditoria, síntese crítica e `PERSONALIZE`, salvo ordem explícita do usuário.
 
 ## 1. `final/REVIEW.md`
 
@@ -19,24 +19,30 @@ Evitar linguagem genérica que poderia servir para qualquer livro.
 
 ## 2. `final/MY_OPINION.md`
 
-Representa a posição pessoal do usuário, não a opinião padrão da IA.
+Representa a **posição de leitor preparada para uso do usuário**.
 
-Quando houver input do usuário, registrar:
-- reação geral;
-- o que funcionou;
-- o que incomodou;
-- personagens favoritos/irritantes;
+Fonte principal: `synthesis/READER_POSITION.md`.
+
+Pode assumir dois modos:
+
+- `CONSTRUCTED_READER_POSITION`: posição construída pela IA a partir da análise real da obra;
+- `USER_CALIBRATED_READER_POSITION`: posição construída e depois ajustada por reações/preferências explícitas do usuário.
+
+Deve registrar de forma natural:
+- reação geral/avaliação;
+- o que funciona melhor;
+- o que incomoda ou limita a obra;
+- personagem, relação ou elemento mais marcante;
 - percepção de ritmo e estilo;
-- reação ao final;
-- nota, se desejada.
+- reação/avaliação do final;
+- nota;
+- 3–7 argumentos que sustentem a posição.
 
-A IA pode articular e aprofundar essas reações usando a análise da obra, mas não deve inventá-las.
-
-Se ainda não houver reações do usuário, marcar o documento como `PENDING_USER_REACTION` em vez de falsificar opinião pessoal.
+A redação pode ser em primeira pessoa, mas não deve inventar memórias autobiográficas de leitura. Evitar frases como “quando cheguei na página X” ou “lembro de ter sentido...” se isso não veio do usuário.
 
 ## 3. `final/BOOK_CLUB_BRIEF.md`
 
-Documento de revisão rápida antes da reunião.
+Documento de revisão rápida antes da reunião. Deve ser útil inclusive quando o usuário **não leu integralmente a obra**.
 
 Estrutura recomendada:
 
@@ -53,7 +59,7 @@ Lista curta com papel e arco.
 Somente os temas mais defensáveis.
 
 ### Minha posição
-Resumo da opinião do usuário, se disponível.
+Resumo de `synthesis/READER_POSITION.md` em linguagem conversacional.
 
 ### Momentos-chave
 Referências aos eventos/passagens mais úteis para discussão.
@@ -61,11 +67,14 @@ Referências aos eventos/passagens mais úteis para discussão.
 ### Comentários que abrem conversa
 3–7 observações específicas e defensáveis.
 
+### Se alguém discordar
+Contra-argumentos previsíveis e respostas seguras.
+
 ### Perguntas para o grupo
 3–7 perguntas genuinamente abertas.
 
-### Possíveis discordâncias
-Pontos em que outros leitores podem interpretar de forma diferente.
+### Armadilhas
+Fatos, nomes, cronologia ou interpretações que o usuário não deve confundir.
 
 ## 4. `final/DISCUSSION_QUESTIONS.md`
 
@@ -87,8 +96,11 @@ Antes de marcar `COMPLETE`, verificar:
 
 - [ ] os materiais finais não contradizem a auditoria;
 - [ ] fatos e interpretações não foram misturados;
-- [ ] a opinião pessoal não foi inventada;
+- [ ] `MY_OPINION.md` deriva de `READER_POSITION.md`;
+- [ ] a posição preparada é específica e defensável, não genérica;
+- [ ] nenhuma memória autobiográfica de leitura foi inventada;
 - [ ] afirmações específicas têm suporte nas notas;
 - [ ] não há citações extensas desnecessárias;
-- [ ] o `BOOK_CLUB_BRIEF.md` pode ser revisado rapidamente antes da reunião;
+- [ ] `BOOK_CLUB_BRIEF.md` pode ser revisado rapidamente antes da reunião;
+- [ ] `BOOK_CLUB_BRIEF.md` contém armadilhas factuais e respostas a discordâncias;
 - [ ] `STATUS.md` reflete os arquivos realmente existentes.
