@@ -41,11 +41,13 @@ O PDF integral não deve ser enviado ao GitHub enquanto o repositório permanece
 - autor: Daniel Keyes
 - edição analisada: Aleph, edição eletrônica brasileira de 2018, tradução de Luisa Geisler
 - fonte legível: PDF fornecido diretamente ao ChatGPT/File Library
-- estado: `PART_ANALYSIS`
+- estado: `CONSOLIDATE`
 - ingestão: concluída
 - mapeamento: concluído
 - segmentação: concluída em 10 blocos semânticos
-- segmentos analisados: **9/10**
+- análise parcial: **concluída**
+- segmentos analisados: **10/10**
+- consolidação: ainda não iniciada
 
 ## GLOBAL_RULES
 
@@ -58,67 +60,69 @@ O PDF integral não deve ser enviado ao GitHub enquanto o repositório permanece
 
 ## LAST_COMPLETED_ACTION
 
-Executado **Segmento 09** de *Flores para Algernon* conforme `docs/ANALYSIS_PROTOCOL.md`:
+Executado **Segmento 10** de *Flores para Algernon* conforme `docs/ANALYSIS_PROTOCOL.md`, concluindo `PART_ANALYSIS`:
 
-- escopo narrativo: continuação do `RELATÓRIO DE PROGRESSO 16`, de **1º a 27 de setembro**;
-- localização física: pp. **156–168**;
-- artefato criado: `books/flores-para-algernon/analysis/09.md`;
-- `analysis/08.md`, `analysis/SEGMENTATION.md` e `books/flores-para-algernon/STATUS.md` sincronizados;
-- segmentos analisados: **9/10**;
-- fronteira final confirmada: o `RELATÓRIO DE PROGRESSO 17` começa na p. 169, em 3 de outubro;
-- nenhum conteúdo do Relatório 17 foi incorporado ao Segmento 09.
+- escopo narrativo: `RELATÓRIO DE PROGRESSO 17`, de **3 de outubro a 21 de novembro**;
+- localização física: pp. **169–188**;
+- artefato criado: `books/flores-para-algernon/analysis/10.md`;
+- `analysis/SEGMENTATION.md` e `books/flores-para-algernon/STATUS.md` sincronizados;
+- segmentos analisados: **10/10**;
+- `PART_ANALYSIS`: **concluída**;
+- estado atual do livro: **`CONSOLIDATE`**;
+- fronteira final confirmada: a narrativa termina na p. 188 e `Sobre o autor` começa na p. 189;
+- nenhum artefato de consolidação foi criado nesta etapa.
 
-Eixos consolidados: revisão externa do Efeito Algernon-Gordon; confirmação da falha em 15 de setembro; recomendação de interromper novos testes humanos; primeiros sinais percebidos de deterioração em Charlie; morte e dissecação de Algernon; enterro com flores; passagem da memória em expansão para memória ameaçada; retorno à rua Marks; reencontro com Rose e Norma; confissão e culpa de Norma; estigma familiar; repetição da faca por Rose; trauma corporal persistente; perdão/compreensão sem reparação integral; ampulheta do conhecimento; “três ratos cegos”; antigo Charlie à janela.
+Eixos registrados no Segmento 10: reconhecimento explícito do declínio; recusa do suicídio em nome da continuidade do antigo Charlie; manutenção dos relatórios como contribuição científica; irritabilidade e perda de controle; deterioração de leitura e compreensão; perda de orientação espacial; tensão entre cuidado e autonomia com Alice; deterioração motora e passagem da máquina de escrever para escrita manual; simplificação deliberada do vocabulário; redução de autonomia cotidiana; incapacidade de compreender os próprios relatórios anteriores; retorno à Padaria Donner; humilhação por Meyer Klaus; defesa de Charlie por Joe, Frank e Gimpy; empatia preservada ao pedir uma segunda chance para Klaus; retorno por engano à antiga aula de Alice; decisão por Warren; reaparecimento de crenças em sorte/amuletos; regressão formal da escrita; persistência de resíduos afetivos e biográficos; pedido final de flores para Algernon.
 
-### Mudança epistemológica sobre a falha e Charlie
+### Regressão formal confirmada
 
-A sequência de evidências agora é:
+O Relatório 17 permite tratar como `TEXTUAL_FACT` uma sequência formal observável:
 
-1. **Segmento 07:** Burt constata perda de respostas complexas em Algernon; regressão cognitiva do rato torna-se `TEXTUAL_FACT`.
-2. **Segmento 08:** Charlie formula o **Efeito Algernon-Gordon** e conclui, com base nos próprios dados, que sua deterioração deverá ser rápida.
-3. **Segmento 09:** especialistas externos confirmam os resultados em 15 de setembro; Charlie começa a registrar distração, perda de objetos, irritabilidade e esquecimento mais rápido; a morte e dissecação de Algernon fornecem evidência fisiológica adicional.
+1. no início de outubro, Charlie ainda produz escrita abstrata e sintaticamente complexa, apesar de já registrar deterioração funcional;
+2. a compreensão de literatura complexa diminui e ele perde acesso a conhecimentos anteriormente dominados;
+3. a deterioração motora o impede de continuar usando normalmente a máquina de escrever;
+4. em 5 de novembro, ele registra que usará palavras mais fáceis porque consultar o dicionário e escrever vocabulário complexo se tornaram difíceis;
+5. em 15 de novembro, já não compreende seus próprios relatórios sofisticados anteriores;
+6. nas páginas finais, ortografia, sintaxe, flexões, vocabulário e organização textual se aproximam fortemente do padrão dos primeiros relatórios.
 
-Portanto:
+A regressão **não é um reset biográfico perfeito**: permanecem traços de experiência e aprendizagem, especialmente empatia, gratidão, a lembrança de ter uma família, a noção vaga de contribuição científica e a ligação afetiva com Algernon.
 
-- a falha experimental está **confirmada independentemente dentro da narrativa**;
-- há **evidência textual de início de deterioração percebida por Charlie**;
-- permanecem abertas a velocidade exata, a extensão funcional, a evolução linguística e o desfecho da regressão, a serem observados no Segmento 10.
+### Fronteira final da obra verificada
 
-### Correção factual registrada
+A fonte confirma:
 
-Durante a leitura do Segmento 09, a fonte demonstrou que o **reencontro presencial com Rose e Norma, a confissão de Norma e a cena da faca ocorrem na entrada de 27 de setembro**.
+- p. 188: fim da entrada de **21 de novembro** e encerramento da narrativa;
+- p. 189: início de `Sobre o autor`;
+- pp. 190–191: créditos, copyright e ficha catalográfica.
 
-Uma versão anterior de `analysis/08.md` havia deslocado esses acontecimentos para julho–agosto. A inconsistência foi corrigida:
+O Segmento 10, portanto, cobre integralmente o final narrativo sem incorporar o paratexto posterior.
 
-- Segmento 08 permanece p. 136–155, 14 de julho–26 de agosto, terminando na formulação do Efeito Algernon-Gordon;
-- Segmento 09 permanece pp. 156–168, 1º–27 de setembro, e contém o reencontro familiar;
-- `analysis/08.md`, `analysis/09.md`, `analysis/SEGMENTATION.md` e `STATUS.md` estão sincronizados;
-- a correção foi factual/cronológica, sem alteração dos limites físicos dos segmentos.
+### Transição para consolidação
 
-### Fronteira 09/10 verificada
+`docs/METHODOLOGY.md` define `CONSOLIDATE` como a etapa que reorganiza as informações dispersas nas análises parciais em:
 
-A fonte confirma que a entrada de **27 de setembro** encerra o `RELATÓRIO DE PROGRESSO 16`. O conteúdo seguinte é:
+- `synthesis/STRUCTURE.md`;
+- `synthesis/CHARACTERS.md`;
+- `synthesis/THEMES.md`;
+- `synthesis/SYMBOLS.md`;
+- `synthesis/KEY_PASSAGES.md`;
+- `synthesis/INTERPRETATIONS.md`.
 
-- p. 169: `RELATÓRIO DE PROGRESSO 17`;
-- primeira entrada: **3 de outubro**.
-
-Assim, o Segmento 09 termina sem sobreposição e o Segmento 10 começa na p. 169.
+Foi conferido o estado real do repositório e `books/flores-para-algernon/synthesis/STRUCTURE.md` **ainda não existe**. Para preservar checkpoints pequenos e confiáveis, a próxima execução deve criar somente esse primeiro artefato.
 
 ## NEXT_ACTION
 
-Ler `books/flores-para-algernon/BOOK.md`, `books/flores-para-algernon/STATUS.md`, `books/flores-para-algernon/analysis/01.md` a `analysis/09.md` e `docs/ANALYSIS_PROTOCOL.md`.
+Ler `docs/METHODOLOGY.md`, `docs/SYNTHESIS_PROTOCOL.md`, `books/flores-para-algernon/BOOK.md`, `books/flores-para-algernon/STATUS.md` e `books/flores-para-algernon/analysis/01.md` a `analysis/10.md`.
 
-Executar **somente o Segmento 10** de *Flores para Algernon*:
+Executar **somente a primeira ação de `CONSOLIDATE`**:
 
-- início: p. 169, cabeçalho `RELATÓRIO DE PROGRESSO 17`, entrada de **3 de outubro**;
-- fim narrativo: conclusão da entrada de **21 de novembro**, atualmente mapeada até p. 188;
-- criar `books/flores-para-algernon/analysis/10.md` conforme `templates/book/analysis/PART_TEMPLATE.md`;
-- usar a obra real como fonte e as análises 01–09 como memória de continuidade;
-- acompanhar explicitamente a regressão formal da escrita — ortografia, sintaxe, vocabulário, extensão, abstração e organização — como `TEXTUAL_FACT` quando observável;
-- verificar durante a leitura que a narrativa realmente termina na p. 188 e que p. 189 já pertence ao material pós-narrativo;
-- ao concluir, atualizar `analysis/SEGMENTATION.md`, `STATUS.md` e este checkpoint para **10/10 segmentos analisados** e marcar `PART_ANALYSIS` como concluída;
-- definir a próxima `NEXT_ACTION` como **apenas a primeira ação pequena de `CONSOLIDATE`**, lendo antes o protocolo canônico correspondente;
-- **não iniciar consolidação, auditoria ou síntese na mesma etapa**.
+- criar `books/flores-para-algernon/synthesis/STRUCTURE.md`;
+- consolidar, a partir das análises 01–10, a estrutura narrativa/argumentativa, grandes viradas, ritmo e distribuição de foco, paralelismos/contrastes estruturais e relação entre início e final;
+- usar apenas a leitura interna já estabelecida nesta fase; não iniciar pesquisa externa;
+- distinguir fatos estruturais de interpretações e preservar as correções cronológicas já registradas;
+- ao concluir, atualizar `STATUS.md` e este checkpoint marcando somente `synthesis/STRUCTURE.md` como concluído e definir uma nova `NEXT_ACTION` pequena;
+- **não criar `CHARACTERS.md`, `THEMES.md`, `SYMBOLS.md`, `KEY_PASSAGES.md` ou `INTERPRETATIONS.md` na mesma etapa**;
+- **não iniciar `AUDIT`, `SYNTHESIZE`, `PERSONALIZE` ou `FINALIZE`**.
 
 ## CONTINUATION_COMMAND
 
