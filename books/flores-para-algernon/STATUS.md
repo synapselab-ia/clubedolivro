@@ -2,14 +2,14 @@
 
 ## STATE
 
-`PART_ANALYSIS`
+`CONSOLIDATE`
 
 ## PROGRESS
 
 - [x] INGEST
 - [x] MAP
 - [x] SEGMENT
-- [ ] PART_ANALYSIS
+- [x] PART_ANALYSIS
 - [ ] CONSOLIDATE
 - [ ] AUDIT
 - [ ] SYNTHESIZE
@@ -28,7 +28,7 @@
 - [x] 07 — pp. 117–136, até antes do Relatório 16 — 21 de junho a 12 de julho: integração do antigo Charlie, Fay, missão ética, agravamento de Algernon e retorno ao laboratório sob autonomia científica
 - [x] 08 — p. 136, a partir do Relatório 16, até p. 155 — 14 de julho a 26 de agosto: Warren, pesquisa intensiva, crise de identidade/isolamento e formulação do Efeito Algernon-Gordon
 - [x] 09 — pp. 156–168 — 1º a 27 de setembro: validação externa da falha, primeiros sinais em Charlie, morte de Algernon e reencontro com Rose e Norma
-- [ ] 10 — pp. 169–188 — Relatório 17, 3 de outubro a 21 de novembro: declínio, perda progressiva e encerramento
+- [x] 10 — pp. 169–188 — Relatório 17, 3 de outubro a 21 de novembro: regressão cognitiva e formal, retorno à padaria, amizade, Warren e despedida
 
 ## SYNTHESIS_ARTIFACTS
 
@@ -50,18 +50,21 @@
 
 ## OPEN_QUESTIONS
 
-- Acompanhar a velocidade e a forma concreta da regressão de Charlie no Relatório 17.
-- Rastrear alterações formais da escrita: vocabulário, sintaxe, ortografia, extensão das entradas e capacidade de abstração.
-- Verificar se a regressão de Charlie reproduz simplesmente o estado pré-operatório ou produz uma condição diferente, conforme os riscos iniciais sugeriam.
-- Acompanhar como Charlie administra moradia, dinheiro, trabalho, cuidados pessoais e autonomia à medida que perde capacidades.
-- Observar as respostas de Alice, Strauss, Nemur e Burt durante o declínio efetivo.
-- Verificar se Warren permanece possibilidade ou se se transforma em destino concreto.
-- Acompanhar qualquer retorno à padaria, ao Centro de Adultos ou a outros espaços da vida anterior.
-- Rastrear a continuidade do “antigo Charlie” e o motivo da janela quando as distinções entre antigo/novo se tornam menos sustentáveis.
-- Observar como a morte de Algernon e o túmulo com flores são retomados no encerramento.
-- Verificar se há continuidade prática do reencontro com Rose e Norma.
-- Rastrear os motivos de labirinto, gaiola, amarras, janelas/espelhos, faca, sombra, ampulheta/tempo, flores e “três ratos cegos”.
-- Preservar na síntese a distinção epistemológica: regressão de Algernon → formulação de Charlie → confirmação externa → sinais observados em Charlie.
+Questões transferidas da leitura parcial para a etapa de consolidação/auditoria:
+
+- Descrever a estrutura ascensão → pico → regressão sem reduzir a obra a uma simetria mecânica.
+- Determinar quais transformações de Charlie persistem após a perda cognitiva e quais desaparecem.
+- Consolidar a regressão formal da escrita: ortografia, sintaxe, vocabulário, extensão, abstração, organização e mudança de suporte da digitação para escrita manual.
+- Avaliar o arco do “antigo Charlie” e a continuidade pessoal sem tratá-lo literalmente como duas pessoas independentes.
+- Consolidar o paralelismo Charlie–Algernon e a mudança de Algernon de medida experimental para vínculo afetivo/memorial.
+- Avaliar a decisão final por Warren como possível combinação de autonomia residual, vergonha internalizada, medo de piedade e necessidade concreta de cuidado.
+- Mapear o arco completo da Padaria Donner e a mudança de Joe, Frank e Gimpy sem apagar as humilhações anteriores.
+- Mapear o arco de Alice: professora → mediadora → amor → desigualdade intelectual → cuidado → despedida.
+- Consolidar o reencontro familiar com Matt, Rose e Norma e distinguir reconhecimento, compreensão, perdão e reparação.
+- Rastrear os motivos de labirinto/gaiola, portas, janela/espelho, luz/escuridão, faca, ampulheta/tempo, livros, amuletos e flores.
+- Verificar a relação entre a epígrafe de Platão e a trajetória completa sem transformá-la automaticamente em chave única de leitura.
+- Preservar a cadeia epistemológica: sinais em Algernon → regressão cognitiva observável → Efeito Algernon-Gordon → validação externa → regressão de Charlie → documentação formal do declínio.
+- Avaliar em interpretações concorrentes a circularidade trágica versus transformação residual no final.
 
 ## SOURCE_ISSUES
 
@@ -75,54 +78,68 @@
 - A fronteira 08/09 foi corrigida cronologicamente: depois da entrada de 26 de agosto vem **1º de setembro**, e não 2 de setembro. A paginação permanece p. 136–155 para o Segmento 08 e pp. 156–168 para o Segmento 09.
 - **Correção factual registrada no Segmento 09:** o reencontro presencial com Rose e Norma, a confissão de Norma e a cena da faca ocorrem em **27 de setembro**, e não antes de 26 de agosto. `analysis/08.md`, `analysis/09.md` e `analysis/SEGMENTATION.md` foram sincronizados.
 - A fronteira 09/10 foi conferida: 27 de setembro encerra o Relatório 16 na p. 168; o `RELATÓRIO DE PROGRESSO 17` começa na p. 169 em 3 de outubro.
+- A fronteira final foi conferida diretamente: o Relatório 17 termina na **p. 188**, em 21 de novembro; a **p. 189** inicia `Sobre o autor`, seguida dos créditos/editorial nas pp. 190–191.
 
 ## LAST_COMPLETED_ACTION
 
-Segmento 09 concluído em `analysis/09.md`, cobrindo o `RELATÓRIO DE PROGRESSO 16` de **1º a 27 de setembro**, pp. 156–168. A análise registrou:
+Segmento 10 concluído em `analysis/10.md`, cobrindo todo o `RELATÓRIO DE PROGRESSO 17`, de **3 de outubro a 21 de novembro**, pp. **169–188**. Com isso, `PART_ANALYSIS` foi concluída em **10/10 segmentos**.
 
-- transformação dos relatórios em diário prospectivo da própria regressão;
-- envio do Efeito Algernon-Gordon e dos dados a especialistas da Universidade de Hallston para revisão independente;
-- distinção entre a conclusão própria de Charlie, em 26 de agosto, e a validação externa posterior;
-- confirmação dos resultados em 15 de setembro e reconhecimento de que a falha é central para a hipótese experimental;
-- recomendação de Charlie para interromper novos testes humanos até pesquisas adicionais em animais;
-- primeiros possíveis sinais pessoais em 17 de setembro: distração, perda de objetos e irritabilidade;
-- morte de Algernon em meados de setembro e dissecação compatível com as previsões de deterioração;
-- primeiro medo explícito de Charlie diante do futuro depois da morte de Algernon;
-- recusa do incinerador, enterro de Algernon no quintal e colocação de flores silvestres sobre o túmulo;
-- inversão do arco da memória: Charlie passa a registrar rapidamente lembranças porque percebe que está esquecendo mais depressa;
-- decisão de visitar Rose buscando compreensão antes que o ressentimento domine o encontro;
-- reencontro presencial com Rose e Norma na entrada de 27 de setembro;
-- confissão de Norma sobre ressentimento, estigma social e mentira infantil contra Charlie;
-- reconciliação parcial entre os irmãos e oferta de apoio financeiro por Charlie;
-- repetição da cena da faca por Rose e reativação somática do trauma de Charlie;
-- escolha de Charlie por tentar compreender/perdoar Rose sem negar o dano;
-- encerramento do Relatório 16 com a ampulheta do conhecimento, a cantiga dos “três ratos cegos” e a imagem do antigo Charlie à janela.
+A análise registrou:
 
-### Mudança epistemológica
+- abertura do Relatório 17 com Charlie reconhecendo o declínio e rejeitando o suicídio ao pensar na continuidade do antigo Charlie;
+- decisão de continuar os relatórios como contribuição científica enquanto ainda puder;
+- irritabilidade, medo de dormir/perder-se e perda crescente de controle emocional;
+- experiência psicótica/alucinatória registrada com cautela epistemológica em 4 de outubro;
+- perda de compreensão de literatura complexa, materializada pela incapacidade de compreender e pela destruição de *Paraíso perdido*;
+- perda de orientação espacial e julgamento cotidiano em 10 de outubro;
+- tentativa de Alice de permanecer próxima e tensão entre cuidado, tutela, vergonha e autonomia;
+- deterioração motora levando ao abandono da máquina de escrever e à escrita manual;
+- em 5 de novembro, dificuldade de leitura, releitura repetida e decisão explícita de usar palavras mais simples porque o dicionário e o vocabulário complexo se tornaram custosos;
+- redução progressiva de autonomia doméstica e apoio da sra. Mooney;
+- em 15 de novembro, incapacidade de compreender os próprios relatórios sofisticados escritos anteriormente;
+- afastamento final de Alice e rejeição da dependência financeira;
+- retorno à Padaria Donner em 18 de novembro;
+- humilhação por Meyer Klaus e defesa de Charlie por Joe, Frank e Gimpy;
+- pedido de Charlie por uma segunda chance para Klaus, preservando empatia apesar da regressão cognitiva;
+- retorno por engano à antiga aula de Alice em 21 de novembro e recuperação fragmentária da memória do experimento;
+- decisão de ir voluntariamente para Warren;
+- retorno de crenças em sorte/amuletos e perda do acesso ao conteúdo científico que produzira;
+- regressão formal inequívoca da escrita até uma forma fortemente semelhante aos relatórios iniciais;
+- persistência de resíduos biográficos e afetivos: gratidão, desejo de aprender, conhecimento de que teve família, noção vaga de contribuição científica e vínculo com Algernon;
+- encerramento da narrativa na p. 188 com o pedido para que coloquem flores no túmulo de Algernon;
+- confirmação de que p. 189 já pertence ao material pós-narrativo.
 
-A sequência canônica agora é:
+### Conclusão epistemológica da leitura parcial
 
-1. **Segmento 07:** regressão cognitiva de Algernon torna-se `TEXTUAL_FACT` observável.
-2. **Segmento 08:** Charlie formula o Efeito Algernon-Gordon e prevê rápida deterioração própria.
-3. **Segmento 09:** especialistas externos confirmam os resultados; depois surgem sinais percebidos em Charlie e a morte/autópsia de Algernon fornece evidência fisiológica adicional.
+A obra completa sustenta agora, como sequência textual verificada:
 
-Portanto, a falha experimental está agora **confirmada independentemente dentro da narrativa**, e há **evidência textual de início de deterioração percebida pelo próprio Charlie**. A extensão, velocidade e forma final permanecem para o Segmento 10.
+1. crescimento cognitivo e formal de Charlie;
+2. autonomia crescente e ruptura com a posição de objeto experimental;
+3. regressão cognitiva de Algernon observada diretamente;
+4. formulação do Efeito Algernon-Gordon por Charlie;
+5. validação externa da falha;
+6. primeiros sinais de regressão em Charlie;
+7. regressão funcional, linguística e social completa no Relatório 17.
 
-### Correção do Segmento 08
+A leitura final também corrige uma simplificação possível: **Charlie não retorna de modo perfeitamente idêntico ao estado pré-operatório**. A escrita e várias capacidades cognitivas se aproximam fortemente do início, mas permanecem fragmentos de experiência, memória afetiva, empatia e decisões formadas durante a transformação. Essa diferença deve ser consolidada e auditada antes da síntese global.
 
-Durante esta execução foi detectado que a versão anterior de `analysis/08.md` deslocava indevidamente o reencontro com Rose/Norma para julho–agosto. A fonte localiza esses acontecimentos na entrada de **27 de setembro**. O arquivo 08 foi revisado apenas para corrigir essa inconsistência factual e preservar rastreabilidade; seus limites continuam p. 136–155, 14 de julho–26 de agosto.
+### Transição de etapa
+
+`PART_ANALYSIS` está concluída. Conforme `docs/METHODOLOGY.md`, o estado passa para `CONSOLIDATE`.
+
+Foi verificado que `synthesis/STRUCTURE.md` ainda **não existe**, portanto a primeira ação pequena e concreta da consolidação é criar somente esse artefato antes de avançar aos demais.
 
 ## NEXT_ACTION
 
-Ler `books/flores-para-algernon/BOOK.md`, `books/flores-para-algernon/STATUS.md`, `books/flores-para-algernon/analysis/01.md` a `analysis/09.md` e `docs/ANALYSIS_PROTOCOL.md`.
+Ler `docs/METHODOLOGY.md`, `docs/SYNTHESIS_PROTOCOL.md`, `books/flores-para-algernon/BOOK.md`, este `STATUS.md` e `analysis/01.md` a `analysis/10.md`.
 
-Executar **somente o Segmento 10** de *Flores para Algernon*:
+Executar **somente a primeira ação de `CONSOLIDATE`**:
 
-- início: p. 169, cabeçalho `RELATÓRIO DE PROGRESSO 17`, entrada de **3 de outubro**;
-- fim narrativo: conclusão da entrada de **21 de novembro**, na p. 188, imediatamente antes do material pós-narrativo iniciado em p. 189;
-- criar `books/flores-para-algernon/analysis/10.md` conforme `templates/book/analysis/PART_TEMPLATE.md`;
-- usar a obra real como fonte e as análises 01–09 como memória de continuidade;
-- registrar cuidadosamente a regressão formal da escrita como elemento narrativo, distinguindo mudanças linguísticas observáveis de interpretação;
-- verificar na fonte a fronteira final da narrativa antes de sincronizar os documentos canônicos;
-- ao concluir, marcar os **10/10 segmentos** como analisados, concluir `PART_ANALYSIS` e definir como próxima etapa apenas a primeira ação pequena de `CONSOLIDATE`, conforme protocolo canônico aplicável;
-- **não iniciar a consolidação na mesma etapa**.
+- criar `books/flores-para-algernon/synthesis/STRUCTURE.md`;
+- consolidar a estrutura narrativa global da obra com base **apenas** nas análises 01–10 e na fonte interna já verificada;
+- registrar grandes viradas, ritmo/distribuição de foco, paralelismos e contrastes estruturais e a relação entre início e final, conforme `docs/SYNTHESIS_PROTOCOL.md`;
+- preservar correções cronológicas já registradas e distinguir fato estrutural de interpretação;
+- atualizar `STATUS.md` e `docs/CHECKPOINT.md` marcando apenas `synthesis/STRUCTURE.md` como concluído;
+- definir a próxima ação de consolidação após verificar o artefato criado;
+- **não criar `CHARACTERS.md`, `THEMES.md`, `SYMBOLS.md`, `KEY_PASSAGES.md` ou `INTERPRETATIONS.md` na mesma etapa**;
+- **não iniciar AUDIT ou SYNTHESIZE**.
