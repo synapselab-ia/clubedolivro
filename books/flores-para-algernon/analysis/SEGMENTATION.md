@@ -52,7 +52,7 @@ A paginação abaixo é a paginação física do PDF fornecido pelo usuário.
 | 07 | 21 de junho–12 de julho, incluindo Relatório 15 | pp. 117–136, encerrando antes de `Relatório de Progresso 16` na p. 136 | Pesquisa autônoma, relações afetivas, integração do antigo Charlie, sinais de regressão em Algernon e retorno ao laboratório sob autonomia científica. |
 | 08 | Relatório 16, 14 de julho–26 de agosto | p. 136, a partir de `Relatório de Progresso 16`, até p. 155 | Visita a Warren, crise relacional e investigação intensiva; termina no relatório que formula o Efeito Algernon-Gordon, antes da verificação externa. |
 | 09 | Relatório 16, 1º–27 de setembro | pp. 156–168 | Validação externa da falha, primeiros sinais em Charlie, morte de Algernon e reencontro com Rose/Norma; encerra o Relatório 16 antes do declínio explícito. |
-| 10 | Relatório 17, 3 de outubro–21 de novembro | pp. 169–188 | Arco final de regressão cognitiva, perda, retorno e despedida. |
+| 10 | Relatório 17, 3 de outubro–21 de novembro | pp. 169–188 | Arco final de regressão cognitiva e formal, retorno a espaços anteriores, redefinição de amizade, decisão por Warren e despedida. |
 
 ## Ajustes
 
@@ -125,6 +125,16 @@ Durante a execução do Segmento 09 foi confirmado que a entrada de **27 de sete
 
 Não há página compartilhada nem sobreposição de conteúdo nessa fronteira.
 
+### Verificação da fronteira final da narrativa — Segmento 10
+
+Durante a execução do Segmento 10 foi confirmada diretamente na fonte a fronteira entre narrativa e paratexto final:
+
+- o `RELATÓRIO DE PROGRESSO 17` termina na **p. 188**, na entrada de **21 de novembro**, com a despedida de Charlie e seu pedido referente ao túmulo de Algernon;
+- a **p. 189** inicia `Sobre o autor`;
+- pp. 190–191 contêm créditos, copyright e ficha catalográfica.
+
+Assim, o Segmento 10 cobre integralmente o encerramento narrativo, sem incorporar material pós-narrativo.
+
 Qualquer alteração posterior exige registrar primeiro o motivo aqui e em `STATUS.md`. Segmentos já analisados não devem ter seus limites alterados sem auditoria explícita.
 
 ## Critérios de validação
@@ -133,4 +143,5 @@ Qualquer alteração posterior exige registrar primeiro o motivo aqui e em `STAT
 - [x] cobertura integral da narrativa principal;
 - [x] segmentos de tamanho razoavelmente equilibrado, considerando a grande variação de extensão dos Relatórios;
 - [x] início/fim de cada segmento identificável na fonte por página e data/Relatório;
+- [x] fronteira final narrativa p. 188 / material pós-narrativo p. 189 verificada;
 - [x] `STATUS.md` sincronizado com esta tabela após cada execução.
