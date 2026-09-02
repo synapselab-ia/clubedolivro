@@ -47,8 +47,11 @@ O PDF integral não deve ser enviado ao GitHub enquanto o repositório permanece
 - segmentação: concluída em 10 blocos semânticos
 - análise parcial: concluída
 - segmentos analisados: **10/10**
-- consolidação: **iniciada — 1/6 artefatos-base concluídos**
-- artefato de consolidação concluído: `synthesis/STRUCTURE.md`
+- consolidação: **em andamento — 2/6 artefatos-base concluídos**
+- artefatos concluídos:
+  - `synthesis/STRUCTURE.md`
+  - `synthesis/CHARACTERS.md`
+- próximo artefato: `synthesis/THEMES.md`
 
 ## GLOBAL_RULES
 
@@ -61,61 +64,65 @@ O PDF integral não deve ser enviado ao GitHub enquanto o repositório permanece
 
 ## LAST_COMPLETED_ACTION
 
-Executada **somente a primeira ação de `CONSOLIDATE`** para *Flores para Algernon*:
+Executada **somente a segunda ação de `CONSOLIDATE`** para *Flores para Algernon*:
 
-- lidos `docs/METHODOLOGY.md` e `docs/SYNTHESIS_PROTOCOL.md`;
-- relidos `BOOK.md`, `STATUS.md` e as análises `01.md` a `10.md` necessárias à consolidação;
-- confirmado que `synthesis/STRUCTURE.md` ainda não existia antes da execução;
-- criado e verificado `books/flores-para-algernon/synthesis/STRUCTURE.md`;
-- `STATUS.md` atualizado marcando **somente `STRUCTURE.md`** como concluído;
-- nenhum outro artefato de consolidação, auditoria ou síntese foi criado.
+- relidos `AGENTS.md`, este checkpoint, `BOOK.md`, `STATUS.md`, `docs/SYNTHESIS_PROTOCOL.md`, `synthesis/STRUCTURE.md` e `analysis/01.md` a `analysis/10.md`;
+- confirmado antes da execução que `synthesis/CHARACTERS.md` não existia;
+- criado e verificado `books/flores-para-algernon/synthesis/CHARACTERS.md`;
+- confirmado que `synthesis/THEMES.md` ainda não existe;
+- `STATUS.md` atualizado marcando **somente `CHARACTERS.md`** como novo artefato concluído;
+- nenhum artefato de temas, símbolos, passagens-chave, interpretações, auditoria ou síntese crítica foi criado.
 
-### Conteúdo estrutural consolidado
+### Personagens consolidados
 
-`STRUCTURE.md` registra:
+O novo artefato registra posição inicial, motivação aparente, conflitos, decisões, transformação, função temática, relações e ambiguidades para:
 
-1. **forma narrativa:** 17 Relatórios de Progresso em primeira pessoa, nos quais a escrita é simultaneamente narrativa autobiográfica e instrumento interno do experimento;
-2. **arco formal:** escrita simples/irregular → crescimento gramatical e abstrato → escrita científica altamente complexa → deterioração linguística e motora → aproximação formal do padrão inicial;
-3. **dupla temporalidade:** presente datado do experimento e passado autobiográfico recuperado de maneira não linear por memórias, sonhos e livre associação;
-4. **macroestrutura analítica em cinco movimentos:** promessa experimental; ascensão/autonomia/exílio; ruptura institucional e vida sob controle próprio; ciência da própria perda; regressão/retornos/despedida;
-5. **Chicago como dobradiça central:** objetificação pública, ruptura com Nemur/projeto, libertação de Algernon e descoberta da insuficiência metodológica da alegação de permanência;
-6. **cadeia epistemológica preservada:** comportamento anômalo de Algernon → regressão cognitiva observável → Efeito Algernon-Gordon → validação externa → sinais e regressão de Charlie;
-7. **ritmo e distribuição de foco:** ganho gradual no início, aumento de memória/complexidade humana no meio, concentração em Chicago, investigação antecipatória nos Relatórios 15–16 e perda incorporada à voz no Relatório 17;
-8. **paralelismos estruturais:** Charlie/Algernon; padaria inicial/final; aula de Alice inicial/final; testes/labirintos versus problemas humanos; objeto experimental → pesquisador → pessoa novamente dependente de cuidado; antigo/novo Charlie; família; Warren;
-9. **relação início/final:** circularidade formal aproximada, mas não retorno humano perfeitamente idêntico;
-10. **correções canônicas preservadas:** Segmento 09 inicia em 1º de setembro; Rose/Norma e faca pertencem a 27 de setembro; narrativa termina p. 188 e p. 189 inicia paratexto.
+- Charlie Gordon;
+- Algernon;
+- Alice Kinnian;
+- professor Nemur;
+- dr. Strauss;
+- Rose Gordon;
+- Matt Gordon;
+- Norma Gordon;
+- Fay Lillman;
+- Joe Carp;
+- Frank Reilly;
+- Gimpy;
+- sr. Donner.
 
-### Hipótese estrutural provisória
+Também foram incluídos, apenas pela função estrutural relevante, Burt Selden, dr. Guarino, sr. Winslow, Fanny Birden, tio Herman, sra. Mooney e Meyer Klaus.
 
-`INTERPRETATION — HIGH, A AUDITAR`: a obra articula simultaneamente **enredo, relações/espaços e forma escrita**. Charlie ganha e perde capacidades; abandona e retorna a espaços sociais; e sua voz escrita cresce e se deteriora. O retorno final aproxima-se do início sem anulá-lo, pois persistem mudanças relacionais, memória afetiva, empatia e conhecimento produzido durante a transformação.
+### Salvaguardas de caracterização
 
-### Limites desta etapa
+- o “antigo Charlie” não foi tratado como personagem independente;
+- Warren não foi tratado como personagem;
+- motivações inferidas foram marcadas como interpretação;
+- Nemur permaneceu simultaneamente cientista de mérito real e figura de objetificação/ambição, sem caricatura de vilão;
+- Strauss permaneceu relativamente mais explicativo/prudente, mas sem ser transformado em contraponto moral perfeito;
+- Rose foi contextualizada sem converter compreensão em absolvição;
+- Matt foi mantido entre proteção pontual e ausência prolongada;
+- Norma foi consolidada como arco de ressentimento/estigma infantil para tentativa de reparação adulta;
+- Joe/Frank/Gimpy tiveram mudança final preservada sem apagar crueldade, rejeição e ambivalências anteriores;
+- Algernon foi tratado como ser vivo, personagem funcional e série empírica, evitando antropomorfização indevida.
 
-Não foram criados:
+### Hipótese provisória de personagens
 
-- `synthesis/CHARACTERS.md`;
-- `synthesis/THEMES.md`;
-- `synthesis/SYMBOLS.md`;
-- `synthesis/KEY_PASSAGES.md`;
-- `synthesis/INTERPRETATIONS.md`;
-- `synthesis/AUDIT.md`;
-- `synthesis/CRITICAL_ANALYSIS.md`.
-
-A etapa permanece `CONSOLIDATE`.
+`INTERPRETATION — HIGH, A AUDITAR`: os personagens organizam diferentes formas de reconhecer, negar, instrumentalizar, cuidar ou temer a humanidade de Charlie. A regressão final é severa, mas as análises sustentam que ela não apaga de maneira perfeitamente uniforme todas as transformações afetivas e morais adquiridas durante o experimento.
 
 ## NEXT_ACTION
 
-Ler `docs/SYNTHESIS_PROTOCOL.md`, `books/flores-para-algernon/STATUS.md`, `books/flores-para-algernon/synthesis/STRUCTURE.md` e `books/flores-para-algernon/analysis/01.md` a `analysis/10.md`.
+Ler `docs/SYNTHESIS_PROTOCOL.md`, `books/flores-para-algernon/STATUS.md`, `books/flores-para-algernon/synthesis/STRUCTURE.md`, `books/flores-para-algernon/synthesis/CHARACTERS.md` e `books/flores-para-algernon/analysis/01.md` a `analysis/10.md`.
 
-Executar **somente a segunda ação de `CONSOLIDATE`**:
+Executar **somente a terceira ação de `CONSOLIDATE`**:
 
-- criar `books/flores-para-algernon/synthesis/CHARACTERS.md`;
-- consolidar, para cada personagem central, posição inicial, desejo/motivação, conflito, decisões decisivas, transformação ou ausência dela, função temática, relações relevantes e ambiguidades, conforme `docs/SYNTHESIS_PROTOCOL.md`;
-- priorizar Charlie, Algernon, Alice, Nemur, Strauss, Rose, Matt, Norma, Fay, Joe, Frank, Gimpy e Donner; incluir personagens secundários somente quando tiverem função estrutural relevante;
-- preservar as ambivalências já documentadas e não converter personagens complexos em papéis binários;
-- usar apenas a leitura interna; não iniciar pesquisa externa;
-- ao concluir, atualizar `STATUS.md` e este checkpoint marcando somente `synthesis/CHARACTERS.md` como novo artefato concluído;
-- **não criar `THEMES.md`, `SYMBOLS.md`, `KEY_PASSAGES.md` ou `INTERPRETATIONS.md` na mesma etapa**;
+- criar `books/flores-para-algernon/synthesis/THEMES.md`;
+- para cada tema central, registrar definição específica na obra, evidências distribuídas, personagens/eventos associados, evolução, tensões/contradições e grau de confiança;
+- priorizar inteligência e valor humano; pertencimento/solidão; dignidade/deficiência/estigma; ciência/falibilidade/responsabilidade; autonomia/cuidado; memória/identidade/continuidade pessoal; inteligência versus maturidade/afeição; trauma/vergonha/sexualidade; tempo/mortalidade; comunicação/linguagem;
+- separar rigorosamente tema de símbolo/motivo: labirinto, janela, flores, faca, amuletos etc. devem aguardar `SYMBOLS.md` quando sua função for imagética/recorrente;
+- usar somente leitura interna; não iniciar pesquisa externa;
+- ao concluir, atualizar `STATUS.md` e este checkpoint marcando somente `synthesis/THEMES.md` como novo artefato concluído;
+- **não criar `SYMBOLS.md`, `KEY_PASSAGES.md` ou `INTERPRETATIONS.md` na mesma etapa**;
 - **não iniciar `AUDIT`, `SYNTHESIZE`, `PERSONALIZE` ou `FINALIZE`**.
 
 ## CONTINUATION_COMMAND
