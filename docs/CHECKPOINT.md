@@ -45,7 +45,7 @@ O PDF integral não deve ser enviado ao GitHub enquanto o repositório permanece
 - ingestão: concluída
 - mapeamento: concluído
 - segmentação: concluída em 10 blocos semânticos
-- segmentos analisados: 2/10
+- segmentos analisados: 3/10
 
 ## GLOBAL_RULES
 
@@ -58,31 +58,37 @@ O PDF integral não deve ser enviado ao GitHub enquanto o repositório permanece
 
 ## LAST_COMPLETED_ACTION
 
-Executado **Segmento 02** de *Flores para Algernon* conforme `docs/ANALYSIS_PROTOCOL.md`:
+Executado **Segmento 03** de *Flores para Algernon* conforme `docs/ANALYSIS_PROTOCOL.md`:
 
-- escopo narrativo: 30 de março até a conclusão da entrada de 18 de abril;
-- localização física: pp. 25–40, encerrando antes de `RELATÓRIO DE PROGRESSO 10` na p. 40;
-- artefato criado: `books/flores-para-algernon/analysis/02.md`;
-- `books/flores-para-algernon/STATUS.md` sincronizado;
-- nenhum conteúdo do Relatório 10 foi analisado nesta etapa.
+- início: p. 40, `RELATÓRIO DE PROGRESSO 10`, 21 de abril;
+- fim narrativo: conclusão da entrada de 10 de maio no Relatório 11;
+- localização física corrigida: a entrada termina na p. 61, antes da entrada de 11 de maio na mesma página;
+- artefato criado: `books/flores-para-algernon/analysis/03.md`;
+- `analysis/SEGMENTATION.md` e `books/flores-para-algernon/STATUS.md` sincronizados;
+- nenhum conteúdo da entrada de 11 de maio foi incorporado ao Segmento 03.
 
-Eixos consolidados neste segmento: aceleração da escrita e leitura, linguagem como arquivo de identidade, promoção profissional, perda da inocência social, descoberta consciente da crueldade de Joe e Frank, memória autobiográfica reinterpretada, descompasso entre cognição e maturidade emocional, questionamento do Q.I. e da autoridade científica, Rorschach como espelho estrutural e emergência de preocupação com privacidade.
+Eixos consolidados: competência profissional acompanhada de alienação social; memória como reinterpretação moral do passado; ambivalência de Gimpy; privacidade dos relatórios; desidealização de Nemur/Strauss e do ambiente universitário; Rose e Matt como núcleos do trauma familiar; Alice como transição da relação pedagógica para a afetiva; sexualidade associada a medo e punição; continuidade da pessoa antes/depois da cirurgia; dilema de Gimpy como limite da inteligência e início explícito da autonomia moral.
 
 ### Correção de paginação registrada
 
-Durante a leitura da fonte foi verificado que a **p. 40 contém a conclusão da entrada de 18 de abril e, em seguida, o início do Relatório 10 (21 de abril)**. `analysis/SEGMENTATION.md` foi corrigido sem modificar o limite narrativo: Segmento 02 termina antes do Relatório 10 e Segmento 03 começa no cabeçalho do Relatório 10, ambos localizados fisicamente na p. 40.
+Foi confirmado na fonte que a **p. 61 contém o fim da entrada de 10 de maio e o início da entrada de 11 de maio**. Assim:
+
+- Segmento 03 termina na p. 61 antes de `11 de maio`;
+- Segmento 04 começa na mesma p. 61 a partir de `11 de maio`.
+
+O limite narrativo original foi mantido, sem sobreposição de conteúdo.
 
 ## NEXT_ACTION
 
-Ler `books/flores-para-algernon/BOOK.md`, `books/flores-para-algernon/STATUS.md`, `books/flores-para-algernon/analysis/01.md`, `books/flores-para-algernon/analysis/02.md` e `docs/ANALYSIS_PROTOCOL.md`.
+Ler `books/flores-para-algernon/BOOK.md`, `books/flores-para-algernon/STATUS.md`, `books/flores-para-algernon/analysis/01.md`, `analysis/02.md`, `analysis/03.md` e `docs/ANALYSIS_PROTOCOL.md`.
 
-Executar **somente o Segmento 03** de *Flores para Algernon*:
+Executar **somente o Segmento 04** de *Flores para Algernon*:
 
-- início: p. 40, cabeçalho `RELATÓRIO DE PROGRESSO 10`, entrada de 21 de abril;
-- fim: p. 60, conclusão da entrada de 10 de maio no Relatório 11;
-- criar `books/flores-para-algernon/analysis/03.md` conforme `templates/book/analysis/PART_TEMPLATE.md`;
-- usar a obra real como fonte e as análises 01–02 como memória de continuidade, registrando página + Relatório/data quando possível;
-- ao concluir, atualizar `STATUS.md` e este checkpoint para 3/10 segmentos analisados, sem iniciar o Segmento 04 na mesma etapa.
+- início: p. 61, entrada de 11 de maio no Relatório 11;
+- fim: p. 83, conclusão da entrada de 8 de junho, imediatamente antes do Relatório 13;
+- criar `books/flores-para-algernon/analysis/04.md` conforme `templates/book/analysis/PART_TEMPLATE.md`;
+- usar a obra real como fonte e as análises 01–03 como memória de continuidade, registrando página + Relatório/data quando possível;
+- ao concluir, atualizar `STATUS.md` e este checkpoint para 4/10 segmentos analisados, sem iniciar o Segmento 05 na mesma etapa.
 
 ## CONTINUATION_COMMAND
 
