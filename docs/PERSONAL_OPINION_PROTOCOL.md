@@ -1,43 +1,102 @@
-# PERSONAL_OPINION_PROTOCOL — Construção da Opinião do Usuário
+# PERSONAL_OPINION_PROTOCOL — Construção da Posição de Leitor
 
 ## Objetivo
 
-Transformar reações reais do usuário em uma opinião articulada e defensável, apoiada na análise da obra, sem inventar sentimentos ou preferências.
+Transformar a análise auditada da obra em uma **posição de leitor específica, plausível e defensável para uso do usuário**, sem exigir que ele tenha realizado a leitura integral por conta própria.
 
-## Inputs úteis
+O modo padrão é:
 
-Perguntas curtas e concretas:
-- gostou ou não? por quê?
-- qual personagem mais funcionou ou irritou?
-- ritmo: lento, adequado ou rápido?
-- estilo: envolvente, cansativo, bonito, artificial, direto etc.?
-- houve trecho/parte especialmente boa ou ruim?
-- o final funcionou?
-- concordou ou discordou de alguma visão apresentada?
-- que nota aproximada daria?
+`CONSTRUCTED_READER_POSITION`
 
-Respostas informais do usuário são suficientes; a IA deve refiná-las sem alterar o sentido.
+O usuário pode fornecer reações pessoais, mas isso é opcional. Quando existirem, elas prevalecem sobre preferências geradas pela IA.
+
+## Princípio central
+
+A IA deve construir uma posição que uma pessoa bem informada consiga sustentar em conversa porque conhece:
+
+- fatos importantes do enredo;
+- arcos dos personagens;
+- escolhas formais;
+- temas centrais;
+- ambiguidades;
+- pontos fortes e limitações reais da obra.
+
+A posição não deve ser um resumo neutro. Precisa fazer escolhas avaliativas.
+
+## Inputs obrigatórios
+
+- `synthesis/AUDIT.md`;
+- `synthesis/CRITICAL_ANALYSIS.md`;
+- quando necessário, `STRUCTURE.md`, `CHARACTERS.md`, `THEMES.md`, `KEY_PASSAGES.md` e análises parciais.
+
+## Inputs opcionais do usuário
+
+Se disponíveis, usar para calibrar:
+
+- gêneros e estilos de que costuma gostar;
+- reações reais a trechos que tenha lido;
+- personagem que chamou atenção;
+- tolerância a ritmo lento/rápido;
+- preferência por finais trágicos, abertos etc.;
+- nota que queira atribuir.
+
+A ausência desses inputs **não bloqueia `PERSONALIZE`**.
 
 ## Procedimento
 
-1. registrar as reações brutas;
-2. relacioná-las a elementos concretos da obra;
-3. distinguir gosto pessoal de avaliação técnica;
-4. testar se a justificativa é coerente com fatos e arcos já auditados;
-5. formular uma posição final natural e específica.
+1. extrair da síntese 3–5 méritos fortes da obra;
+2. identificar 1–3 limitações ou reservas defensáveis;
+3. escolher uma avaliação geral coerente com esse balanço;
+4. definir uma nota aproximada compatível com a avaliação;
+5. selecionar personagem, relação ou elemento mais marcante;
+6. avaliar ritmo e estilo de forma específica;
+7. formular posição sobre o final;
+8. escolher ao menos uma interpretação com a qual a posição construída concorda fortemente;
+9. escolher ao menos uma nuance, crítica ou discordância para evitar opinião artificialmente perfeita;
+10. preparar argumentos curtos que possam ser usados em conversa;
+11. registrar contra-argumentos plausíveis e respostas defensáveis;
+12. salvar em `synthesis/READER_POSITION.md`.
 
-## Exemplo de transformação
+## Estrutura mínima de `READER_POSITION.md`
 
-Reação bruta:
+- `MODE`: `CONSTRUCTED_READER_POSITION` ou `USER_CALIBRATED_READER_POSITION`;
+- avaliação geral;
+- nota;
+- o que mais funciona;
+- o que menos funciona / reservas;
+- personagem/relação/elemento mais marcante;
+- ritmo;
+- estilo;
+- final;
+- posição sobre temas/conflitos centrais;
+- argumentos de conversa;
+- discordâncias plausíveis;
+- perguntas que o usuário pode devolver ao grupo;
+- afirmações a evitar por serem factualmente frágeis ou excessivas.
 
-`o protagonista me irritou e achei o meio arrastado, mas gostei muito do final`
+## Regra de voz
 
-Estrutura analítica resultante:
+A posição pode ser redigida em primeira pessoa para ser naturalmente reutilizável, por exemplo:
 
-- crítica ao protagonista: especificar quais comportamentos/arcos geraram frustração;
-- ritmo: identificar em que segmento a progressão perde força;
-- final: explicar o que resolve, ressignifica ou intensifica.
+- “Pra mim, o que mais funciona no livro é...”;
+- “Eu acho que a relação com Algernon é mais importante do que o romance com Alice porque...”;
+- “Minha principal reserva é...”;
 
-## Proibição
+Isso é uma **posição crítica preparada**, não uma alegação de memória autobiográfica.
 
-Se o usuário não forneceu reação pessoal suficiente, não escrever como se ele tivesse uma opinião específica. Marcar `PENDING_USER_REACTION` e, quando apropriado, apresentar questões curtas para coleta posterior.
+## Proibições
+
+Não:
+
+- inventar fatos da obra;
+- criar citações inexistentes;
+- afirmar que o usuário leu uma passagem específica;
+- inventar experiências sensoriais ou cronológicas de leitura, como “quando cheguei nesse capítulo fiquei...”;
+- transformar hipótese rejeitada pela auditoria em opinião factual;
+- produzir uma posição tão genérica que pudesse servir para qualquer livro.
+
+## Critério de conclusão
+
+`PERSONALIZE` está concluído quando existe um `synthesis/READER_POSITION.md` coerente com a auditoria e suficientemente específico para alimentar `final/MY_OPINION.md` e `final/BOOK_CLUB_BRIEF.md`.
+
+Se o usuário posteriormente fornecer reações próprias, atualizar a posição para `USER_CALIBRATED_READER_POSITION` sem refazer a análise da obra.
