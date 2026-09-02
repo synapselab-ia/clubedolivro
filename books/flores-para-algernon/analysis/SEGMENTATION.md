@@ -45,8 +45,8 @@ A paginação abaixo é a paginação física do PDF fornecido pelo usuário.
 |---|---|---|---|
 | 01 | Relatórios 1–8, 3–29 de março | pp. 7–24 | Arco completo da seleção e cirurgia até o primeiro sinal inequívoco de ganho cognitivo: Charlie derrota Algernon. |
 | 02 | 30–31 de março + Relatório 9, até 18 de abril | pp. 25–40, encerrando antes de `Relatório de Progresso 10` na p. 40 | Consolida a aceleração intelectual, a mudança da escrita e a descoberta consciente de antigas humilhações; termina com o Rorschach revisitado. |
-| 03 | Relatório 10 + Relatório 11 até 10 de maio | p. 40, a partir de `Relatório de Progresso 10`, até p. 60 | Reúne competência crescente, deslocamento social, memória, surgimento do desejo por Alice e o dilema moral envolvendo Gimpy. |
-| 04 | 11 de maio–8 de junho | pp. 61–83 | Arco de autonomia moral e afetiva, perda da padaria, isolamento e preparação para a convenção científica. |
+| 03 | Relatório 10 + Relatório 11 até 10 de maio | p. 40, a partir de `Relatório de Progresso 10`, até p. 61, encerrando antes da entrada de 11 de maio | Reúne competência crescente, deslocamento social, memória, surgimento do desejo por Alice e o dilema moral envolvendo Gimpy. |
+| 04 | 11 de maio–8 de junho | p. 61, a partir da entrada de 11 de maio, até p. 83 | Arco de autonomia moral e afetiva, perda da padaria, isolamento e preparação para a convenção científica. |
 | 05 | Relatório 13, 10–13 de junho | pp. 84–102 | Unidade concentrada na convenção de Chicago: objetificação de Charlie, novas informações sobre Algernon e ruptura com o controle institucional. |
 | 06 | Relatório 14, 15–20 de junho | pp. 103–116 | Pós-fuga imediato: independência, vida fora do laboratório, Fay e reencontro com o passado/paternidade. |
 | 07 | 21 de junho–12 de julho, incluindo Relatório 15 | pp. 117–135 | Pesquisa autônoma, relações afetivas, sinais preocupantes em Algernon e decisão de retornar ao laboratório. |
@@ -62,10 +62,21 @@ Durante a preparação do Segmento 02 foi verificado na fonte que a **p. 40 cont
 
 Correção aplicada sem alterar o limite narrativo:
 
-- Segmento 02: passa a registrar `pp. 25–40`, **somente até o fim da entrada de 18 de abril**;
+- Segmento 02: `pp. 25–40`, **somente até o fim da entrada de 18 de abril**;
 - Segmento 03: começa na mesma p. 40, **a partir do cabeçalho `RELATÓRIO DE PROGRESSO 10`**.
 
 A p. 40 é portanto uma página compartilhada apenas para fins de localização física; não há sobreposição de conteúdo entre as análises.
+
+### Ajuste de paginação — Segmentos 03/04
+
+Durante a execução do Segmento 03 foi verificado na fonte que a **entrada de 10 de maio continua na p. 61 e termina antes da entrada de 11 de maio, que começa na mesma página**. A tabela anterior registrava p. 60 como término físico do Segmento 03.
+
+Correção aplicada sem alterar o limite narrativo:
+
+- Segmento 03: termina na p. 61, **somente até o fim da entrada de 10 de maio**;
+- Segmento 04: começa na mesma p. 61, **a partir da entrada de 11 de maio**.
+
+A p. 61 é compartilhada apenas como localização física; não há sobreposição de conteúdo entre as análises.
 
 Qualquer alteração posterior exige registrar primeiro o motivo aqui e em `STATUS.md`. Segmentos já analisados não devem ter seus limites alterados sem auditoria explícita.
 
