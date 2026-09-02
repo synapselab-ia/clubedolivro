@@ -45,7 +45,7 @@ O PDF integral não deve ser enviado ao GitHub enquanto o repositório permanece
 - ingestão: concluída
 - mapeamento: concluído
 - segmentação: concluída em 10 blocos semânticos
-- segmentos analisados: 0/10
+- segmentos analisados: 1/10
 
 ## GLOBAL_RULES
 
@@ -58,27 +58,29 @@ O PDF integral não deve ser enviado ao GitHub enquanto o repositório permanece
 
 ## LAST_COMPLETED_ACTION
 
-O primeiro livro foi inicializado conforme `AGENTS.md`:
+Executado **Segmento 01** de *Flores para Algernon* conforme `docs/ANALYSIS_PROTOCOL.md`:
 
-1. fonte e edição identificadas;
-2. `books/flores-para-algernon/` criado;
-3. `BOOK.md` e `STATUS.md` preenchidos;
-4. estrutura real da obra mapeada (17 Relatórios de Progresso);
-5. narrativa dividida em 10 segmentos semânticos documentados em `analysis/SEGMENTATION.md`;
-6. fonte mantida fora do GitHub público e registrada em `source/SOURCE_NOTES.md`.
+- escopo: pp. 7–24 do PDF;
+- período narrativo: 3 a 29 de março;
+- artefato criado: `books/flores-para-algernon/analysis/01.md`;
+- análise preserva fatos, personagens, arcos, temas, motivos, passagens-chave, níveis de confiança e questões abertas;
+- `books/flores-para-algernon/STATUS.md` sincronizado;
+- nenhum conteúdo do Segmento 02 foi analisado nesta etapa.
+
+Eixos iniciais rastreados: inteligência como promessa de pertencimento, escrita como medidor do experimento, ironia dramática nas relações da padaria, paralelismo Charlie–Algernon, recuperação de memória, assimetria de poder científico e primeiros sinais de autonomia cognitiva.
 
 ## NEXT_ACTION
 
-Ler `books/flores-para-algernon/BOOK.md`, `books/flores-para-algernon/STATUS.md` e `docs/ANALYSIS_PROTOCOL.md`.
+Ler `books/flores-para-algernon/BOOK.md`, `books/flores-para-algernon/STATUS.md`, `books/flores-para-algernon/analysis/01.md` e `docs/ANALYSIS_PROTOCOL.md`.
 
-Executar **somente o Segmento 01** de *Flores para Algernon*:
+Executar **somente o Segmento 02** de *Flores para Algernon*:
 
-- escopo: pp. 7–24 do PDF;
-- início: `Relatório de Progresso 1`, 3 de março;
-- fim: conclusão da entrada de 29 de março no `Relatório de Progresso 8`;
-- criar `books/flores-para-algernon/analysis/01.md` conforme `templates/book/analysis/PART_TEMPLATE.md`;
-- usar a obra real como fonte, registrando página + Relatório/data quando possível;
-- ao concluir, atualizar `STATUS.md` e este checkpoint para 1/10 segmentos analisados, sem iniciar o Segmento 02 na mesma etapa.
+- escopo: pp. 25–39 do PDF;
+- início: entrada de 30 de março no `Relatório de Progresso 8`;
+- fim: conclusão do novo teste de Rorschach em 18 de abril;
+- criar `books/flores-para-algernon/analysis/02.md` conforme `templates/book/analysis/PART_TEMPLATE.md`;
+- usar a obra real como fonte e `analysis/01.md` como memória de continuidade, registrando página + Relatório/data quando possível;
+- ao concluir, atualizar `STATUS.md` e este checkpoint para 2/10 segmentos analisados, sem iniciar o Segmento 03 na mesma etapa.
 
 ## CONTINUATION_COMMAND
 
