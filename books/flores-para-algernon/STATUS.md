@@ -49,7 +49,7 @@
 - auditoria adversarial: **PASS**
 - síntese crítica interna: **concluída**
 - posição de leitor: **concluída — `CONSTRUCTED_READER_POSITION`**
-- input pessoal do usuário: **opcional, não bloqueante**
+- `FINALIZE`: **1/4 artefatos obrigatórios concluídos**
 - próximo estágio: `FINALIZE`
 
 ## READER_POSITION_CANON
@@ -76,23 +76,33 @@ A posição canônica para os materiais finais está em `synthesis/READER_POSITI
 - o final é circular, mas não um reset perfeito;
 - o pedido das flores desloca valor de desempenho para memória/cuidado.
 
-### Uso conversacional
-
-`READER_POSITION.md` contém:
-
-- versão de 30 segundos;
-- versão mais crítica;
-- argumentos defensáveis;
-- respostas a discordâncias previsíveis;
-- perguntas para devolver ao grupo;
-- armadilhas factuais e interpretativas.
-
 ## FINAL_ARTIFACTS
 
-- [ ] `final/REVIEW.md`
+- [x] `final/REVIEW.md`
 - [ ] `final/MY_OPINION.md`
 - [ ] `final/BOOK_CLUB_BRIEF.md`
 - [ ] `final/DISCUSSION_QUESTIONS.md`
+
+## FINALIZE_PROGRESS
+
+### `final/REVIEW.md`
+
+**Concluído e verificado.**
+
+A resenha crítica contém:
+
+- identificação da obra e edição;
+- síntese breve sem recontagem excessiva;
+- tese central sobre capacidade cognitiva versus valor humano;
+- análise dos Relatórios de Progresso como dispositivo formal;
+- Charlie como vítima, agente e também reprodutor de condescendência;
+- Algernon como ser vivo, série empírica e vínculo afetivo;
+- crítica à ciência institucional sem leitura anticientífica;
+- pertencimento, autonomia/cuidado e circularidade do final;
+- limitações do miolo e do excesso explicativo;
+- avaliação final **9/10**.
+
+A resenha não inventa memória autobiográfica de leitura, fatos ou citações.
 
 ## POST_AUDIT_AND_SYNTHESIS_SAFEGUARDS
 
@@ -128,34 +138,25 @@ Etapas futuras não devem:
 
 ## LAST_COMPLETED_ACTION
 
-Concluída a correção metodológica solicitada pelo usuário e, sob a nova metodologia, **somente a etapa `PERSONALIZE`**.
+Executado **somente o primeiro artefato de `FINALIZE`: `final/REVIEW.md`**.
 
-### Correção global
+### Execução
 
-- `docs/METHODOLOGY.md` passou a declarar que o objetivo é preparar o usuário para discutir a obra com domínio mesmo sem leitura integral própria;
-- `docs/PERSONAL_OPINION_PROTOCOL.md` passou a usar `CONSTRUCTED_READER_POSITION` como modo padrão;
-- reação pessoal do usuário tornou-se calibração opcional, não pré-requisito;
-- `docs/FINAL_OUTPUT_PROTOCOL.md` passou a derivar `MY_OPINION.md` de `synthesis/READER_POSITION.md`;
-- `README.md` e templates de novos livros foram corrigidos para o mesmo modelo;
-- memórias autobiográficas de leitura continuam proibidas quando não fornecidas pelo usuário.
-
-### Execução para este livro
-
-- confirmado que `synthesis/READER_POSITION.md` não existia;
-- criado e verificado `synthesis/READER_POSITION.md`;
-- posição construída com nota 9/10, elogios, reservas, ritmo, estilo, final, relações centrais, argumentos, contra-argumentos, perguntas e armadilhas;
-- `PERSONALIZE` concluído sem exigir reação do usuário;
-- nenhum artefato `final/` foi criado nesta execução;
-- `FINALIZE` não foi iniciado.
+- relidos `AGENTS.md`, `docs/CHECKPOINT.md`, `BOOK.md`, este `STATUS.md`, `docs/FINAL_OUTPUT_PROTOCOL.md`, `synthesis/AUDIT.md`, `synthesis/CRITICAL_ANALYSIS.md` e `synthesis/READER_POSITION.md`;
+- confirmado antes da escrita que `final/REVIEW.md` não existia;
+- criado e verificado `books/flores-para-algernon/final/REVIEW.md`;
+- resenha mantida coerente com a posição 9/10 e com as salvaguardas da auditoria;
+- confirmado que `final/MY_OPINION.md` ainda não existe;
+- `MY_OPINION.md`, `BOOK_CLUB_BRIEF.md` e `DISCUSSION_QUESTIONS.md` não foram criados nesta execução;
+- `FINALIZE` permanece em andamento.
 
 ## NEXT_ACTION
 
-Executar **somente o primeiro artefato de `FINALIZE`: `final/REVIEW.md`**.
+Executar **somente o segundo artefato de `FINALIZE`: `final/MY_OPINION.md`**.
 
-1. Ler `docs/FINAL_OUTPUT_PROTOCOL.md`, `synthesis/AUDIT.md`, `synthesis/CRITICAL_ANALYSIS.md` e `synthesis/READER_POSITION.md`.
-2. Confirmar que `final/REVIEW.md` não existe.
-3. Criar uma resenha crítica específica da obra, com síntese breve, tese central, pontos fortes, limitações, temas/formas relevantes e avaliação final.
-4. A resenha deve ser coerente com a posição 9/10, mas permanecer uma resenha crítica — não confundir com `MY_OPINION.md`.
-5. Não inventar memória de leitura, citação ou fato não auditado.
-6. Atualizar este `STATUS.md` e `docs/CHECKPOINT.md` depois da criação/verificação.
-7. **Não criar ainda os outros três artefatos finais na mesma execução.**
+1. Ler `docs/FINAL_OUTPUT_PROTOCOL.md`, `synthesis/AUDIT.md`, `synthesis/CRITICAL_ANALYSIS.md`, `synthesis/READER_POSITION.md` e `final/REVIEW.md`.
+2. Confirmar antes da escrita que `final/MY_OPINION.md` não existe.
+3. Criar uma posição em primeira pessoa derivada de `READER_POSITION.md`, com avaliação geral, nota 9/10, méritos, reservas, relação/elemento mais marcante, ritmo, estilo, final e argumentos defensáveis.
+4. Manter o modo `CONSTRUCTED_READER_POSITION` e não inventar memórias autobiográficas de leitura.
+5. Atualizar este `STATUS.md` e `docs/CHECKPOINT.md` após verificar o artefato.
+6. **Não criar `BOOK_CLUB_BRIEF.md` ou `DISCUSSION_QUESTIONS.md` na mesma execução.**
