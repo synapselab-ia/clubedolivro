@@ -52,7 +52,7 @@ O PDF integral não deve ser enviado ao GitHub enquanto o repositório permanece
 - síntese crítica interna: **concluída**
 - posição de leitor: **concluída — `CONSTRUCTED_READER_POSITION`**
 - nota construída: **9/10**
-- `FINALIZE`: **1/4 artefatos obrigatórios concluídos**
+- `FINALIZE`: **2/4 artefatos obrigatórios concluídos**
 - artefatos de síntese concluídos:
   - `synthesis/STRUCTURE.md`
   - `synthesis/CHARACTERS.md`
@@ -65,7 +65,7 @@ O PDF integral não deve ser enviado ao GitHub enquanto o repositório permanece
   - `synthesis/READER_POSITION.md`
 - artefatos finais:
   - [x] `final/REVIEW.md`
-  - [ ] `final/MY_OPINION.md`
+  - [x] `final/MY_OPINION.md`
   - [ ] `final/BOOK_CLUB_BRIEF.md`
   - [ ] `final/DISCUSSION_QUESTIONS.md`
 
@@ -113,33 +113,53 @@ O miolo insiste mais do que o necessário em variações do bloqueio afetivo/sex
 - Chicago identifica insuficiência metodológica, não prova sozinho a regressão;
 - a ciência é falível e institucionalmente criticável, não apresentada como fraude integral.
 
+## FINAL_ARTIFACTS_STATUS
+
+### `final/REVIEW.md`
+
+**COMPLETE** — resenha crítica analítica, coerente com a avaliação 9/10 e com a auditoria.
+
+### `final/MY_OPINION.md`
+
+**COMPLETE** — posição em primeira pessoa no modo `CONSTRUCTED_READER_POSITION`, contendo avaliação, méritos, reservas, ritmo, estilo, final, relações centrais e sete argumentos defensáveis para conversa.
+
+Nenhuma memória autobiográfica específica de leitura foi inventada.
+
+### `final/BOOK_CLUB_BRIEF.md`
+
+**NOT_CREATED**.
+
+### `final/DISCUSSION_QUESTIONS.md`
+
+**NOT_CREATED**.
+
 ## LAST_COMPLETED_ACTION
 
-Executado **somente o primeiro artefato de `FINALIZE`: `final/REVIEW.md`** para *Flores para Algernon*.
+Executado **somente o segundo artefato de `FINALIZE`: `final/MY_OPINION.md`** para *Flores para Algernon*.
 
 ### Execução
 
-- relidos `AGENTS.md`, este checkpoint, `BOOK.md`, `STATUS.md`, `docs/FINAL_OUTPUT_PROTOCOL.md`, `synthesis/AUDIT.md`, `synthesis/CRITICAL_ANALYSIS.md` e `synthesis/READER_POSITION.md`;
-- confirmado antes da escrita que `final/REVIEW.md` não existia;
-- criado e verificado `books/flores-para-algernon/final/REVIEW.md`;
-- a resenha contém identificação, síntese breve, tese crítica, pontos fortes, limitações, análise formal/temática e avaliação final 9/10;
-- a resenha preserva a distinção entre ciência falível e anticiência, a cadeia correta do Efeito Algernon-Gordon, Algernon como ser vivo + dado + vínculo, Warren como agência sob constrangimento e o final como circularidade sem reset;
-- nenhuma memória autobiográfica de leitura foi inventada;
-- confirmado que `final/MY_OPINION.md` ainda não existe;
-- `MY_OPINION.md`, `BOOK_CLUB_BRIEF.md` e `DISCUSSION_QUESTIONS.md` não foram criados nesta execução;
-- `FINALIZE` permanece em andamento.
+- relidos `AGENTS.md`, este checkpoint, `BOOK.md`, `STATUS.md`, `docs/FINAL_OUTPUT_PROTOCOL.md`, `synthesis/AUDIT.md`, `synthesis/CRITICAL_ANALYSIS.md`, `synthesis/READER_POSITION.md` e `final/REVIEW.md`;
+- confirmado antes da escrita que `final/MY_OPINION.md` não existia;
+- criado e verificado `books/flores-para-algernon/final/MY_OPINION.md`;
+- mantido o modo `CONSTRUCTED_READER_POSITION` e a nota 9/10;
+- incluídos méritos, reservas, Charlie–Algernon, ritmo, estilo, final e sete argumentos de discussão;
+- nenhuma memória autobiográfica específica de leitura foi inventada;
+- confirmado que `final/BOOK_CLUB_BRIEF.md` ainda não existe;
+- `BOOK_CLUB_BRIEF.md` e `DISCUSSION_QUESTIONS.md` não foram criados nesta execução;
+- `FINALIZE` permanece em andamento — **2/4**.
 
 ## NEXT_ACTION
 
-Executar **somente o segundo artefato de `FINALIZE`: `final/MY_OPINION.md`**.
+Executar **somente o terceiro artefato de `FINALIZE`: `final/BOOK_CLUB_BRIEF.md`**.
 
-1. Ler `docs/FINAL_OUTPUT_PROTOCOL.md`, `books/flores-para-algernon/STATUS.md`, `synthesis/AUDIT.md`, `synthesis/CRITICAL_ANALYSIS.md`, `synthesis/READER_POSITION.md` e `final/REVIEW.md`.
-2. Confirmar antes da escrita que `books/flores-para-algernon/final/MY_OPINION.md` não existe.
-3. Criar uma posição em primeira pessoa derivada de `READER_POSITION.md`, mantendo o modo `CONSTRUCTED_READER_POSITION`.
-4. Incluir avaliação geral, nota 9/10, méritos, reservas, relação/elemento mais marcante, ritmo, estilo, final e 3–7 argumentos defensáveis.
-5. Não inventar memória autobiográfica de leitura, fato ou citação.
+1. Ler `docs/FINAL_OUTPUT_PROTOCOL.md`, `books/flores-para-algernon/STATUS.md`, `synthesis/AUDIT.md`, `synthesis/CRITICAL_ANALYSIS.md`, `synthesis/READER_POSITION.md`, `final/REVIEW.md` e `final/MY_OPINION.md`.
+2. Confirmar antes da escrita que `books/flores-para-algernon/final/BOOK_CLUB_BRIEF.md` não existe.
+3. Criar um documento de revisão rápida para uso antes/durante a reunião, útil mesmo sem leitura integral própria.
+4. Incluir: resumo em 30 segundos; pontos centrais; personagens; temas; minha posição; momentos-chave; comentários que abrem conversa; respostas a discordâncias; perguntas para o grupo; armadilhas factuais/interpretativas.
+5. Manter a posição 9/10 e todas as salvaguardas auditadas.
 6. Atualizar `STATUS.md` e este checkpoint após verificar o artefato.
-7. **Não criar `BOOK_CLUB_BRIEF.md` ou `DISCUSSION_QUESTIONS.md` na mesma execução.**
+7. **Não criar `DISCUSSION_QUESTIONS.md` na mesma execução.**
 
 ## CONTINUATION_COMMAND
 
