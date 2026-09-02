@@ -47,12 +47,13 @@ O PDF integral não deve ser enviado ao GitHub enquanto o repositório permanece
 - segmentação: concluída em 10 blocos semânticos
 - análise parcial: concluída
 - segmentos analisados: **10/10**
-- consolidação: **em andamento — 3/6 artefatos-base concluídos**
+- consolidação: **em andamento — 4/6 artefatos-base concluídos**
 - artefatos concluídos:
   - `synthesis/STRUCTURE.md`
   - `synthesis/CHARACTERS.md`
   - `synthesis/THEMES.md`
-- próximo artefato: `synthesis/SYMBOLS.md`
+  - `synthesis/SYMBOLS.md`
+- próximo artefato: `synthesis/KEY_PASSAGES.md`
 
 ## GLOBAL_RULES
 
@@ -65,60 +66,69 @@ O PDF integral não deve ser enviado ao GitHub enquanto o repositório permanece
 
 ## LAST_COMPLETED_ACTION
 
-Executada **somente a terceira ação de `CONSOLIDATE`** para *Flores para Algernon*:
+Executada **somente a quarta ação de `CONSOLIDATE`** para *Flores para Algernon*:
 
-- relidos `AGENTS.md`, este checkpoint, `STATUS.md`, `docs/SYNTHESIS_PROTOCOL.md`, `synthesis/STRUCTURE.md`, `synthesis/CHARACTERS.md` e as análises internas necessárias de `analysis/01.md` a `analysis/10.md`;
-- confirmado antes da execução que `synthesis/THEMES.md` não existia;
-- criado e verificado `books/flores-para-algernon/synthesis/THEMES.md`;
-- `STATUS.md` atualizado marcando **somente `THEMES.md`** como novo artefato concluído;
-- nenhum artefato de símbolos, passagens-chave, interpretações, auditoria ou síntese crítica foi criado.
+- relidos `AGENTS.md`, este checkpoint, `BOOK.md`, `STATUS.md`, `docs/SYNTHESIS_PROTOCOL.md`, `synthesis/STRUCTURE.md`, `synthesis/CHARACTERS.md`, `synthesis/THEMES.md` e `analysis/01.md` a `analysis/10.md`;
+- confirmado antes da execução que `synthesis/SYMBOLS.md` não existia;
+- criado e verificado `books/flores-para-algernon/synthesis/SYMBOLS.md`;
+- `STATUS.md` atualizado marcando **somente `SYMBOLS.md`** como novo artefato concluído;
+- nenhum artefato de passagens-chave, interpretações, auditoria ou síntese crítica foi criado.
 
-### Temas consolidados
+### Símbolos fortemente sustentados
 
-O novo artefato registra definição específica, evidências distribuídas, personagens/eventos associados, evolução, tensões/contradições e confiança para:
+- **labirinto / caminhos / becos sem saída / choques** — aparato experimental que passa a organizar impasses afetivos, morais e científicos;
+- **gaiola / jaula / contenção** — controle experimental, trauma familiar e poder institucional;
+- **janela / dentro-fora** — exclusão, proximidade sem acesso e continuidade entre estados de Charlie;
+- **flores / túmulo de Algernon** — memória, luto e cuidado depois da utilidade experimental.
 
-1. inteligência e valor humano;
-2. dignidade, deficiência e estigma;
-3. memória, identidade e continuidade pessoal;
-4. pertencimento e solidão;
-5. ciência, falibilidade e responsabilidade;
-6. autonomia e cuidado;
-7. inteligência versus maturidade, afeto e sabedoria;
-8. trauma, vergonha e sexualidade;
-9. tempo, mortalidade e perda;
-10. comunicação, linguagem e acesso à experiência.
+### Motivos recorrentes
 
-Também foi mantido **conhecimento, inocência e limite** como tema transversal `MEDIUM/HIGH`, pendente de auditoria antes de eventual promoção ao núcleo estrutural.
+- antigo Charlie como observador/duplo, sem estatuto de personagem independente;
+- espelho/reflexo;
+- portas/fechaduras/acesso;
+- faca/sangue e ameaça corporal;
+- livros/leitura/escrita/Relatórios de Progresso;
+- luz/escuridão/visão;
+- amuletos/sorte/pensamento mágico;
+- sintomas corporais de trauma;
+- gravações/filmes/fotografias/documentação;
+- comida/recompensa/condicionamento;
+- tempo como contagem regressiva.
 
-### Salvaguardas temáticas
+### Hipóteses simbólicas rebaixadas
 
-- inteligência não foi tratada como inútil ou intrinsecamente negativa;
-- ciência falível não foi equiparada a anticientificismo;
-- dignidade/estigma, pertencimento/solidão e autonomia/cuidado foram diferenciados conceitualmente;
-- o cuidado permanece ambivalente entre proteção, paternalismo e tutela;
-- compreensão intelectual do trauma não foi confundida com resolução emocional/corporal;
-- a regressão final foi tratada como severa, porém não como reset uniforme de toda transformação moral e afetiva;
-- motivos imagéticos como labirinto, janela, flores, faca e amuletos foram deixados deliberadamente fora da consolidação temática e aguardam `SYMBOLS.md`;
-- a relação com a epígrafe de Platão permanece aberta para auditoria e não foi usada como chave totalizante.
+- ampulheta/areia — `MEDIUM`;
+- sombra no sonho da montanha — `LOW/MEDIUM`;
+- “três ratos cegos” — `LOW`;
+- medalhão/objetos brilhantes — `LOW/MEDIUM`;
+- reflexo de Algernon no toalete — `LOW`.
 
-### Hipótese temática provisória
+### Salvaguardas simbólicas
 
-`INTERPRETATION — HIGH, A AUDITAR`: a obra investiga o que permanece humano quando capacidade cognitiva, reconhecimento social e autonomia mudam radicalmente. A inteligência amplia conhecimento e liberdade, mas não substitui afeto, dignidade, responsabilidade ou pertencimento; sua perda não elimina automaticamente todos os vínculos e aprendizados produzidos durante a experiência.
+- Algernon não foi reduzido a símbolo: permanece personagem, ser vivo e série empírica; o paralelo com Charlie foi classificado como estrutural `HIGH`;
+- Warren e Padaria Donner não foram convertidos em símbolos unívocos;
+- os Relatórios de Progresso foram tratados principalmente como dispositivo/motivo formal;
+- a relação entre epígrafe de Platão e luz/escuridão continua aberta para auditoria;
+- o retorno dos amuletos registra circularidade cognitiva, não reset humano perfeito;
+- padrões locais ou ambíguos foram mantidos com confiança reduzida.
+
+### Hipótese simbólica provisória
+
+`INTERPRETATION — HIGH, A AUDITAR`: o sistema imagético mais consistente da obra organiza **controle, acesso e continuidade**. Labirinto, gaiola, janela/porta/espelho, escrita, trauma corporal e flores reapresentam por vias diferentes os conflitos de autonomia, identidade, pertencimento e dignidade.
 
 ## NEXT_ACTION
 
-Ler `docs/SYNTHESIS_PROTOCOL.md`, `books/flores-para-algernon/STATUS.md`, `books/flores-para-algernon/synthesis/STRUCTURE.md`, `books/flores-para-algernon/synthesis/CHARACTERS.md`, `books/flores-para-algernon/synthesis/THEMES.md` e `books/flores-para-algernon/analysis/01.md` a `analysis/10.md`.
+Ler `docs/SYNTHESIS_PROTOCOL.md`, `books/flores-para-algernon/STATUS.md`, `books/flores-para-algernon/synthesis/STRUCTURE.md`, `synthesis/CHARACTERS.md`, `synthesis/THEMES.md`, `synthesis/SYMBOLS.md` e `books/flores-para-algernon/analysis/01.md` a `analysis/10.md`.
 
-Executar **somente a quarta ação de `CONSOLIDATE`**:
+Executar **somente a quinta ação de `CONSOLIDATE`**:
 
-- criar `books/flores-para-algernon/synthesis/SYMBOLS.md`;
-- registrar somente padrões com suporte razoável, separando **símbolo fortemente sustentado**, **motivo recorrente** e **hipótese simbólica**;
-- priorizar para verificação: Algernon como paralelo que excede função simbólica; labirinto; gaiola/jaula; portas/janelas/estar do lado de fora; espelho/reflexo/duplo; flores; faca/sangue; luz/escuridão; tempo/ampulheta/areia; livros/escrita/relatórios; amuletos/sorte; corpo e sintomas recorrentes; gravações/filmes/fotografias; comida/recompensa;
-- não transformar automaticamente personagem, tema ou espaço em símbolo; exigir recorrência e função textual;
-- preservar níveis de confiança e rebaixar padrões locais ou especulativos;
+- criar `books/flores-para-algernon/synthesis/KEY_PASSAGES.md`;
+- selecionar momentos de maior valor analítico distribuídos ao longo da obra;
+- registrar para cada momento localização verificável, paráfrase/contexto e função, evitando reprodução extensa do texto;
+- assegurar cobertura dos grandes arcos já consolidados: desejo inicial, ascensão, descoberta da humilhação, autonomia, expulsão, Chicago, Algernon, identidade, responsabilidade ética, Warren, descoberta científica, reencontro familiar e regressão/final;
 - usar somente leitura interna; não iniciar pesquisa externa;
-- ao concluir, atualizar `STATUS.md` e este checkpoint marcando somente `synthesis/SYMBOLS.md` como novo artefato concluído;
-- **não criar `KEY_PASSAGES.md` ou `INTERPRETATIONS.md` na mesma etapa**;
+- ao concluir, atualizar `STATUS.md` e este checkpoint marcando somente `synthesis/KEY_PASSAGES.md` como novo artefato concluído;
+- **não criar `INTERPRETATIONS.md` na mesma etapa**;
 - **não iniciar `AUDIT`, `SYNTHESIZE`, `PERSONALIZE` ou `FINALIZE`**.
 
 ## CONTINUATION_COMMAND
