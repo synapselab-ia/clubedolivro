@@ -47,13 +47,14 @@ O PDF integral não deve ser enviado ao GitHub enquanto o repositório permanece
 - segmentação: concluída em 10 blocos semânticos
 - análise parcial: concluída
 - segmentos analisados: **10/10**
-- consolidação: **em andamento — 4/6 artefatos-base concluídos**
+- consolidação: **em andamento — 5/6 artefatos-base concluídos**
 - artefatos concluídos:
   - `synthesis/STRUCTURE.md`
   - `synthesis/CHARACTERS.md`
   - `synthesis/THEMES.md`
   - `synthesis/SYMBOLS.md`
-- próximo artefato: `synthesis/KEY_PASSAGES.md`
+  - `synthesis/KEY_PASSAGES.md`
+- próximo artefato: `synthesis/INTERPRETATIONS.md`
 
 ## GLOBAL_RULES
 
@@ -66,69 +67,95 @@ O PDF integral não deve ser enviado ao GitHub enquanto o repositório permanece
 
 ## LAST_COMPLETED_ACTION
 
-Executada **somente a quarta ação de `CONSOLIDATE`** para *Flores para Algernon*:
+Executada **somente a quinta ação de `CONSOLIDATE`** para *Flores para Algernon*:
 
-- relidos `AGENTS.md`, este checkpoint, `BOOK.md`, `STATUS.md`, `docs/SYNTHESIS_PROTOCOL.md`, `synthesis/STRUCTURE.md`, `synthesis/CHARACTERS.md`, `synthesis/THEMES.md` e `analysis/01.md` a `analysis/10.md`;
-- confirmado antes da execução que `synthesis/SYMBOLS.md` não existia;
-- criado e verificado `books/flores-para-algernon/synthesis/SYMBOLS.md`;
-- `STATUS.md` atualizado marcando **somente `SYMBOLS.md`** como novo artefato concluído;
-- nenhum artefato de passagens-chave, interpretações, auditoria ou síntese crítica foi criado.
+- relidos `AGENTS.md`, este checkpoint, `BOOK.md`, `STATUS.md`, `docs/SYNTHESIS_PROTOCOL.md`, `synthesis/STRUCTURE.md`, `synthesis/CHARACTERS.md`, `synthesis/THEMES.md`, `synthesis/SYMBOLS.md` e `analysis/01.md` a `analysis/10.md`;
+- confirmado antes da execução que `synthesis/KEY_PASSAGES.md` não existia;
+- criado e verificado `books/flores-para-algernon/synthesis/KEY_PASSAGES.md`;
+- `STATUS.md` atualizado marcando **somente `KEY_PASSAGES.md`** como novo artefato concluído;
+- nenhum artefato de interpretações, auditoria ou síntese crítica foi criado.
 
-### Símbolos fortemente sustentados
+### Critério de seleção das passagens
 
-- **labirinto / caminhos / becos sem saída / choques** — aparato experimental que passa a organizar impasses afetivos, morais e científicos;
-- **gaiola / jaula / contenção** — controle experimental, trauma familiar e poder institucional;
-- **janela / dentro-fora** — exclusão, proximidade sem acesso e continuidade entre estados de Charlie;
-- **flores / túmulo de Algernon** — memória, luto e cuidado depois da utilidade experimental.
+O novo artefato não funciona como segundo resumo da obra. Foram selecionados momentos que:
 
-### Motivos recorrentes
+- inauguram ou encerram arcos;
+- alteram o estatuto de uma hipótese/conflito;
+- concentram múltiplos temas;
+- formam paralelismos entre início e final;
+- tornam visível a relação entre forma narrativa e transformação de Charlie.
 
-- antigo Charlie como observador/duplo, sem estatuto de personagem independente;
-- espelho/reflexo;
-- portas/fechaduras/acesso;
-- faca/sangue e ameaça corporal;
-- livros/leitura/escrita/Relatórios de Progresso;
-- luz/escuridão/visão;
-- amuletos/sorte/pensamento mágico;
-- sintomas corporais de trauma;
-- gravações/filmes/fotografias/documentação;
-- comida/recompensa/condicionamento;
-- tempo como contagem regressiva.
+Cada entrada registra localização, paráfrase/contexto, função analítica e conexões com os demais artefatos.
 
-### Hipóteses simbólicas rebaixadas
+### Núcleo coberto
 
-- ampulheta/areia — `MEDIUM`;
-- sombra no sonho da montanha — `LOW/MEDIUM`;
-- “três ratos cegos” — `LOW`;
-- medalhão/objetos brilhantes — `LOW/MEDIUM`;
-- reflexo de Algernon no toalete — `LOW`.
+A seleção inclui os principais pontos da trajetória:
 
-### Salvaguardas simbólicas
+- desejo inicial de inteligência e pertencimento;
+- primeira vitória sobre Algernon;
+- releitura dos Relatórios de Progresso;
+- descoberta da humilhação na padaria;
+- segundo Rorschach;
+- autonomia moral diante de Gimpy;
+- expulsão da padaria;
+- inversão intelectual com Alice;
+- memória do dr. Guarino;
+- Chicago: objetificação, fala de Nemur, falha metodológica e libertação de Algernon;
+- fracasso do reconhecimento de Matt;
+- jovem do restaurante e missão ética;
+- integração parcial do antigo Charlie;
+- regressão observável de Algernon e revelação de Warren;
+- visita a Warren;
+- formulação do Efeito Algernon-Gordon;
+- confirmação externa;
+- morte, dissecação e enterro de Algernon;
+- reencontro com Norma/Rose e faca;
+- rejeição do suicídio;
+- regressão incorporada à escrita;
+- retorno à padaria e defesa pelos antigos colegas;
+- retorno à aula de Alice;
+- decisão por Warren;
+- pedido final de flores para Algernon.
 
-- Algernon não foi reduzido a símbolo: permanece personagem, ser vivo e série empírica; o paralelo com Charlie foi classificado como estrutural `HIGH`;
-- Warren e Padaria Donner não foram convertidos em símbolos unívocos;
-- os Relatórios de Progresso foram tratados principalmente como dispositivo/motivo formal;
-- a relação entre epígrafe de Platão e luz/escuridão continua aberta para auditoria;
-- o retorno dos amuletos registra circularidade cognitiva, não reset humano perfeito;
-- padrões locais ou ambíguos foram mantidos com confiança reduzida.
+### Cadeias comparativas registradas
 
-### Hipótese simbólica provisória
+`KEY_PASSAGES.md` organizou cinco séries para uso em interpretações concorrentes e auditoria:
 
-`INTERPRETATION — HIGH, A AUDITAR`: o sistema imagético mais consistente da obra organiza **controle, acesso e continuidade**. Labirinto, gaiola, janela/porta/espelho, escrita, trauma corporal e flores reapresentam por vias diferentes os conflitos de autonomia, identidade, pertencimento e dignidade.
+1. **escrita e identidade**;
+2. **padaria e pertencimento**;
+3. **Charlie–Algernon**;
+4. **antigo e novo Charlie**;
+5. **ciência da falha**.
+
+### Salvaguardas mantidas
+
+- nenhuma passagem longa da obra foi reproduzida;
+- o reencontro Rose/Norma continua localizado corretamente em 27 de setembro / Segmento 09;
+- a falha metodológica de Chicago não foi confundida com regressão já comprovada;
+- regressão de Algernon → Efeito Algernon-Gordon → confirmação externa foram preservados na ordem correta;
+- Algernon permanece personagem e evidência empírica, não símbolo puro;
+- cenas simbólicas locais e frágeis não foram infladas apenas por impacto emocional;
+- o fechamento das flores foi tratado como forte, mas não como chave totalizante da obra.
+
+### Hipótese provisória derivada da seleção
+
+`INTERPRETATION — HIGH, A AUDITAR`: a obra produz grande parte de sua força por **repetições em condições alteradas**. O retorno de relatórios, testes, padaria, vínculos, espaços e imagens do antigo Charlie cria circularidade, mas as diferenças entre cada repetição sustentam a hipótese concorrente de transformação residual.
 
 ## NEXT_ACTION
 
-Ler `docs/SYNTHESIS_PROTOCOL.md`, `books/flores-para-algernon/STATUS.md`, `books/flores-para-algernon/synthesis/STRUCTURE.md`, `synthesis/CHARACTERS.md`, `synthesis/THEMES.md`, `synthesis/SYMBOLS.md` e `books/flores-para-algernon/analysis/01.md` a `analysis/10.md`.
+Ler `docs/SYNTHESIS_PROTOCOL.md`, `books/flores-para-algernon/STATUS.md`, `books/flores-para-algernon/synthesis/STRUCTURE.md`, `synthesis/CHARACTERS.md`, `synthesis/THEMES.md`, `synthesis/SYMBOLS.md`, `synthesis/KEY_PASSAGES.md` e `books/flores-para-algernon/analysis/01.md` a `analysis/10.md`.
 
-Executar **somente a quinta ação de `CONSOLIDATE`**:
+Executar **somente a sexta ação de `CONSOLIDATE`**:
 
-- criar `books/flores-para-algernon/synthesis/KEY_PASSAGES.md`;
-- selecionar momentos de maior valor analítico distribuídos ao longo da obra;
-- registrar para cada momento localização verificável, paráfrase/contexto e função, evitando reprodução extensa do texto;
-- assegurar cobertura dos grandes arcos já consolidados: desejo inicial, ascensão, descoberta da humilhação, autonomia, expulsão, Chicago, Algernon, identidade, responsabilidade ética, Warren, descoberta científica, reencontro familiar e regressão/final;
+- criar `books/flores-para-algernon/synthesis/INTERPRETATIONS.md`;
+- construir interpretações concorrentes, não apenas uma tese única;
+- para cada leitura registrar tese, evidências favoráveis, evidências contrárias, limitações e classificação provisória, reservando a classificação final para a auditoria;
+- testar obrigatoriamente: **circularidade trágica versus transformação residual**; **inteligência como libertação versus nova forma de isolamento**; **ciência como falha ética versus ciência falível que produz conhecimento**; **Warren como perda de autonomia versus escolha residual de cuidado**; **antigo Charlie como cisão subjetiva versus continuidade pessoal**; **flores/Algernon como fechamento afetivo sem reduzir Algernon a símbolo puro**;
+- usar as cadeias comparativas de `KEY_PASSAGES.md` para confrontar evidências favoráveis e contrárias;
+- preservar hipóteses frágeis como hipóteses;
 - usar somente leitura interna; não iniciar pesquisa externa;
-- ao concluir, atualizar `STATUS.md` e este checkpoint marcando somente `synthesis/KEY_PASSAGES.md` como novo artefato concluído;
-- **não criar `INTERPRETATIONS.md` na mesma etapa**;
+- ao concluir, atualizar `STATUS.md` e este checkpoint marcando somente `synthesis/INTERPRETATIONS.md` como novo artefato concluído e a consolidação-base como **6/6**;
+- **não criar `AUDIT.md` na mesma etapa**;
 - **não iniciar `AUDIT`, `SYNTHESIZE`, `PERSONALIZE` ou `FINALIZE`**.
 
 ## CONTINUATION_COMMAND
