@@ -4,21 +4,15 @@ Este arquivo registra o estado global canônico do projeto.
 
 ## PROJECT_STATE
 
-`BOOK_ACTIVE`
+`READY_FOR_NEXT_BOOK`
 
 ## REPOSITORY_VISIBILITY
 
 `PUBLIC`
 
-## SOURCE_UPLOAD_STATUS
-
-`SOURCE_AVAILABLE_VIA_CHATGPT_FILE_LIBRARY`
-
-O PDF integral não deve ser enviado ao GitHub enquanto o repositório permanecer público.
-
 ## ACTIVE_BOOK
 
-`flores-para-algernon`
+`NONE`
 
 ## COMPLETED_SETUP
 
@@ -34,6 +28,16 @@ O PDF integral não deve ser enviado ao GitHub enquanto o repositório permanece
 - [x] Estrutura verificada no repositório.
 - [x] Metodologia corrigida para `CONSTRUCTED_READER_POSITION` como padrão de `PERSONALIZE`.
 
+## METHODOLOGY_CANON
+
+O sistema deve permitir que o usuário **discuta a obra com domínio e segurança mesmo sem ter realizado leitura integral por conta própria**.
+
+Modo padrão de `PERSONALIZE`:
+
+`CONSTRUCTED_READER_POSITION`
+
+Reações reais do usuário são calibração opcional, não requisito. A posição preparada pode usar primeira pessoa, nota, elogios e críticas, mas não deve inventar fatos, citações ou memórias autobiográficas de leitura.
+
 ## BOOKS
 
 ### `flores-para-algernon`
@@ -41,19 +45,20 @@ O PDF integral não deve ser enviado ao GitHub enquanto o repositório permanece
 - título: *Flores para Algernon*
 - autor: Daniel Keyes
 - edição analisada: Aleph, edição eletrônica brasileira de 2018, tradução de Luisa Geisler
-- fonte legível: PDF fornecido diretamente ao ChatGPT/File Library
-- estado: `FINALIZE`
+- fonte utilizada: PDF fornecido diretamente ao ChatGPT/File Library; integral não publicado no GitHub público
+- estado: **`COMPLETE`**
 - ingestão: concluída
 - mapeamento: concluído
 - segmentação: concluída em 10 blocos semânticos
 - análise parcial: concluída — **10/10**
 - consolidação-base: concluída — **6/6**
-- auditoria adversarial: **concluída — PASS**
-- síntese crítica interna: **concluída**
-- posição de leitor: **concluída — `CONSTRUCTED_READER_POSITION`**
+- auditoria adversarial: **PASS**
+- síntese crítica interna: concluída
+- posição de leitor: **`CONSTRUCTED_READER_POSITION` — concluída**
 - nota construída: **9/10**
-- `FINALIZE`: **4/4 artefatos obrigatórios concluídos**
-- `COMPLETE`: **pendente de auditoria final de encerramento**
+- `FINALIZE`: **4/4**
+- auditoria final de encerramento: **PASS**
+- `COMPLETE`: **concluído**
 
 ### Artefatos de síntese
 
@@ -74,106 +79,65 @@ O PDF integral não deve ser enviado ao GitHub enquanto o repositório permanece
 - [x] `final/BOOK_CLUB_BRIEF.md`
 - [x] `final/DISCUSSION_QUESTIONS.md`
 
-## METHODOLOGY_CANON
+### Posição final canônica
 
-O sistema deve permitir que o usuário **discuta a obra com domínio e segurança mesmo sem ter realizado leitura integral por conta própria**.
+- inteligência é ganho real de capacidade, não mal em si;
+- capacidade cognitiva não é medida suficiente de valor humano;
+- pertencimento é eixo central da obra;
+- maior mérito técnico: progressão e regressão incorporadas na linguagem dos Relatórios de Progresso;
+- relação mais forte para a posição preparada: **Charlie–Algernon**;
+- ciência é criticada em poder, paternalismo e objetificação, sem leitura anticientífica;
+- Charlie também reproduz condescendência durante o auge;
+- Warren combina cuidado, perda de independência e agência sob constrangimento;
+- família alcança compreensão parcial, não reparação plena;
+- padaria final mostra mudança relacional, não redenção total;
+- final: **circularidade sem reset perfeito**;
+- principal reserva: repetição no miolo do eixo trauma/sexualidade e algum excesso explicativo.
 
-Modo padrão de `PERSONALIZE`:
+## FINAL_AUDIT — FLORES PARA ALGERNON
 
-`CONSTRUCTED_READER_POSITION`
+`FINAL_AUDIT: PASS`
 
-Reações reais do usuário são calibração opcional, não requisito. A posição preparada pode usar primeira pessoa, nota, elogios e críticas, mas não deve inventar fatos, citações ou memórias autobiográficas de leitura.
+Checklist de `docs/FINAL_OUTPUT_PROTOCOL.md` concluído:
 
-## READER_POSITION_CANON — FLORES PARA ALGERNON
+- [x] materiais finais coerentes com a auditoria;
+- [x] fatos e interpretações adequadamente distinguidos;
+- [x] `MY_OPINION.md` deriva de `READER_POSITION.md`;
+- [x] posição específica e defensável;
+- [x] nenhuma memória autobiográfica de leitura inventada;
+- [x] afirmações específicas relevantes sustentadas pelas notas/sínteses;
+- [x] nenhuma citação extensa desnecessária;
+- [x] `BOOK_CLUB_BRIEF.md` utilizável como revisão rápida;
+- [x] brief contém armadilhas e respostas a discordâncias;
+- [x] quatro artefatos finais verificados no estado real do repositório;
+- [x] `STATUS.md` atualizado para `COMPLETE`.
 
-`synthesis/READER_POSITION.md` é a posição canônica para os materiais finais.
-
-### Avaliação
-
-**9/10**.
-
-### Méritos centrais
-
-- progressão e regressão incorporadas na própria escrita;
-- relação Charlie–Algernon como eixo emocional mais forte;
-- final estruturalmente preciso;
-- inteligência tratada como capacidade real, não como medida suficiente de humanidade;
-- crítica ética/institucional à ciência sem transformar a obra em anticiência;
-- ambiguidades reais em autonomia/cuidado, pertencimento, família e padaria.
-
-### Reserva principal
-
-O miolo insiste mais do que o necessário em variações do bloqueio afetivo/sexual e em explicações de temas que a própria forma já demonstra.
-
-### Salvaguardas principais
-
-- Charlie–Algernon funciona melhor que Charlie–Alice como relação central para esta posição;
-- Charlie também reproduz condescendência no auge;
-- Nemur é criticável, mas não deve ser reduzido a vilão/fraude;
-- Warren é cuidado + perda de independência + escolha sob constrangimento;
-- família não é plenamente reparada;
-- colegas mudam no final sem redenção total demonstrada;
-- o final é circular sem ser reset perfeito;
-- o pedido das flores fecha a obra deslocando valor de desempenho para memória/cuidado;
-- Chicago identifica insuficiência metodológica, não prova sozinho a regressão;
-- a ciência é falível e institucionalmente criticável, não apresentada como fraude integral.
-
-## FINAL_ARTIFACTS_STATUS
-
-### `final/REVIEW.md`
-
-**COMPLETE** — resenha crítica analítica, coerente com a avaliação 9/10 e com a auditoria.
-
-### `final/MY_OPINION.md`
-
-**COMPLETE** — posição em primeira pessoa no modo `CONSTRUCTED_READER_POSITION`, contendo avaliação, méritos, reservas, ritmo, estilo, final, relações centrais e argumentos defensáveis para conversa.
-
-### `final/BOOK_CLUB_BRIEF.md`
-
-**COMPLETE** — revisão rápida voltada ao uso antes/durante a reunião, inclusive sem leitura integral própria, com resumo, cronologia, personagens, temas, posição, argumentos, respostas a discordâncias e armadilhas.
-
-### `final/DISCUSSION_QUESTIONS.md`
-
-**COMPLETE** — conjunto de 30 perguntas abertas específicas da obra, com notas de facilitação e tensões possíveis sem gabarito imposto.
-
-Cobre:
-
-- dignidade/capacidade;
-- pertencimento;
-- ciência/poder;
-- Charlie–Algernon;
-- autonomia/cuidado;
-- identidade/memória;
-- família/padaria;
-- forma/linguagem;
-- final.
+Nenhuma inconsistência bloqueante exigiu correção dos artefatos finais durante a auditoria de encerramento.
 
 ## LAST_COMPLETED_ACTION
 
-Executado **somente o quarto artefato de `FINALIZE`: `final/DISCUSSION_QUESTIONS.md`** para *Flores para Algernon*.
+Executada **somente a etapa `COMPLETE`** para *Flores para Algernon*.
 
-### Execução
-
-- relidos `AGENTS.md`, este checkpoint, `BOOK.md`, `STATUS.md`, `docs/FINAL_OUTPUT_PROTOCOL.md`, `synthesis/AUDIT.md`, `synthesis/CRITICAL_ANALYSIS.md`, `synthesis/READER_POSITION.md` e `final/BOOK_CLUB_BRIEF.md`;
-- confirmado antes da escrita que `final/DISCUSSION_QUESTIONS.md` não existia;
-- criado e verificado `books/flores-para-algernon/final/DISCUSSION_QUESTIONS.md`;
-- perguntas organizadas para gerar interpretações rivais sustentáveis por evidência textual, sem formato de questionário escolar;
-- incluídas notas de facilitação e tensões possíveis sem impor resposta correta;
-- preservadas todas as salvaguardas auditadas;
-- `FINALIZE` concluído — **4/4**;
-- `COMPLETE` não foi executado nesta execução.
+- relidos `AGENTS.md`, este checkpoint, `STATUS.md` e `docs/FINAL_OUTPUT_PROTOCOL.md`;
+- verificada a existência real dos quatro artefatos finais;
+- relidos `final/REVIEW.md`, `final/MY_OPINION.md`, `final/BOOK_CLUB_BRIEF.md` e `final/DISCUSSION_QUESTIONS.md`;
+- materiais comparados com `synthesis/AUDIT.md`, `synthesis/CRITICAL_ANALYSIS.md` e `synthesis/READER_POSITION.md`;
+- busca adicional não encontrou expressões de memória autobiográfica fabricada;
+- checklist final concluído com `PASS`;
+- `books/flores-para-algernon/STATUS.md` marcado como `COMPLETE`;
+- `ACTIVE_BOOK` removido;
+- nenhuma nova obra foi iniciada.
 
 ## NEXT_ACTION
 
-Executar **somente `COMPLETE`** para *Flores para Algernon*.
+Aguardar o usuário indicar ou fornecer a fonte de uma nova obra.
 
-1. Ler `docs/FINAL_OUTPUT_PROTOCOL.md`, `books/flores-para-algernon/STATUS.md`, este checkpoint e os quatro artefatos finais.
-2. Verificar no estado real do repositório a existência dos quatro artefatos finais obrigatórios.
-3. Aplicar integralmente o checklist final de qualidade de `docs/FINAL_OUTPUT_PROTOCOL.md`.
-4. Conferir coerência dos materiais finais com `synthesis/AUDIT.md`, `synthesis/CRITICAL_ANALYSIS.md` e `synthesis/READER_POSITION.md`.
-5. Corrigir apenas inconsistências bloqueantes, caso existam, e verificar novamente.
-6. Se tudo passar, marcar o livro como `COMPLETE` e atualizar este checkpoint para refletir o encerramento.
-7. Definir a próxima ação global sem iniciar automaticamente outra obra.
+Quando houver nova fonte:
+
+1. identificar título, autor, edição e formato quando possível;
+2. criar `books/<slug>/` com base em `templates/book/`;
+3. registrar o novo livro como `ACTIVE_BOOK`;
+4. executar o protocolo inicial previsto em `AGENTS.md`, sem alterar ou reabrir *Flores para Algernon*.
 
 ## CONTINUATION_COMMAND
 
