@@ -45,7 +45,7 @@ O PDF integral não deve ser enviado ao GitHub enquanto o repositório permanece
 - ingestão: concluída
 - mapeamento: concluído
 - segmentação: concluída em 10 blocos semânticos
-- segmentos analisados: 4/10
+- segmentos analisados: 5/10
 
 ## GLOBAL_RULES
 
@@ -58,37 +58,27 @@ O PDF integral não deve ser enviado ao GitHub enquanto o repositório permanece
 
 ## LAST_COMPLETED_ACTION
 
-Executado **Segmento 04** de *Flores para Algernon* conforme `docs/ANALYSIS_PROTOCOL.md`:
+Executado **Segmento 05** de *Flores para Algernon* conforme `docs/ANALYSIS_PROTOCOL.md`:
 
-- início: p. 61, entrada de 11 de maio no Relatório 11;
-- fim narrativo: conclusão da entrada de 8 de junho, imediatamente antes do Relatório 13;
-- localização física corrigida: a entrada termina na p. 84, antes do cabeçalho do Relatório 13 na mesma página;
-- artefato criado: `books/flores-para-algernon/analysis/04.md`;
-- `analysis/SEGMENTATION.md` e `books/flores-para-algernon/STATUS.md` sincronizados;
-- nenhum conteúdo do Relatório 13 foi incorporado ao Segmento 04.
+- escopo: `RELATÓRIO DE PROGRESSO 13`, de 10 a 13 de junho;
+- localização física: p. 84 a p. 102;
+- artefato criado: `books/flores-para-algernon/analysis/05.md`;
+- `books/flores-para-algernon/STATUS.md` sincronizado;
+- nenhum conteúdo do Relatório 14 foi analisado nesta etapa.
 
-Eixos consolidados: autonomia moral diante de Gimpy; inteligência convertida de promessa de pertencimento em mecanismo de exílio; expulsão da Padaria Donner; desidealização de especialistas; persistência corporal do trauma apesar da compreensão intelectual; inversão da assimetria entre Charlie e Alice; objetificação por Nemur; antigo Charlie como presença interna; memória familiar de Rose/Norma; motivos de labirinto, jaula, portas/janelas e luz; tentativa sexual no Central Park e emergência explícita de impulso autopunitivo.
-
-### Correção de paginação registrada
-
-Foi confirmado na fonte que a **p. 84 contém o fim da entrada de 8 de junho e, depois, o início do `RELATÓRIO DE PROGRESSO 13`**. Assim:
-
-- Segmento 04 termina na p. 84 antes do Relatório 13;
-- Segmento 05 começa na mesma p. 84 a partir do cabeçalho `RELATÓRIO DE PROGRESSO 13`.
-
-O limite narrativo original foi mantido, sem sobreposição de conteúdo.
+Eixos consolidados: origem infantil da motivação de Charlie e memória do dr. Guarino; dignidade anterior à inteligência; limites de Nemur e Strauss e correção parcial da arrogância de Charlie por Burt; convenção de Chicago como ápice da objetificação científica; revelação do comportamento errático prévio de Algernon; filmagens e exposição pública do antigo Charlie; conflito explícito sobre a ideia de Nemur ter “criado” Charlie; detecção de falha metodológica no período de espera; colapso da certeza sobre permanência do aumento; libertação de Algernon e ruptura física com o projeto.
 
 ## NEXT_ACTION
 
-Ler `books/flores-para-algernon/BOOK.md`, `books/flores-para-algernon/STATUS.md`, `books/flores-para-algernon/analysis/01.md`, `analysis/02.md`, `analysis/03.md`, `analysis/04.md` e `docs/ANALYSIS_PROTOCOL.md`.
+Ler `books/flores-para-algernon/BOOK.md`, `books/flores-para-algernon/STATUS.md`, `books/flores-para-algernon/analysis/01.md` a `analysis/05.md` e `docs/ANALYSIS_PROTOCOL.md`.
 
-Executar **somente o Segmento 05** de *Flores para Algernon*:
+Executar **somente o Segmento 06** de *Flores para Algernon*:
 
-- início: p. 84, cabeçalho `RELATÓRIO DE PROGRESSO 13`, entrada de 10 de junho;
-- fim: p. 102, conclusão da entrada de 13 de junho, imediatamente antes do Relatório 14 na p. 103;
-- criar `books/flores-para-algernon/analysis/05.md` conforme `templates/book/analysis/PART_TEMPLATE.md`;
-- usar a obra real como fonte e as análises 01–04 como memória de continuidade, registrando página + Relatório/data quando possível;
-- ao concluir, atualizar `STATUS.md` e este checkpoint para 5/10 segmentos analisados, sem iniciar o Segmento 06 na mesma etapa.
+- início: p. 103, cabeçalho `RELATÓRIO DE PROGRESSO 14`, entrada de 15 de junho;
+- fim: p. 116, conclusão da entrada de 20 de junho;
+- criar `books/flores-para-algernon/analysis/06.md` conforme `templates/book/analysis/PART_TEMPLATE.md`;
+- usar a obra real como fonte e as análises 01–05 como memória de continuidade, registrando página + Relatório/data quando possível;
+- ao concluir, atualizar `STATUS.md` e este checkpoint para 6/10 segmentos analisados, sem iniciar o Segmento 07 na mesma etapa.
 
 ## CONTINUATION_COMMAND
 
