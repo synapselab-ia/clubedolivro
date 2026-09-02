@@ -25,8 +25,8 @@
 - [x] 04 — p. 61, a partir de 11 de maio, até p. 84 antes do Relatório 13 — 11 de maio a 8 de junho: autonomia moral, expulsão da padaria, isolamento, trauma afetivo/sexual e ruptura crescente com Alice
 - [x] 05 — p. 84, a partir do Relatório 13, até p. 102 — 10 a 13 de junho: Chicago, objetificação científica, revelações sobre Algernon, falha metodológica e ruptura com o projeto
 - [x] 06 — pp. 103–116 — Relatório 14, 15 a 20 de junho: fuga transformada em autonomia, vida privada com Algernon, entrada de Fay e reencontro fracassado com Matt
-- [ ] 07 — pp. 117–135 — 21 de junho a 12 de julho: pesquisa autônoma, conflitos afetivos, sinais em Algernon e retorno ao laboratório
-- [ ] 08 — pp. 136–155 — Relatório 16, 14 de julho a 26 de agosto: Warren, relações pessoais e investigação intensiva do experimento
+- [x] 07 — pp. 117–136, até antes do Relatório 16 — 21 de junho a 12 de julho: integração do antigo Charlie, Fay, missão ética, agravamento de Algernon e retorno ao laboratório sob autonomia científica
+- [ ] 08 — p. 136, a partir do Relatório 16, até p. 155 — 14 de julho a 26 de agosto: Warren, relações pessoais e investigação intensiva do experimento
 - [ ] 09 — pp. 156–168 — 2 a 27 de setembro: confirmação da falha, primeiros sinais de regressão e confrontos familiares
 - [ ] 10 — pp. 169–188 — Relatório 17, 3 de outubro a 21 de novembro: declínio, perda progressiva e encerramento
 
@@ -51,17 +51,17 @@
 ## OPEN_QUESTIONS
 
 - Acompanhar como a forma dos relatórios muda junto com o estado cognitivo e emocional de Charlie.
-- Verificar se o comportamento errático de Algernon representa regressão, efeito colateral independente ou outro fenômeno; o Segmento 06 não permite concluir regressão.
-- Acompanhar como Charlie converterá a suspeita metodológica de Chicago em investigação própria.
-- Rastrear a identificação Charlie–Algernon agora que Charlie controla moradia, testes e recompensas do rato.
-- Observar se a busca por motivação não alimentar para Algernon se torna relevante para a crítica ao condicionamento experimental.
-- Acompanhar a presença do “antigo Charlie” como memória, observador interno e componente ativo da identidade atual.
-- Rastrear os motivos de labirinto, gaiola, amarras, portas/janelas, espelho, luz/sombra e liberdade.
-- Observar se Charlie reencontrará Rose e Norma depois de não conseguir se revelar a Matt.
-- Acompanhar o contraste entre compreensão intelectual do trauma e respostas corporais como náusea, medo e necessidade de aprovação.
-- Observar o desenvolvimento de Fay e o contraste entre a ordem compulsiva de Charlie e a espontaneidade/desordem da vizinha.
-- Verificar quando Charlie retomará contato com Alice e com o laboratório.
-- Rastrear a questão do tempo após Charlie admitir que talvez não disponha de tanto quanto imaginava.
+- Determinar a causa, velocidade e reversibilidade da regressão cognitiva agora observada em Algernon.
+- Verificar até que ponto a trajetória de Algernon permite inferir risco equivalente para Charlie sem antecipar uma conclusão ainda não demonstrada.
+- Acompanhar a investigação independente de Charlie e como sua nova autoridade científica altera a relação com Nemur, Strauss e Burt.
+- Observar como a visita a Warren afeta a compreensão de Charlie sobre deficiência, autonomia, institucionalização e futuro.
+- Acompanhar a presença do “antigo Charlie” após a integração parcial registrada com Fay e seu reaparecimento sob álcool.
+- Rastrear os motivos de labirinto, gaiola, amarras, portas/janelas, espelho, luz/sombra, incinerador e Warren.
+- Observar se Charlie retomará a busca por Rose e Norma depois do reencontro fracassado com Matt.
+- Acompanhar o contraste entre Fay e Alice: espontaneidade/contato corporal versus amor, história e maior carga traumática.
+- Verificar se a relação com Fay passa a competir materialmente com o tempo de pesquisa e a urgência científica.
+- Acompanhar a questão do consentimento original: Charlie agora compreende riscos e planos de contingência que não tinha capacidade plena de avaliar antes da cirurgia.
+- Rastrear a questão do tempo e possíveis primeiros sinais em Charlie sem confundi-los com ansiedade, álcool ou fadiga.
 
 ## SOURCE_ISSUES
 
@@ -71,34 +71,46 @@
 - A p. 40 contém o fim da entrada de 18 de abril e o início do Relatório 10; é compartilhada apenas como localização física entre os Segmentos 02 e 03, sem sobreposição de conteúdo.
 - A p. 61 contém o fim da entrada de 10 de maio e o início da entrada de 11 de maio; é compartilhada apenas como localização física entre os Segmentos 03 e 04, sem sobreposição de conteúdo.
 - A p. 84 contém o fim da entrada de 8 de junho e o início do Relatório 13; é compartilhada apenas como localização física entre os Segmentos 04 e 05, sem sobreposição de conteúdo.
-- Nenhuma correção adicional de paginação foi necessária no limite dos Segmentos 06/07: a entrada de 20 de junho encerra o Segmento 06 e 21 de junho inicia o Segmento 07.
+- A p. 136 contém o fim da entrada de 12 de julho e o início do Relatório 16; é compartilhada apenas como localização física entre os Segmentos 07 e 08, sem sobreposição de conteúdo.
 
 ## LAST_COMPLETED_ACTION
 
-Segmento 06 concluído em `analysis/06.md`, cobrindo o `RELATÓRIO DE PROGRESSO 14`, de 15 a 20 de junho. A análise registrou:
+Segmento 07 concluído em `analysis/07.md`, cobrindo de 21 de junho até o fim da entrada de 12 de julho, imediatamente antes do `RELATÓRIO DE PROGRESSO 16`. A análise registrou:
 
-- transformação da fuga de Chicago em autonomia concreta por meio de dinheiro próprio, hotel/apartamento, controle dos relatórios e rotina de estudo;
-- cobertura sensacionalista da imprensa, que simultaneamente objetifica Charlie e fornece os endereços atuais de sua família;
-- recuperação da memória da noite em que Rose exige a retirada de Charlie de casa e Matt intervém diante da escalada com uma faca;
-- decisão de adiar o encontro com Rose até compreender melhor o próprio passado;
-- convivência doméstica com Algernon, criação de espaço próprio para o rato e tentativa de substituir recompensa exclusivamente alimentar por outras motivações;
-- introdução de Fay Lillman e contraste inicial entre espontaneidade/desordem e o controle quase compulsivo do novo espaço de Charlie;
-- localização de Matt na barbearia do Bronx e reencontro marcado por reconhecimento unilateral;
-- reação corporal de Charlie à navalha e à vulnerabilidade do atendimento, conectando presente, cirurgia e trauma;
-- percepção de que Charlie buscava a antiga aprovação paterna mais do que uma simples identificação nominal;
-- incapacidade de revelar a própria identidade a Matt e formulação de uma nova tensão entre continuidade biográfica e transformação radical;
-- manutenção explícita da hipótese sobre Algernon como questão aberta: nenhum dado deste segmento autoriza afirmar regressão.
+- Algernon aprendendo por motivação intrínseca, sem necessidade de recompensa alimentar, mas já alternando desempenho com recusa e fúria;
+- introdução de Minnie como companhia para Algernon;
+- aproximação de Charlie e Fay, regressão comportamental do antigo Charlie sob álcool e confirmação de que a personalidade anterior continua emocionalmente ativa;
+- cena do jovem lavador de pratos em 24 de junho como virada ética: Charlie reconhece a crueldade dirigida à deficiência intelectual e decide usar sua inteligência em benefício de outras pessoas;
+- decisão de procurar a Fundação Welberg para conduzir investigação independente sobre aumento da inteligência;
+- formulação explícita de que o antigo Charlie continua dentro do atual e não pode simplesmente ser apagado;
+- tentativa frustrada de intimidade com Alice e primeira relação sexual consumada com Fay, acompanhada pela presença do antigo Charlie como observador interno;
+- Fay convertida em fonte de contato humano, espontaneidade e vida corporal, embora bebida e vida noturna reduzam tempo e energia para o trabalho;
+- agravamento de Algernon em 9 de julho com agressividade, apatia, confusão e perda de controle no labirinto;
+- retorno a Beekman em 12 de julho sob autorização própria da Fundação e não como simples reconciliação com Nemur;
+- primeira evidência clara de regressão cognitiva de Algernon: Burt constata perda de respostas complexas e retorno à tentativa e erro;
+- descoberta do freezer/incinerador dos animais, pedido para preservar Algernon após a morte e exigência de Charlie por conhecer o próprio plano de contingência;
+- revelação de que a Fundação havia previsto Warren caso Charlie regredisse e de que existia possibilidade de retorno a nível inferior ao pré-operatório;
+- decisão de visitar Warren enquanto ainda possui autonomia para avaliar o próprio possível futuro;
+- início de imersão sistemática em psicologia para investigar o experimento.
 
-Nenhum conteúdo da entrada de 21 de junho foi incorporado ao Segmento 06.
+### Correção de paginação registrada
+
+A fonte confirma que a entrada de **12 de julho continua na p. 136 e termina antes do cabeçalho `RELATÓRIO DE PROGRESSO 16`**, que começa na mesma página. Assim:
+
+- Segmento 07 termina na p. 136 antes do Relatório 16;
+- Segmento 08 começa na mesma p. 136 a partir do Relatório 16.
+
+O limite narrativo original foi mantido, sem sobreposição de conteúdo. `analysis/SEGMENTATION.md` foi sincronizado.
 
 ## NEXT_ACTION
 
-Ler `books/flores-para-algernon/BOOK.md`, `books/flores-para-algernon/STATUS.md`, `books/flores-para-algernon/analysis/01.md` a `analysis/06.md` e `docs/ANALYSIS_PROTOCOL.md`.
+Ler `books/flores-para-algernon/BOOK.md`, `books/flores-para-algernon/STATUS.md`, `books/flores-para-algernon/analysis/01.md` a `analysis/07.md` e `docs/ANALYSIS_PROTOCOL.md`.
 
-Executar **somente o Segmento 07** de *Flores para Algernon*:
+Executar **somente o Segmento 08** de *Flores para Algernon*:
 
-- início: p. 117, entrada de 21 de junho no Relatório 14;
-- fim: p. 135, conclusão da entrada de 12 de julho, incluindo o Relatório 15;
-- criar `books/flores-para-algernon/analysis/07.md` conforme `templates/book/analysis/PART_TEMPLATE.md`;
-- usar a obra real como fonte e as análises 01–06 como memória de continuidade, registrando página + Relatório/data quando possível;
-- ao concluir, atualizar `STATUS.md` e `docs/CHECKPOINT.md` para 7/10 segmentos analisados, sem iniciar o Segmento 08 na mesma etapa.
+- início: p. 136, cabeçalho `RELATÓRIO DE PROGRESSO 16`, entrada de 14 de julho;
+- fim: p. 155, conclusão da entrada de 26 de agosto;
+- criar `books/flores-para-algernon/analysis/08.md` conforme `templates/book/analysis/PART_TEMPLATE.md`;
+- usar a obra real como fonte e as análises 01–07 como memória de continuidade, registrando página + Relatório/data quando possível;
+- verificar durante a leitura se o limite de 26 de agosto exige correção de paginação semelhante às anteriores antes de atualizar os arquivos canônicos;
+- ao concluir, atualizar `STATUS.md` e `docs/CHECKPOINT.md` para 8/10 segmentos analisados, sem iniciar o Segmento 09 na mesma etapa.
