@@ -36,7 +36,7 @@
 - [x] `synthesis/CHARACTERS.md`
 - [x] `synthesis/THEMES.md`
 - [x] `synthesis/SYMBOLS.md`
-- [ ] `synthesis/KEY_PASSAGES.md`
+- [x] `synthesis/KEY_PASSAGES.md`
 - [ ] `synthesis/INTERPRETATIONS.md`
 - [ ] `synthesis/AUDIT.md`
 - [ ] `synthesis/CRITICAL_ANALYSIS.md`
@@ -44,9 +44,9 @@
 ## CONSOLIDATION_PROGRESS
 
 - artefatos-base previstos antes de `AUDIT`: **6**
-- concluídos: **4/6**
-- concluídos: `synthesis/STRUCTURE.md`, `synthesis/CHARACTERS.md`, `synthesis/THEMES.md`, `synthesis/SYMBOLS.md`
-- próximo artefato: `synthesis/KEY_PASSAGES.md`
+- concluídos: **5/6**
+- concluídos: `synthesis/STRUCTURE.md`, `synthesis/CHARACTERS.md`, `synthesis/THEMES.md`, `synthesis/SYMBOLS.md`, `synthesis/KEY_PASSAGES.md`
+- próximo artefato: `synthesis/INTERPRETATIONS.md`
 
 ## FINAL_ARTIFACTS
 
@@ -59,6 +59,7 @@
 
 Questões restantes para consolidação/auditoria:
 
+- Construir em `INTERPRETATIONS.md` leituras concorrentes e explicitamente testáveis, em vez de cristalizar uma única tese antes da auditoria.
 - Auditar a hierarquia temática provisória de `THEMES.md` e a hierarquia simbólica de `SYMBOLS.md`.
 - Determinar com precisão quanto das transformações morais e afetivas de Charlie persiste após a regressão; a leitura interna sustenta persistência parcial, não reset perfeito.
 - Preservar o estatuto de Algernon como personagem, ser vivo e evidência empírica, ainda que o paralelismo Charlie–Algernon seja estruturalmente muito forte.
@@ -66,9 +67,9 @@ Questões restantes para consolidação/auditoria:
 - Preservar a ambivalência de Nemur, Strauss, Matt, Rose e dos colegas da padaria.
 - Verificar na auditoria a relação entre a epígrafe de Platão, conhecimento/limite e o motivo luz/escuridão sem transformá-la em chave única.
 - Preservar a cadeia epistemológica: sinais em Algernon → regressão cognitiva observável → Efeito Algernon-Gordon → validação externa → regressão de Charlie → documentação formal do declínio.
-- Avaliar em `INTERPRETATIONS.md` leituras concorrentes do final: circularidade trágica versus transformação residual; Warren como autonomia versus retirada motivada por vergonha/piedade.
+- Avaliar leituras concorrentes do final: circularidade trágica versus transformação residual; Warren como autonomia versus retirada motivada por vergonha/piedade.
 - Manter rebaixadas, até auditoria, hipóteses simbólicas locais como ampulheta, sombra, “três ratos cegos”, medalhão/objetos brilhantes e reflexo de Algernon.
-- Selecionar em `KEY_PASSAGES.md` momentos de maior valor analítico sem reproduzir extensamente o texto.
+- Usar as cadeias comparativas de `KEY_PASSAGES.md` para testar, e não presumir, as teses sobre escrita/identidade, padaria/pertencimento, Charlie–Algernon, continuidade pessoal e ciência da falha.
 
 ## SOURCE_ISSUES
 
@@ -86,64 +87,79 @@ Questões restantes para consolidação/auditoria:
 
 ## LAST_COMPLETED_ACTION
 
-Concluída a **quarta ação de `CONSOLIDATE`** com criação e verificação de `synthesis/SYMBOLS.md`.
+Concluída a **quinta ação de `CONSOLIDATE`** com criação e verificação de `synthesis/KEY_PASSAGES.md`.
 
-O artefato separa explicitamente **símbolos fortemente sustentados**, **motivos recorrentes** e **hipóteses simbólicas**, usando apenas leitura interna.
+O artefato seleciona momentos de maior valor analítico distribuídos por toda a narrativa e registra para cada um:
 
-### Símbolos fortemente sustentados
+- localização verificável por segmento, página, relatório e/ou data;
+- paráfrase/contexto sem reprodução extensa do texto;
+- função analítica;
+- conexões com estrutura, personagens, temas e motivos.
 
-- **labirinto / caminhos / becos sem saída / choques:** parte do aparato experimental e depois linguagem para escolhas, trauma, impasses afetivos e investigação;
-- **gaiola / jaula / contenção:** controle experimental, ameaça traumática de Rose e poder institucional sobre Charlie e Algernon;
-- **janela / posição dentro-fora:** exclusão, proximidade sem acesso e continuidade entre estados de Charlie;
-- **flores / túmulo de Algernon:** deslocamento de desempenho/utilidade para memória, luto e cuidado.
+### Núcleo de passagens consolidado
 
-### Motivos recorrentes consolidados
+A seleção cobre, entre outros pontos decisivos:
 
-- antigo Charlie como observador/duplo, sem tratá-lo como personagem independente;
-- espelho/reflexo;
-- portas, fechaduras e acesso;
-- faca/sangue e ameaça corporal;
-- livros, leitura, escrita e Relatórios de Progresso;
-- luz/escuridão/visão;
-- amuletos/sorte/pensamento mágico;
-- sintomas corporais de trauma;
-- gravações/filmes/fotografias e documentação;
-- comida/recompensa/condicionamento;
-- tempo como contagem regressiva.
+- 3 de março — desejo inicial por inteligência e pertencimento;
+- 29 de março — primeira vitória sobre Algernon e início da solidariedade;
+- 8 de abril — releitura dos próprios relatórios;
+- 10 de abril — descoberta da humilhação na padaria;
+- 18 de abril — segundo Rorschach e falibilidade da memória interpretada;
+- 10–11 de maio — autonomia moral no caso Gimpy;
+- 20 de maio — expulsão da Padaria Donner;
+- 6 de junho — inversão da desigualdade intelectual entre Charlie e Alice;
+- 10 de junho — dr. Guarino e origem afetiva da busca por inteligência;
+- 13 de junho — objetificação em Chicago, fala de Nemur, falha metodológica e libertação de Algernon;
+- 20 de junho — Matt não reconhece Charlie;
+- 24–25 de junho — jovem do restaurante e integração do antigo Charlie;
+- 12 de julho — regressão observável de Algernon e revelação de Warren;
+- 14 de julho — visita a Warren;
+- 26 de agosto — formulação do Efeito Algernon-Gordon;
+- 15 de setembro — confirmação externa e recomendação de suspender testes humanos;
+- 17 de setembro — morte, dissecação e enterro de Algernon;
+- 27 de setembro — Norma, Rose, faca e menino à janela;
+- 3 de outubro — rejeição do suicídio em nome da continuidade pessoal;
+- 5–15 de novembro — regressão incorporada à linguagem e perda de acesso aos próprios relatórios;
+- 18 de novembro — retorno à padaria, proteção dos antigos colegas e clemência para Klaus;
+- 21 de novembro — retorno à aula, decisão por Warren e pedido final das flores.
 
-### Hipóteses mantidas rebaixadas
+### Cadeias comparativas preparadas para a próxima etapa
 
-- ampulheta/areia: `MEDIUM` como imagem específica, embora tempo seja motivo `HIGH`;
-- sombra do sonho da montanha: `LOW/MEDIUM`;
-- “três ratos cegos”: `LOW`;
-- medalhão/objetos brilhantes: `LOW/MEDIUM`;
-- reflexo de Algernon no toalete: `LOW`.
+`KEY_PASSAGES.md` também organiza cinco cadeias que deverão servir de evidência para interpretações concorrentes:
 
-### Decisões metodológicas
+1. escrita e identidade;
+2. padaria e pertencimento;
+3. Charlie–Algernon;
+4. antigo e novo Charlie;
+5. ciência da falha.
 
-- Algernon **não foi reduzido a símbolo**: foi registrado como paralelismo estrutural `HIGH`, mantendo função de personagem e série empírica;
-- Warren e Padaria Donner não foram convertidos em símbolos unívocos;
-- Relatórios de Progresso foram tratados principalmente como motivo formal/dispositivo narrativo;
-- a epígrafe de Platão não foi usada para fechar a leitura de luz/escuridão;
-- amuletos sustentam circularidade cognitiva, mas não comprovam reset humano perfeito;
-- padrões locais ou ambíguos permaneceram com confiança reduzida.
+### Decisões metodológicas preservadas
 
-### Hipótese simbólica provisória
+- a seleção não foi transformada em resumo completo da obra;
+- passagens foram escolhidas por função analítica, não apenas por impacto dramático;
+- nenhuma passagem longa foi reproduzida;
+- cenas de suporte mais localizado — como medalhão, sombra e “três ratos cegos” — não foram elevadas artificialmente ao núcleo principal;
+- a correção cronológica Rose/Norma em 27 de setembro foi preservada;
+- a cadeia científica permanece na ordem correta, sem antecipar confirmação antes de 15 de setembro;
+- a passagem final das flores foi tratada como fechamento forte, sem convertê-la em chave única para todos os temas.
 
-`INTERPRETATION — HIGH, A AUDITAR`: o sistema imagético mais consistente organiza-se em torno de **controle, acesso e continuidade**. Labirintos estruturam busca e desempenho; gaiolas estruturam contenção; janelas, portas e espelhos estruturam exclusão/acesso/reconhecimento; escrita materializa conhecimento e perda; faca e sintomas corporais preservam o trauma no corpo; flores encerram o arco de Algernon em memória e cuidado.
+### Hipótese provisória derivada da seleção
+
+`INTERPRETATION — HIGH, A AUDITAR`: as passagens-chave reforçam que a obra constrói sentido por **repetições em condições alteradas**. Relatórios, testes, padaria, relações, espaços e a imagem do antigo Charlie reaparecem, mas os retornos não são perfeitamente equivalentes. Essa tensão entre circularidade e transformação residual deve ser testada por leituras concorrentes em `INTERPRETATIONS.md`.
 
 ## NEXT_ACTION
 
-Ler `docs/SYNTHESIS_PROTOCOL.md`, `books/flores-para-algernon/STATUS.md`, `books/flores-para-algernon/synthesis/STRUCTURE.md`, `synthesis/CHARACTERS.md`, `synthesis/THEMES.md`, `synthesis/SYMBOLS.md` e `analysis/01.md` a `analysis/10.md`.
+Ler `docs/SYNTHESIS_PROTOCOL.md`, `books/flores-para-algernon/STATUS.md`, `books/flores-para-algernon/synthesis/STRUCTURE.md`, `synthesis/CHARACTERS.md`, `synthesis/THEMES.md`, `synthesis/SYMBOLS.md`, `synthesis/KEY_PASSAGES.md` e `analysis/01.md` a `analysis/10.md`.
 
-Executar **somente a quinta ação de `CONSOLIDATE`**:
+Executar **somente a sexta ação de `CONSOLIDATE`**:
 
-- criar `books/flores-para-algernon/synthesis/KEY_PASSAGES.md`;
-- selecionar apenas momentos de maior valor analítico distribuídos pela obra;
-- para cada entrada, registrar localização verificável, paráfrase/contexto e função analítica, conforme `docs/SYNTHESIS_PROTOCOL.md`;
-- evitar reprodução extensa do texto e usar citações literais apenas quando uma formulação curta for indispensável;
-- garantir cobertura dos principais arcos: desejo inicial de inteligência; primeiro reconhecimento de mudança; descoberta da humilhação; autonomia moral; expulsão da padaria; Chicago; libertação de Algernon; integração do antigo Charlie; jovem do restaurante; regressão de Algernon; Warren; Efeito Algernon-Gordon; confirmação externa; morte/enterro de Algernon; reencontro familiar; regressão formal; retorno à padaria; retorno à aula; pedido final das flores;
+- criar `books/flores-para-algernon/synthesis/INTERPRETATIONS.md`;
+- construir **interpretações concorrentes**, não apenas uma tese única;
+- para cada leitura, registrar: tese, evidências favoráveis, evidências contrárias, limitações e classificação provisória, deixando a classificação final para a auditoria;
+- obrigatoriamente testar ao menos os seguintes conflitos interpretativos: **circularidade trágica versus transformação residual**; **inteligência como libertação versus inteligência como nova forma de isolamento**; **ciência como falha ética versus ciência falível que produz conhecimento**; **Warren como perda de autonomia versus escolha residual de cuidado**; **antigo Charlie como cisão subjetiva versus continuidade pessoal**; **flores/Algernon como fechamento afetivo sem reduzir Algernon a símbolo puro**;
+- usar as cadeias comparativas de `KEY_PASSAGES.md` para confrontar evidências a favor e contra;
+- preservar hipóteses frágeis como hipóteses, sem promovê-las pela repetição na consolidação;
 - usar somente leitura interna; não iniciar pesquisa externa;
-- ao concluir, atualizar `STATUS.md` e `docs/CHECKPOINT.md` marcando somente `synthesis/KEY_PASSAGES.md` como novo artefato concluído;
-- **não criar `INTERPRETATIONS.md` na mesma etapa**;
+- ao concluir, atualizar `STATUS.md` e `docs/CHECKPOINT.md` marcando somente `synthesis/INTERPRETATIONS.md` como novo artefato concluído e a consolidação-base como **6/6**;
+- **não criar `AUDIT.md` na mesma etapa**;
 - **não iniciar `AUDIT`, `SYNTHESIZE`, `PERSONALIZE` ou `FINALIZE`**.
