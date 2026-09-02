@@ -45,7 +45,7 @@ O PDF integral não deve ser enviado ao GitHub enquanto o repositório permanece
 - ingestão: concluída
 - mapeamento: concluído
 - segmentação: concluída em 10 blocos semânticos
-- segmentos analisados: 5/10
+- segmentos analisados: 6/10
 
 ## GLOBAL_RULES
 
@@ -58,27 +58,33 @@ O PDF integral não deve ser enviado ao GitHub enquanto o repositório permanece
 
 ## LAST_COMPLETED_ACTION
 
-Executado **Segmento 05** de *Flores para Algernon* conforme `docs/ANALYSIS_PROTOCOL.md`:
+Executado **Segmento 06** de *Flores para Algernon* conforme `docs/ANALYSIS_PROTOCOL.md`:
 
-- escopo: `RELATÓRIO DE PROGRESSO 13`, de 10 a 13 de junho;
-- localização física: p. 84 a p. 102;
-- artefato criado: `books/flores-para-algernon/analysis/05.md`;
+- escopo: `RELATÓRIO DE PROGRESSO 14`, de 15 a 20 de junho;
+- localização física: pp. 103–116;
+- artefato criado: `books/flores-para-algernon/analysis/06.md`;
 - `books/flores-para-algernon/STATUS.md` sincronizado;
-- nenhum conteúdo do Relatório 14 foi analisado nesta etapa.
+- nenhum conteúdo da entrada de 21 de junho foi analisado nesta etapa.
 
-Eixos consolidados: origem infantil da motivação de Charlie e memória do dr. Guarino; dignidade anterior à inteligência; limites de Nemur e Strauss e correção parcial da arrogância de Charlie por Burt; convenção de Chicago como ápice da objetificação científica; revelação do comportamento errático prévio de Algernon; filmagens e exposição pública do antigo Charlie; conflito explícito sobre a ideia de Nemur ter “criado” Charlie; detecção de falha metodológica no período de espera; colapso da certeza sobre permanência do aumento; libertação de Algernon e ruptura física com o projeto.
+Eixos consolidados: fuga de Chicago convertida em autonomia prática; mídia como nova forma de objetificação; recuperação da memória da expulsão familiar; decisão de adiar o reencontro com Rose; Algernon transformado em companheiro doméstico e sujeito de investigação sob condições definidas por Charlie; busca de motivação além da comida; introdução de Fay e contraste ordem/desordem; reencontro com Matt sem reconhecimento; reação corporal à navalha e ao passado; necessidade persistente de aprovação paterna; continuidade pessoal problematizada pela incapacidade de Charlie de se revelar ao pai.
+
+A análise mantém explicitamente aberta a questão científica sobre Algernon: o Segmento 06 não fornece evidência suficiente para converter o comportamento errático revelado em Chicago em conclusão de regressão.
+
+### Limite de segmentação confirmado
+
+A fonte confirma que a entrada de **20 de junho** encerra o Segmento 06 e que **21 de junho** inicia o próximo bloco, já com Charlie observando Algernon no labirinto tridimensional. Nenhuma correção de paginação adicional foi necessária.
 
 ## NEXT_ACTION
 
-Ler `books/flores-para-algernon/BOOK.md`, `books/flores-para-algernon/STATUS.md`, `books/flores-para-algernon/analysis/01.md` a `analysis/05.md` e `docs/ANALYSIS_PROTOCOL.md`.
+Ler `books/flores-para-algernon/BOOK.md`, `books/flores-para-algernon/STATUS.md`, `books/flores-para-algernon/analysis/01.md` a `analysis/06.md` e `docs/ANALYSIS_PROTOCOL.md`.
 
-Executar **somente o Segmento 06** de *Flores para Algernon*:
+Executar **somente o Segmento 07** de *Flores para Algernon*:
 
-- início: p. 103, cabeçalho `RELATÓRIO DE PROGRESSO 14`, entrada de 15 de junho;
-- fim: p. 116, conclusão da entrada de 20 de junho;
-- criar `books/flores-para-algernon/analysis/06.md` conforme `templates/book/analysis/PART_TEMPLATE.md`;
-- usar a obra real como fonte e as análises 01–05 como memória de continuidade, registrando página + Relatório/data quando possível;
-- ao concluir, atualizar `STATUS.md` e este checkpoint para 6/10 segmentos analisados, sem iniciar o Segmento 07 na mesma etapa.
+- início: p. 117, entrada de 21 de junho no Relatório 14;
+- fim: p. 135, conclusão da entrada de 12 de julho, incluindo o Relatório 15;
+- criar `books/flores-para-algernon/analysis/07.md` conforme `templates/book/analysis/PART_TEMPLATE.md`;
+- usar a obra real como fonte e as análises 01–06 como memória de continuidade, registrando página + Relatório/data quando possível;
+- ao concluir, atualizar `STATUS.md` e este checkpoint para 7/10 segmentos analisados, sem iniciar o Segmento 08 na mesma etapa.
 
 ## CONTINUATION_COMMAND
 
