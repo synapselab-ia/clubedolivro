@@ -14,7 +14,7 @@
 - [x] AUDIT
 - [x] SYNTHESIZE
 - [x] PERSONALIZE
-- [ ] FINALIZE
+- [x] FINALIZE
 - [ ] COMPLETE
 
 ## SEGMENTS
@@ -42,6 +42,13 @@
 - [x] `synthesis/CRITICAL_ANALYSIS.md`
 - [x] `synthesis/READER_POSITION.md`
 
+## FINAL_ARTIFACTS
+
+- [x] `final/REVIEW.md`
+- [x] `final/MY_OPINION.md`
+- [x] `final/BOOK_CLUB_BRIEF.md`
+- [x] `final/DISCUSSION_QUESTIONS.md`
+
 ## PIPELINE_STATUS
 
 - análise parcial: **10/10 concluída**
@@ -49,76 +56,61 @@
 - auditoria adversarial: **PASS**
 - síntese crítica interna: **concluída**
 - posição de leitor: **concluída — `CONSTRUCTED_READER_POSITION`**
-- `FINALIZE`: **3/4 artefatos obrigatórios concluídos**
-- próximo estágio: `FINALIZE`
+- `FINALIZE`: **4/4 artefatos obrigatórios concluídos**
+- `COMPLETE`: **pendente de auditoria final de encerramento**
 
 ## READER_POSITION_CANON
 
 A posição canônica para os materiais finais está em `synthesis/READER_POSITION.md`.
 
-### Avaliação geral
-
 - nota construída: **9/10**;
-- avaliação: livro excelente, especialmente pela integração entre forma e conteúdo, pelo arco Charlie–Algernon e pelo final;
-- principal reserva: repetição no miolo do conflito afetivo/sexual e de algumas explicações temáticas que poderiam ser mais implícitas.
+- maior mérito técnico: Relatórios de Progresso incorporam ascensão e regressão na própria linguagem;
+- relação mais forte: **Charlie–Algernon**;
+- principal reserva: repetição no miolo do eixo trauma/sexualidade e excesso explicativo em alguns trechos;
+- final: **circularidade sem reset perfeito**.
 
 ### Posições principais
 
-- a inteligência é ganho real de capacidade, não mal em si;
-- o tema mais forte é a separação entre capacidade cognitiva e valor humano;
-- pertencimento é um eixo tão importante quanto inteligência;
-- Charlie–Algernon é a relação mais forte da obra, acima do romance Charlie–Alice para esta posição;
-- Charlie também reproduz condescendência no auge e não é vítima moralmente imune;
-- a obra critica poder/objetificação científica sem ser anticientífica;
-- Warren representa cuidado + perda de independência + agência residual sob constrangimento;
-- família alcança compreensão parcial, não reparação;
-- padaria final demonstra mudança real sem apagar abuso anterior;
-- o final é circular, mas não um reset perfeito;
-- o pedido das flores desloca valor de desempenho para memória/cuidado.
-
-## FINAL_ARTIFACTS
-
-- [x] `final/REVIEW.md`
-- [x] `final/MY_OPINION.md`
-- [x] `final/BOOK_CLUB_BRIEF.md`
-- [ ] `final/DISCUSSION_QUESTIONS.md`
+- inteligência é ganho real de capacidade, não mal em si;
+- capacidade cognitiva não é medida suficiente de valor humano;
+- pertencimento depende de reciprocidade e reconhecimento;
+- Charlie também reproduz condescendência durante o auge;
+- a obra critica poder e objetificação científica sem ser anticientífica;
+- Algernon permanece ser vivo, dado científico, paralelo estrutural e vínculo afetivo;
+- Warren combina cuidado, perda de independência e agência sob constrangimento;
+- família alcança compreensão parcial, não reparação plena;
+- padaria final mostra mudança relacional, não redenção total;
+- documentação, privacidade e autoria são eixo transversal importante.
 
 ## FINALIZE_PROGRESS
 
 ### `final/REVIEW.md`
 
-**Concluído e verificado.**
-
-Resenha crítica com identificação, síntese, tese central, forma, temas, pontos fortes, limitações e avaliação final 9/10, preservando as salvaguardas da auditoria.
+**COMPLETE** — resenha crítica analítica, coerente com a avaliação 9/10 e com a auditoria.
 
 ### `final/MY_OPINION.md`
 
-**Concluído e verificado.**
-
-Modo: `CONSTRUCTED_READER_POSITION`.
-
-Contém avaliação 9/10, méritos, reservas, Charlie–Algernon, ritmo, estilo, final, posições sobre relações/personagens e sete argumentos defensáveis para discussão, sem inventar memória autobiográfica específica.
+**COMPLETE** — posição em primeira pessoa no modo `CONSTRUCTED_READER_POSITION`, sem memória autobiográfica inventada.
 
 ### `final/BOOK_CLUB_BRIEF.md`
 
-**Concluído e verificado.**
+**COMPLETE** — revisão rápida para antes/durante a reunião, com resumo, personagens, temas, cronologia, posição, argumentos, respostas a discordâncias e armadilhas.
 
-Documento operacional de revisão rápida, útil mesmo sem leitura integral própria. Contém:
+### `final/DISCUSSION_QUESTIONS.md`
 
-- resumo em 30 segundos;
-- sete pontos essenciais;
-- personagens que precisam ser lembrados;
-- temas centrais;
-- posição 9/10;
-- cronologia mínima;
-- momentos-chave para citar;
-- comentários que abrem conversa;
-- respostas seguras a discordâncias;
-- sete perguntas para devolver ao grupo;
-- armadilhas factuais/interpretativas;
-- cronologia científica segura;
-- respostas rápidas a perguntas comuns;
-- fala de 15 segundos e fala de 1 minuto.
+**COMPLETE** — 30 perguntas abertas organizadas por eixos, com notas de facilitação, tensões possíveis, combinações para diferentes rumos de reunião e seleção final de cinco perguntas prioritárias.
+
+Cobertura explícita:
+
+- dignidade/capacidade;
+- pertencimento;
+- ciência/poder;
+- Charlie–Algernon;
+- autonomia/cuidado;
+- identidade/memória;
+- família/padaria;
+- forma/linguagem;
+- final.
 
 ## POST_AUDIT_AND_SYNTHESIS_SAFEGUARDS
 
@@ -134,7 +126,6 @@ Etapas futuras não devem:
 - afirmar reparação familiar plena;
 - chamar a defesa final de Joe/Frank/Gimpy de redenção total sem ressalva;
 - usar a compaixão por Klaus como prova de preservação integral da personalidade moral;
-- elevar epígrafe de Platão, ampulheta, sombra, “três ratos cegos”, medalhão/objetos brilhantes ou reflexo de Algernon a chave central;
 - confundir circularidade formal com retorno exato ao ponto inicial;
 - inventar memória autobiográfica de leitura para o usuário.
 
@@ -154,28 +145,31 @@ Etapas futuras não devem:
 
 ## LAST_COMPLETED_ACTION
 
-Executado **somente o terceiro artefato de `FINALIZE`: `final/BOOK_CLUB_BRIEF.md`**.
+Executado **somente o quarto artefato de `FINALIZE`: `final/DISCUSSION_QUESTIONS.md`**.
 
 ### Execução
 
-- relidos `AGENTS.md`, `docs/CHECKPOINT.md`, `BOOK.md`, este `STATUS.md`, `docs/FINAL_OUTPUT_PROTOCOL.md`, `synthesis/AUDIT.md`, `synthesis/CRITICAL_ANALYSIS.md`, `synthesis/READER_POSITION.md`, `final/REVIEW.md` e `final/MY_OPINION.md`;
-- confirmado antes da escrita que `final/BOOK_CLUB_BRIEF.md` não existia;
-- criado e verificado `books/flores-para-algernon/final/BOOK_CLUB_BRIEF.md`;
-- o brief foi estruturado para revisão antes/durante a reunião e para uso mesmo sem leitura integral própria;
-- mantida a posição canônica 9/10 e todas as salvaguardas da auditoria;
-- confirmado que `final/DISCUSSION_QUESTIONS.md` ainda não existe;
-- `DISCUSSION_QUESTIONS.md` não foi criado nesta execução;
-- `FINALIZE` permanece em andamento — **3/4**.
+- relidos `AGENTS.md`, `docs/CHECKPOINT.md`, `BOOK.md`, este `STATUS.md`, `docs/FINAL_OUTPUT_PROTOCOL.md`, `synthesis/AUDIT.md`, `synthesis/CRITICAL_ANALYSIS.md`, `synthesis/READER_POSITION.md` e `final/BOOK_CLUB_BRIEF.md`;
+- confirmado antes da escrita que `final/DISCUSSION_QUESTIONS.md` não existia;
+- criado e verificado `books/flores-para-algernon/final/DISCUSSION_QUESTIONS.md`;
+- perguntas construídas para gerar interpretações rivais sustentáveis por evidência textual, sem gabarito escolar;
+- incluídas notas de facilitação sem impor resposta correta;
+- preservadas todas as salvaguardas auditadas;
+- `FINALIZE` concluído — **4/4**;
+- `COMPLETE` não foi executado nesta execução.
 
 ## NEXT_ACTION
 
-Executar **somente o quarto artefato de `FINALIZE`: `final/DISCUSSION_QUESTIONS.md`**.
+Executar **somente `COMPLETE`**, como auditoria final de encerramento.
 
-1. Ler `docs/FINAL_OUTPUT_PROTOCOL.md`, este `STATUS.md`, `synthesis/AUDIT.md`, `synthesis/CRITICAL_ANALYSIS.md`, `synthesis/READER_POSITION.md` e `final/BOOK_CLUB_BRIEF.md`.
-2. Confirmar antes da escrita que `final/DISCUSSION_QUESTIONS.md` não existe.
-3. Criar perguntas genuinamente abertas, específicas da obra e aptas a gerar interpretações rivais sustentáveis por evidência textual.
-4. Cobrir, sem transformar em questionário escolar: dignidade/capacidade, pertencimento, ciência/poder, Charlie–Algernon, autonomia/cuidado, identidade/memória, família/padaria e final.
-5. Incluir breves notas de facilitação ou tensões possíveis quando isso ajudar a discussão, sem impor uma resposta correta.
-6. Manter todas as salvaguardas auditadas e não inventar fatos/citações.
-7. Atualizar este `STATUS.md` e `docs/CHECKPOINT.md` após verificar o artefato.
-8. **Não executar `COMPLETE` na mesma execução.**
+1. Ler `docs/FINAL_OUTPUT_PROTOCOL.md`, este `STATUS.md`, `docs/CHECKPOINT.md` e os quatro artefatos finais.
+2. Verificar no estado real do repositório que existem:
+   - `final/REVIEW.md`;
+   - `final/MY_OPINION.md`;
+   - `final/BOOK_CLUB_BRIEF.md`;
+   - `final/DISCUSSION_QUESTIONS.md`.
+3. Aplicar o checklist final de qualidade de `docs/FINAL_OUTPUT_PROTOCOL.md`.
+4. Conferir coerência dos materiais finais com `synthesis/AUDIT.md`, `synthesis/CRITICAL_ANALYSIS.md` e `synthesis/READER_POSITION.md`.
+5. Se houver inconsistência bloqueante, corrigir somente o necessário e permanecer fora de `COMPLETE` até verificar novamente.
+6. Se tudo passar, marcar este livro como `COMPLETE` e atualizar `docs/CHECKPOINT.md` para refletir o encerramento do livro.
+7. Definir a próxima ação global sem iniciar a análise de uma nova obra automaticamente.
