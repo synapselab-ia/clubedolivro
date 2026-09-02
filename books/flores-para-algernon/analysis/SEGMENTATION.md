@@ -49,8 +49,8 @@ A paginação abaixo é a paginação física do PDF fornecido pelo usuário.
 | 04 | 11 de maio–8 de junho | p. 61, a partir da entrada de 11 de maio, até p. 84, encerrando antes de `Relatório de Progresso 13` | Arco de autonomia moral e afetiva, perda da padaria, isolamento, ruptura crescente com Alice e preparação para a convenção científica. |
 | 05 | Relatório 13, 10–13 de junho | p. 84, a partir de `Relatório de Progresso 13`, até p. 102 | Unidade concentrada na convenção de Chicago: objetificação de Charlie, novas informações sobre Algernon e ruptura com o controle institucional. |
 | 06 | Relatório 14, 15–20 de junho | pp. 103–116 | Pós-fuga imediato: independência, vida fora do laboratório, Fay e reencontro com o passado/paternidade. |
-| 07 | 21 de junho–12 de julho, incluindo Relatório 15 | pp. 117–135 | Pesquisa autônoma, relações afetivas, sinais preocupantes em Algernon e decisão de retornar ao laboratório. |
-| 08 | Relatório 16, 14 de julho–26 de agosto | pp. 136–155 | Visita a Warren e investigação intensiva do experimento; termina na carta formal a Nemur, antes da confirmação definitiva. |
+| 07 | 21 de junho–12 de julho, incluindo Relatório 15 | pp. 117–136, encerrando antes de `Relatório de Progresso 16` na p. 136 | Pesquisa autônoma, relações afetivas, integração do antigo Charlie, sinais de regressão em Algernon e retorno ao laboratório sob autonomia científica. |
+| 08 | Relatório 16, 14 de julho–26 de agosto | p. 136, a partir de `Relatório de Progresso 16`, até p. 155 | Visita a Warren e investigação intensiva do experimento; termina na carta formal a Nemur, antes da confirmação definitiva. |
 | 09 | Relatório 16, 2–27 de setembro | pp. 156–168 | Confirmação da falha, sinais iniciais de regressão e confrontos familiares; forma a ponte direta para o declínio explícito. |
 | 10 | Relatório 17, 3 de outubro–21 de novembro | pp. 169–188 | Arco final de regressão cognitiva, perda, retorno e despedida. |
 
@@ -88,6 +88,17 @@ Correção aplicada sem alterar o limite narrativo:
 - Segmento 05: começa na mesma p. 84, **a partir do cabeçalho `RELATÓRIO DE PROGRESSO 13`**.
 
 A p. 84 é compartilhada apenas como localização física; não há sobreposição de conteúdo entre as análises.
+
+### Ajuste de paginação — Segmentos 07/08
+
+Durante a execução do Segmento 07 foi verificado na fonte que a **entrada de 12 de julho continua no início da p. 136 e termina antes do cabeçalho `RELATÓRIO DE PROGRESSO 16`, que começa na mesma página**. A tabela anterior registrava p. 135 como término físico do Segmento 07.
+
+Correção aplicada sem alterar o limite narrativo:
+
+- Segmento 07: termina na p. 136, **somente até o fim da entrada de 12 de julho**;
+- Segmento 08: começa na mesma p. 136, **a partir do cabeçalho `RELATÓRIO DE PROGRESSO 16`**.
+
+A p. 136 é compartilhada apenas como localização física; não há sobreposição de conteúdo entre as análises.
 
 Qualquer alteração posterior exige registrar primeiro o motivo aqui e em `STATUS.md`. Segmentos já analisados não devem ter seus limites alterados sem auditoria explícita.
 
