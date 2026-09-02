@@ -2,7 +2,7 @@
 
 ## STATE
 
-`AUDIT`
+`SYNTHESIZE`
 
 ## PROGRESS
 
@@ -11,7 +11,7 @@
 - [x] SEGMENT
 - [x] PART_ANALYSIS
 - [x] CONSOLIDATE
-- [ ] AUDIT
+- [x] AUDIT
 - [ ] SYNTHESIZE
 - [ ] PERSONALIZE
 - [ ] FINALIZE
@@ -38,16 +38,17 @@
 - [x] `synthesis/SYMBOLS.md`
 - [x] `synthesis/KEY_PASSAGES.md`
 - [x] `synthesis/INTERPRETATIONS.md`
-- [ ] `synthesis/AUDIT.md`
+- [x] `synthesis/AUDIT.md`
 - [ ] `synthesis/CRITICAL_ANALYSIS.md`
 
 ## CONSOLIDATION_PROGRESS
 
 - artefatos-base previstos antes de `AUDIT`: **6**
 - concluídos: **6/6**
-- concluídos: `synthesis/STRUCTURE.md`, `synthesis/CHARACTERS.md`, `synthesis/THEMES.md`, `synthesis/SYMBOLS.md`, `synthesis/KEY_PASSAGES.md`, `synthesis/INTERPRETATIONS.md`
+- auditoria adversarial: **concluída — PASS**
 - `CONSOLIDATE`: **concluído**
-- próximo artefato: `synthesis/AUDIT.md`
+- `AUDIT`: **concluído**
+- próximo artefato: `synthesis/CRITICAL_ANALYSIS.md`
 
 ## FINAL_ARTIFACTS
 
@@ -56,23 +57,57 @@
 - [ ] `final/BOOK_CLUB_BRIEF.md`
 - [ ] `final/DISCUSSION_QUESTIONS.md`
 
-## OPEN_QUESTIONS
+## POST_AUDIT_CONSTRAINTS
 
-Questões prioritárias para a auditoria adversarial:
+A síntese crítica deve obedecer ao veredito de `synthesis/AUDIT.md`.
 
-- Testar a hipótese de **circularidade formal trágica + transformação residual**, distinguindo fatos finais de inferências sobre crescimento moral persistente.
-- Auditar a hierarquia temática provisória de `THEMES.md` e a hierarquia simbólica de `SYMBOLS.md`.
-- Determinar com precisão quanto das transformações morais e afetivas de Charlie persiste após a regressão; evitar tanto “reset perfeito” quanto permanência exagerada.
-- Preservar Algernon como personagem, ser vivo e série empírica, ainda que o paralelismo Charlie–Algernon seja estruturalmente `HIGH`.
-- Testar a decisão final por Warren como combinação de perda de autonomia, agência residual, necessidade de cuidado, vergonha e medo de piedade.
-- Verificar se alguma formulação sobre o “antigo Charlie” exige cisão literal ou se continuidade pessoal explica melhor o conjunto.
-- Separar crítica ética/institucional ao projeto de uma leitura anticientífica; preservar a cadeia: sinais em Algernon → regressão cognitiva observável → Efeito Algernon-Gordon → validação externa → regressão de Charlie → documentação formal do declínio.
-- Preservar a ambivalência de Nemur, Strauss, Matt, Rose, Donner e dos colegas da padaria.
-- Distinguir compreensão, perdão, reconciliação e reparação no reencontro familiar de setembro.
-- Testar se a defesa final de Joe/Frank/Gimpy sustenta “redenção” ou apenas pertencimento transformado naquela situação.
-- Verificar a relação entre a epígrafe de Platão, conhecimento/limite e luz/escuridão sem transformá-la em chave única.
-- Manter rebaixadas, salvo nova evidência, hipóteses locais como ampulheta, sombra, “três ratos cegos”, medalhão/objetos brilhantes e reflexo de Algernon.
-- Identificar qualquer conclusão que exija `NEEDS_SOURCE_RECHECK` em vez de preenchimento por inferência.
+### Interpretações confirmadas (`SUPPORTED`)
+
+- capacidade cognitiva não é medida suficiente de valor humano;
+- a forma dos Relatórios de Progresso participa diretamente da construção de sentido;
+- continuidade pessoal explica melhor o conjunto que dois Charlies literalmente separados;
+- a obra critica falibilidade, poder e práticas do projeto sem sustentar uma leitura anticientífica;
+- Algernon é simultaneamente personagem/ser vivo, série empírica e paralelo estrutural;
+- o reencontro familiar produz compreensão/reaproximação parcial, não reparação plena;
+- a padaria final registra mudança relacional real sem apagar o abuso anterior;
+- labirinto, janela e flores possuem suporte simbólico forte.
+
+### Interpretações que exigem ressalvas (`SUPPORTED_WITH_CAVEATS`)
+
+- circularidade formal trágica + transformação residual: a circularidade é forte; a persistência moral/afetiva final é seletiva, não global;
+- inteligência como nova forma de isolamento: participa do isolamento, mas não é causa única;
+- falha ética do experimento: críticas específicas são fortes, sem converter toda ciência em fracasso moral;
+- Warren como perda de autonomia e como escolha residual: as duas dimensões coexistem sob constrangimento;
+- antigo Charlie como cisão subjetiva: válido como experiência/formalização, não como duas pessoas;
+- persistência moral/afetiva durante a regressão: formular como perda não perfeitamente sincronizada;
+- tragédia do conhecimento: conhecimento possui custo e responsabilidade, mas continua sendo valorizado;
+- autonomia não equivale a independência absoluta e varia fortemente ao longo do romance;
+- gaiola, espelho, portas, luz/escuridão e recompensa devem permanecer motivos/símbolos delimitados.
+
+### Leituras rejeitadas como tese final (`REJECTED`)
+
+- reset perfeito de Charlie;
+- inteligência como mal em si;
+- ciência como fraude/inimiga da humanidade;
+- pesquisadores já sabiam a forma específica da regressão;
+- antigo Charlie como pessoa literalmente separada;
+- Algernon como mero símbolo;
+- Warren como simples gaiola/prisão humana;
+- reparação familiar plena;
+- redenção/absolvição total de Joe, Frank e Gimpy;
+- compaixão por Klaus como prova de preservação integral da maturação moral;
+- epígrafe de Platão como chave totalizante;
+- hipóteses locais como “três ratos cegos”, sombra, ampulheta, medalhão/objetos brilhantes ou reflexo de Algernon como símbolos centrais.
+
+### Elementos subponderados a incorporar
+
+- documentação, privacidade, autoria e controle dos registros;
+- capacidade de Charlie reproduzir condescendência apesar de ter sido vítima dela;
+- cuidado como rede de relações, não apenas Warren versus autonomia;
+- diferença entre persistência interna em Charlie e efeitos externos de sua trajetória;
+- manutenção conjunta das funções empírica e afetiva de Algernon;
+- imprensa como repetição secundária da lógica de redução/espetáculo;
+- Guarino como contraste entre validade científica e trato humano, sem idealização.
 
 ## SOURCE_ISSUES
 
@@ -83,69 +118,49 @@ Questões prioritárias para a auditoria adversarial:
 - A p. 61 contém o fim da entrada de 10 de maio e o início da entrada de 11 de maio; é compartilhada apenas como localização física entre os Segmentos 03 e 04, sem sobreposição de conteúdo.
 - A p. 84 contém o fim da entrada de 8 de junho e o início do Relatório 13; é compartilhada apenas como localização física entre os Segmentos 04 e 05, sem sobreposição de conteúdo.
 - A p. 136 contém o fim da entrada de 12 de julho e o início do Relatório 16; é compartilhada apenas como localização física entre os Segmentos 07 e 08, sem sobreposição de conteúdo.
-- A fronteira 08/09 foi corrigida cronologicamente: depois da entrada de 26 de agosto vem **1º de setembro**, e não 2 de setembro.
-- **Correção factual registrada no Segmento 09:** o reencontro presencial com Rose e Norma, a confissão de Norma e a cena da faca ocorrem em **27 de setembro**, e não antes de 26 de agosto.
-- A fronteira 09/10 foi conferida: 27 de setembro encerra o Relatório 16 na p. 168; o Relatório 17 começa na p. 169 em 3 de outubro.
-- A fronteira final foi conferida diretamente: o Relatório 17 termina na **p. 188**, em 21 de novembro; a **p. 189** inicia `Sobre o autor`.
+- A fronteira 08/09 está estabilizada: depois da entrada de 26 de agosto vem **1º de setembro**.
+- O reencontro com Rose e Norma, a confissão de Norma e a cena da faca ocorrem em **27 de setembro / Segmento 09**.
+- A fronteira 09/10 está estabilizada: 27 de setembro encerra o Relatório 16 na p. 168; o Relatório 17 começa na p. 169 em 3 de outubro.
+- A narrativa termina na **p. 188**, em 21 de novembro; a **p. 189** inicia `Sobre o autor`.
 
 ## LAST_COMPLETED_ACTION
 
-Concluída a **sexta e última ação-base de `CONSOLIDATE`** com criação e verificação de `synthesis/INTERPRETATIONS.md`.
+Concluída **somente a etapa `AUDIT`** com criação e verificação de `synthesis/AUDIT.md`.
 
-O artefato constrói interpretações concorrentes com tese, evidências favoráveis, evidências contrárias, limitações e classificação provisória pré-auditoria.
+### Execução
 
-### Tensões obrigatórias testadas
+- relidos `docs/AUDIT_PROTOCOL.md`, `BOOK.md`, este `STATUS.md`, `analysis/01.md` a `analysis/10.md` e os seis artefatos-base;
+- confirmado antes da escrita que `synthesis/AUDIT.md` não existia;
+- auditadas integridade factual, cobertura, interpretações concorrentes, hierarquia de temas/símbolos, contradições, linguagem inflada e lacunas;
+- interpretações classificadas como `SUPPORTED`, `SUPPORTED_WITH_CAVEATS`, `UNCERTAIN` ou `REJECTED`;
+- nenhuma nova correção factual importante foi encontrada;
+- nenhum `NEEDS_SOURCE_RECHECK` obrigatório permaneceu;
+- nenhuma pesquisa externa foi realizada;
+- auditoria encerrada com **`AUDIT: PASS`**.
 
-1. **circularidade trágica** versus **transformação residual**;
-2. **inteligência como libertação** versus **inteligência como nova forma de isolamento**;
-3. **ciência como falha ética/institucional** versus **ciência falível que produz conhecimento**;
-4. **Warren como perda de autonomia** versus **escolha residual de cuidado**;
-5. **antigo Charlie como cisão subjetiva** versus **continuidade pessoal**;
-6. **Algernon/flores como fechamento afetivo e figurativo** sem reduzir Algernon a símbolo puro.
+### Principais decisões adversariais
 
-### Tensões adicionais consolidadas
+- a circularidade formal é forte, mas “transformação residual” deve permanecer seletiva e delimitada;
+- o final não prova preservação integral da maturação moral;
+- a defesa final dos colegas prova mudança relacional/comportamental, não redenção completa;
+- Warren combina perda de autonomia, necessidade de cuidado e agência residual sob constrangimento;
+- antigo Charlie é melhor explicado por continuidade pessoal e cisão subjetiva, não por duas pessoas;
+- ciência falível e crítica ética/institucional coexistem;
+- Algernon não pode ser reduzido a símbolo;
+- família alcança compreensão parcial sem reparação plena;
+- hipóteses simbólicas locais permanecem rebaixadas.
 
-- reencontro familiar como reconciliação versus compreensão sem reparação plena;
-- defesa final na padaria como redenção versus pertencimento transformado sem apagamento do abuso;
-- tragédia do conhecimento/limite;
-- valor humano não redutível à capacidade;
-- autonomia como algo distinto de independência absoluta;
-- forma dos Relatórios de Progresso como parte do argumento do romance.
-
-### Leituras provisoriamente mais fortes
-
-`HIGH, A AUDITAR`:
-
-- capacidade cognitiva não é medida suficiente de valor humano;
-- inteligência produz liberdade real e também novas assimetrias/isolamento;
-- a obra critica práticas éticas do projeto sem se tornar anticientífica;
-- os Relatórios de Progresso incorporam formalmente ascensão e regressão;
-- continuidade pessoal é mais bem sustentada que dois Charlies literalmente separados;
-- Algernon é ser vivo/personagem/série empírica e também paralelo estrutural;
-- o final combina circularidade formal com diferenças humanas e relacionais persistentes;
-- a família alcança compreensão parcial, não reparação plena.
-
-Nenhuma dessas formulações está aprovada como tese final antes de `AUDIT`.
+`CRITICAL_ANALYSIS.md` **não foi criado** nesta execução.
 
 ## NEXT_ACTION
 
-Ler `docs/AUDIT_PROTOCOL.md`, este `STATUS.md`, `BOOK.md`, `analysis/01.md` a `analysis/10.md` e todos os seis artefatos-base de consolidação:
+Executar **somente a etapa `SYNTHESIZE`** correspondente à análise crítica global.
 
-- `synthesis/STRUCTURE.md`;
-- `synthesis/CHARACTERS.md`;
-- `synthesis/THEMES.md`;
-- `synthesis/SYMBOLS.md`;
-- `synthesis/KEY_PASSAGES.md`;
-- `synthesis/INTERPRETATIONS.md`.
-
-Executar **somente a etapa `AUDIT`**:
-
-- confirmar antes da escrita que `books/flores-para-algernon/synthesis/AUDIT.md` ainda não existe;
-- realizar auditoria adversarial de integridade factual, cobertura, interpretações, símbolos/temas, contradições internas, linguagem inflada e lacunas conforme `docs/AUDIT_PROTOCOL.md`;
-- testar cada interpretação central contra a melhor evidência contrária e classificar como `SUPPORTED`, `SUPPORTED_WITH_CAVEATS`, `UNCERTAIN` ou `REJECTED`;
-- criar `books/flores-para-algernon/synthesis/AUDIT.md` com as seções obrigatórias `FACTUAL_CORRECTIONS`, `INTERPRETATIONS_CONFIRMED`, `INTERPRETATIONS_DOWNGRADED`, `INTERPRETATIONS_REJECTED`, `MISSING_OR_UNDERWEIGHTED_ELEMENTS`, `NEEDS_SOURCE_RECHECK` e `FINAL_CONFIDENCE_NOTES`;
-- retornar à fonte original somente quando uma conclusão relevante realmente exigir `NEEDS_SOURCE_RECHECK`; não preencher lacunas por memória;
-- usar somente leitura interna nesta etapa; não iniciar pesquisa externa;
-- ao concluir, atualizar `STATUS.md` e `docs/CHECKPOINT.md` conforme o resultado da auditoria e só marcar `AUDIT` concluído se nenhuma correção factual importante permanecer sem registro explícito;
-- **não criar `CRITICAL_ANALYSIS.md` na mesma execução**;
-- **não iniciar `SYNTHESIZE`, `PERSONALIZE` ou `FINALIZE`**.
+1. Ler `docs/SYNTHESIS_PROTOCOL.md`, este `STATUS.md`, `BOOK.md`, `analysis/01.md` a `analysis/10.md`, os seis artefatos-base e `synthesis/AUDIT.md`.
+2. Confirmar antes da escrita que `books/flores-para-algernon/synthesis/CRITICAL_ANALYSIS.md` ainda não existe.
+3. Criar **somente** `synthesis/CRITICAL_ANALYSIS.md`, incorporando obrigatoriamente as correções, classificações e limitações de `AUDIT.md`.
+4. A análise crítica deve responder às questões previstas em `docs/SYNTHESIS_PROTOCOL.md`: função global da obra, conflitos organizadores, arcos, temas fortes, forma/ponto de vista, ambiguidades, interpretações rivais, eficácia, limitações defensáveis e questões relevantes para clube do livro.
+5. Não reelevar interpretações `REJECTED` nem hipóteses simbólicas rebaixadas.
+6. Não iniciar pesquisa externa; contexto externo permanece etapa posterior e separada.
+7. Ao concluir e verificar `CRITICAL_ANALYSIS.md`, atualizar este `STATUS.md` e `docs/CHECKPOINT.md`.
+8. **Não iniciar `PERSONALIZE` ou `FINALIZE` na mesma execução.**
