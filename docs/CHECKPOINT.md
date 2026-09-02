@@ -4,7 +4,7 @@ Este arquivo registra o estado global canônico do projeto.
 
 ## PROJECT_STATE
 
-`READY_FOR_FIRST_BOOK`
+`BOOK_ACTIVE`
 
 ## REPOSITORY_VISIBILITY
 
@@ -12,11 +12,13 @@ Este arquivo registra o estado global canônico do projeto.
 
 ## SOURCE_UPLOAD_STATUS
 
-`DO_NOT_UPLOAD_COPYRIGHTED_PDF_EPUB_WHILE_PUBLIC`
+`SOURCE_AVAILABLE_VIA_CHATGPT_FILE_LIBRARY`
+
+O PDF integral não deve ser enviado ao GitHub enquanto o repositório permanecer público.
 
 ## ACTIVE_BOOK
 
-`NONE`
+`flores-para-algernon`
 
 ## COMPLETED_SETUP
 
@@ -33,7 +35,17 @@ Este arquivo registra o estado global canônico do projeto.
 
 ## BOOKS
 
-Nenhum livro inicializado ainda.
+### `flores-para-algernon`
+
+- título: *Flores para Algernon*
+- autor: Daniel Keyes
+- edição analisada: Aleph, edição eletrônica brasileira de 2018, tradução de Luisa Geisler
+- fonte legível: PDF fornecido diretamente ao ChatGPT/File Library
+- estado: `PART_ANALYSIS`
+- ingestão: concluída
+- mapeamento: concluído
+- segmentação: concluída em 10 blocos semânticos
+- segmentos analisados: 0/10
 
 ## GLOBAL_RULES
 
@@ -42,22 +54,31 @@ Nenhum livro inicializado ainda.
 - A obra é analisada incrementalmente antes da síntese final.
 - Evidências e hipóteses devem permanecer distinguíveis.
 - PDF/EPUB integral não deve ser publicado enquanto o repositório estiver público.
-- Armazenar um PDF/EPUB no GitHub não garante que o conector da IA consiga ler o binário; `BOOK.md` deve distinguir `STORAGE_SOURCE` e `READABLE_SOURCE`.
+- Armazenar um PDF/EPUB no GitHub não garante que o conector da IA consiga ler o binário; `BOOK.md` distingue `STORAGE_SOURCE` e `READABLE_SOURCE`.
+
+## LAST_COMPLETED_ACTION
+
+O primeiro livro foi inicializado conforme `AGENTS.md`:
+
+1. fonte e edição identificadas;
+2. `books/flores-para-algernon/` criado;
+3. `BOOK.md` e `STATUS.md` preenchidos;
+4. estrutura real da obra mapeada (17 Relatórios de Progresso);
+5. narrativa dividida em 10 segmentos semânticos documentados em `analysis/SEGMENTATION.md`;
+6. fonte mantida fora do GitHub público e registrada em `source/SOURCE_NOTES.md`.
 
 ## NEXT_ACTION
 
-Aguardar o primeiro livro.
+Ler `books/flores-para-algernon/BOOK.md`, `books/flores-para-algernon/STATUS.md` e `docs/ANALYSIS_PROTOCOL.md`.
 
-Antes de colocar PDF/EPUB integral protegido no GitHub, o usuário deve tornar o repositório privado. Alternativamente, pode fornecer o arquivo diretamente ao ChatGPT/File Library e manter apenas as análises no GitHub.
+Executar **somente o Segmento 01** de *Flores para Algernon*:
 
-Quando a fonte estiver disponível em formato efetivamente legível pela IA:
-
-1. identificar título/autor/edição;
-2. criar `books/<slug>/` a partir de `templates/book/`;
-3. preencher `BOOK.md` e `STATUS.md`;
-4. mapear a estrutura real da obra;
-5. definir a segmentação semântica;
-6. atualizar este checkpoint com `ACTIVE_BOOK` e a próxima ação concreta.
+- escopo: pp. 7–24 do PDF;
+- início: `Relatório de Progresso 1`, 3 de março;
+- fim: conclusão da entrada de 29 de março no `Relatório de Progresso 8`;
+- criar `books/flores-para-algernon/analysis/01.md` conforme `templates/book/analysis/PART_TEMPLATE.md`;
+- usar a obra real como fonte, registrando página + Relatório/data quando possível;
+- ao concluir, atualizar `STATUS.md` e este checkpoint para 1/10 segmentos analisados, sem iniciar o Segmento 02 na mesma etapa.
 
 ## CONTINUATION_COMMAND
 
