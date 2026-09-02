@@ -45,9 +45,10 @@ O PDF integral não deve ser enviado ao GitHub enquanto o repositório permanece
 - ingestão: concluída
 - mapeamento: concluído
 - segmentação: concluída em 10 blocos semânticos
-- análise parcial: **concluída**
+- análise parcial: concluída
 - segmentos analisados: **10/10**
-- consolidação: ainda não iniciada
+- consolidação: **iniciada — 1/6 artefatos-base concluídos**
+- artefato de consolidação concluído: `synthesis/STRUCTURE.md`
 
 ## GLOBAL_RULES
 
@@ -60,68 +61,61 @@ O PDF integral não deve ser enviado ao GitHub enquanto o repositório permanece
 
 ## LAST_COMPLETED_ACTION
 
-Executado **Segmento 10** de *Flores para Algernon* conforme `docs/ANALYSIS_PROTOCOL.md`, concluindo `PART_ANALYSIS`:
+Executada **somente a primeira ação de `CONSOLIDATE`** para *Flores para Algernon*:
 
-- escopo narrativo: `RELATÓRIO DE PROGRESSO 17`, de **3 de outubro a 21 de novembro**;
-- localização física: pp. **169–188**;
-- artefato criado: `books/flores-para-algernon/analysis/10.md`;
-- `analysis/SEGMENTATION.md` e `books/flores-para-algernon/STATUS.md` sincronizados;
-- segmentos analisados: **10/10**;
-- `PART_ANALYSIS`: **concluída**;
-- estado atual do livro: **`CONSOLIDATE`**;
-- fronteira final confirmada: a narrativa termina na p. 188 e `Sobre o autor` começa na p. 189;
-- nenhum artefato de consolidação foi criado nesta etapa.
+- lidos `docs/METHODOLOGY.md` e `docs/SYNTHESIS_PROTOCOL.md`;
+- relidos `BOOK.md`, `STATUS.md` e as análises `01.md` a `10.md` necessárias à consolidação;
+- confirmado que `synthesis/STRUCTURE.md` ainda não existia antes da execução;
+- criado e verificado `books/flores-para-algernon/synthesis/STRUCTURE.md`;
+- `STATUS.md` atualizado marcando **somente `STRUCTURE.md`** como concluído;
+- nenhum outro artefato de consolidação, auditoria ou síntese foi criado.
 
-Eixos registrados no Segmento 10: reconhecimento explícito do declínio; recusa do suicídio em nome da continuidade do antigo Charlie; manutenção dos relatórios como contribuição científica; irritabilidade e perda de controle; deterioração de leitura e compreensão; perda de orientação espacial; tensão entre cuidado e autonomia com Alice; deterioração motora e passagem da máquina de escrever para escrita manual; simplificação deliberada do vocabulário; redução de autonomia cotidiana; incapacidade de compreender os próprios relatórios anteriores; retorno à Padaria Donner; humilhação por Meyer Klaus; defesa de Charlie por Joe, Frank e Gimpy; empatia preservada ao pedir uma segunda chance para Klaus; retorno por engano à antiga aula de Alice; decisão por Warren; reaparecimento de crenças em sorte/amuletos; regressão formal da escrita; persistência de resíduos afetivos e biográficos; pedido final de flores para Algernon.
+### Conteúdo estrutural consolidado
 
-### Regressão formal confirmada
+`STRUCTURE.md` registra:
 
-O Relatório 17 permite tratar como `TEXTUAL_FACT` uma sequência formal observável:
+1. **forma narrativa:** 17 Relatórios de Progresso em primeira pessoa, nos quais a escrita é simultaneamente narrativa autobiográfica e instrumento interno do experimento;
+2. **arco formal:** escrita simples/irregular → crescimento gramatical e abstrato → escrita científica altamente complexa → deterioração linguística e motora → aproximação formal do padrão inicial;
+3. **dupla temporalidade:** presente datado do experimento e passado autobiográfico recuperado de maneira não linear por memórias, sonhos e livre associação;
+4. **macroestrutura analítica em cinco movimentos:** promessa experimental; ascensão/autonomia/exílio; ruptura institucional e vida sob controle próprio; ciência da própria perda; regressão/retornos/despedida;
+5. **Chicago como dobradiça central:** objetificação pública, ruptura com Nemur/projeto, libertação de Algernon e descoberta da insuficiência metodológica da alegação de permanência;
+6. **cadeia epistemológica preservada:** comportamento anômalo de Algernon → regressão cognitiva observável → Efeito Algernon-Gordon → validação externa → sinais e regressão de Charlie;
+7. **ritmo e distribuição de foco:** ganho gradual no início, aumento de memória/complexidade humana no meio, concentração em Chicago, investigação antecipatória nos Relatórios 15–16 e perda incorporada à voz no Relatório 17;
+8. **paralelismos estruturais:** Charlie/Algernon; padaria inicial/final; aula de Alice inicial/final; testes/labirintos versus problemas humanos; objeto experimental → pesquisador → pessoa novamente dependente de cuidado; antigo/novo Charlie; família; Warren;
+9. **relação início/final:** circularidade formal aproximada, mas não retorno humano perfeitamente idêntico;
+10. **correções canônicas preservadas:** Segmento 09 inicia em 1º de setembro; Rose/Norma e faca pertencem a 27 de setembro; narrativa termina p. 188 e p. 189 inicia paratexto.
 
-1. no início de outubro, Charlie ainda produz escrita abstrata e sintaticamente complexa, apesar de já registrar deterioração funcional;
-2. a compreensão de literatura complexa diminui e ele perde acesso a conhecimentos anteriormente dominados;
-3. a deterioração motora o impede de continuar usando normalmente a máquina de escrever;
-4. em 5 de novembro, ele registra que usará palavras mais fáceis porque consultar o dicionário e escrever vocabulário complexo se tornaram difíceis;
-5. em 15 de novembro, já não compreende seus próprios relatórios sofisticados anteriores;
-6. nas páginas finais, ortografia, sintaxe, flexões, vocabulário e organização textual se aproximam fortemente do padrão dos primeiros relatórios.
+### Hipótese estrutural provisória
 
-A regressão **não é um reset biográfico perfeito**: permanecem traços de experiência e aprendizagem, especialmente empatia, gratidão, a lembrança de ter uma família, a noção vaga de contribuição científica e a ligação afetiva com Algernon.
+`INTERPRETATION — HIGH, A AUDITAR`: a obra articula simultaneamente **enredo, relações/espaços e forma escrita**. Charlie ganha e perde capacidades; abandona e retorna a espaços sociais; e sua voz escrita cresce e se deteriora. O retorno final aproxima-se do início sem anulá-lo, pois persistem mudanças relacionais, memória afetiva, empatia e conhecimento produzido durante a transformação.
 
-### Fronteira final da obra verificada
+### Limites desta etapa
 
-A fonte confirma:
+Não foram criados:
 
-- p. 188: fim da entrada de **21 de novembro** e encerramento da narrativa;
-- p. 189: início de `Sobre o autor`;
-- pp. 190–191: créditos, copyright e ficha catalográfica.
-
-O Segmento 10, portanto, cobre integralmente o final narrativo sem incorporar o paratexto posterior.
-
-### Transição para consolidação
-
-`docs/METHODOLOGY.md` define `CONSOLIDATE` como a etapa que reorganiza as informações dispersas nas análises parciais em:
-
-- `synthesis/STRUCTURE.md`;
 - `synthesis/CHARACTERS.md`;
 - `synthesis/THEMES.md`;
 - `synthesis/SYMBOLS.md`;
 - `synthesis/KEY_PASSAGES.md`;
-- `synthesis/INTERPRETATIONS.md`.
+- `synthesis/INTERPRETATIONS.md`;
+- `synthesis/AUDIT.md`;
+- `synthesis/CRITICAL_ANALYSIS.md`.
 
-Foi conferido o estado real do repositório e `books/flores-para-algernon/synthesis/STRUCTURE.md` **ainda não existe**. Para preservar checkpoints pequenos e confiáveis, a próxima execução deve criar somente esse primeiro artefato.
+A etapa permanece `CONSOLIDATE`.
 
 ## NEXT_ACTION
 
-Ler `docs/METHODOLOGY.md`, `docs/SYNTHESIS_PROTOCOL.md`, `books/flores-para-algernon/BOOK.md`, `books/flores-para-algernon/STATUS.md` e `books/flores-para-algernon/analysis/01.md` a `analysis/10.md`.
+Ler `docs/SYNTHESIS_PROTOCOL.md`, `books/flores-para-algernon/STATUS.md`, `books/flores-para-algernon/synthesis/STRUCTURE.md` e `books/flores-para-algernon/analysis/01.md` a `analysis/10.md`.
 
-Executar **somente a primeira ação de `CONSOLIDATE`**:
+Executar **somente a segunda ação de `CONSOLIDATE`**:
 
-- criar `books/flores-para-algernon/synthesis/STRUCTURE.md`;
-- consolidar, a partir das análises 01–10, a estrutura narrativa/argumentativa, grandes viradas, ritmo e distribuição de foco, paralelismos/contrastes estruturais e relação entre início e final;
-- usar apenas a leitura interna já estabelecida nesta fase; não iniciar pesquisa externa;
-- distinguir fatos estruturais de interpretações e preservar as correções cronológicas já registradas;
-- ao concluir, atualizar `STATUS.md` e este checkpoint marcando somente `synthesis/STRUCTURE.md` como concluído e definir uma nova `NEXT_ACTION` pequena;
-- **não criar `CHARACTERS.md`, `THEMES.md`, `SYMBOLS.md`, `KEY_PASSAGES.md` ou `INTERPRETATIONS.md` na mesma etapa**;
+- criar `books/flores-para-algernon/synthesis/CHARACTERS.md`;
+- consolidar, para cada personagem central, posição inicial, desejo/motivação, conflito, decisões decisivas, transformação ou ausência dela, função temática, relações relevantes e ambiguidades, conforme `docs/SYNTHESIS_PROTOCOL.md`;
+- priorizar Charlie, Algernon, Alice, Nemur, Strauss, Rose, Matt, Norma, Fay, Joe, Frank, Gimpy e Donner; incluir personagens secundários somente quando tiverem função estrutural relevante;
+- preservar as ambivalências já documentadas e não converter personagens complexos em papéis binários;
+- usar apenas a leitura interna; não iniciar pesquisa externa;
+- ao concluir, atualizar `STATUS.md` e este checkpoint marcando somente `synthesis/CHARACTERS.md` como novo artefato concluído;
+- **não criar `THEMES.md`, `SYMBOLS.md`, `KEY_PASSAGES.md` ou `INTERPRETATIONS.md` na mesma etapa**;
 - **não iniciar `AUDIT`, `SYNTHESIZE`, `PERSONALIZE` ou `FINALIZE`**.
 
 ## CONTINUATION_COMMAND
