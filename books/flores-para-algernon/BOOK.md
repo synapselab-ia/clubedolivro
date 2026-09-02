@@ -24,7 +24,15 @@
 - `TARGET_SEGMENTS`: 10
 - `SEGMENTATION_MODE`: SEMANTIC
 - `EXTERNAL_RESEARCH`: AFTER_INTERNAL_AUDIT
-- `PERSONAL_OPINION_STATUS`: NOT_COLLECTED
+- `READER_POSITION_MODE`: CONSTRUCTED_BY_DEFAULT
+- `USER_REACTION_INPUT`: OPTIONAL
+- `READER_POSITION_STATUS`: READY_TO_BUILD
+
+## PERSONALIZATION_NOTE
+
+O usuário não precisa ter realizado leitura integral da obra para concluir `PERSONALIZE`. A posição de leitor deve ser construída a partir da análise auditada em `synthesis/AUDIT.md` e `synthesis/CRITICAL_ANALYSIS.md`.
+
+Reações reais do usuário, quando existirem, funcionam como calibração opcional e têm prioridade sobre preferências geradas. Não inventar memórias autobiográficas de leitura nem afirmar que o usuário leu trecho específico.
 
 ## STRUCTURE_NOTES
 
