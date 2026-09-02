@@ -23,7 +23,7 @@
 - [x] 02 — pp. 25–40, até antes do Relatório 10 — 30 de março a 18 de abril: aceleração intelectual, alfabetização avançada, descoberta das humilhações e novo Rorschach
 - [x] 03 — p. 40, a partir do Relatório 10, até p. 61 antes de 11 de maio — 21 de abril a 10 de maio: competência, alienação, Alice, memória e autonomia moral diante do dilema de Gimpy
 - [x] 04 — p. 61, a partir de 11 de maio, até p. 84 antes do Relatório 13 — 11 de maio a 8 de junho: autonomia moral, expulsão da padaria, isolamento, trauma afetivo/sexual e ruptura crescente com Alice
-- [ ] 05 — p. 84, a partir do Relatório 13, até p. 102 — 10 a 13 de junho: convenção de Chicago, objetificação científica, revelações sobre Algernon e ruptura com o projeto
+- [x] 05 — p. 84, a partir do Relatório 13, até p. 102 — 10 a 13 de junho: Chicago, objetificação científica, revelações sobre Algernon, falha metodológica e ruptura com o projeto
 - [ ] 06 — pp. 103–116 — Relatório 14, 15 a 20 de junho: fuga, independência, Fay e reencontro com o passado familiar
 - [ ] 07 — pp. 117–135 — 21 de junho a 12 de julho: pesquisa autônoma, conflitos afetivos, sinais em Algernon e retorno ao laboratório
 - [ ] 08 — pp. 136–155 — Relatório 16, 14 de julho a 26 de agosto: Warren, relações pessoais e investigação intensiva do experimento
@@ -51,15 +51,16 @@
 ## OPEN_QUESTIONS
 
 - Acompanhar como a forma dos relatórios muda junto com o estado cognitivo e emocional de Charlie.
-- Observar como Charlie reagirá em Chicago ao ser exposto publicamente como produto/amostra do experimento.
-- Acompanhar a identificação Charlie–Algernon e verificar se o tratamento dado ao rato intensifica a crítica de Charlie à objetificação científica.
-- Rastrear o conflito com Nemur sobre autoria, humanidade, crédito científico e controle do experimento.
-- Observar se o afastamento de Alice representa amadurecimento, mecanismo defensivo ou apenas uma mudança temporária na relação.
+- Verificar se o comportamento errático de Algernon representa regressão, efeito colateral independente ou outro fenômeno.
+- Acompanhar como Charlie investigará a falha metodológica identificada em Chicago e se confirmará risco para si próprio.
+- Rastrear a identificação Charlie–Algernon agora que ambos estão literalmente fora do controle do laboratório.
+- Observar como Nemur, Strauss e a Fundação Welberg reagirão à fuga e à perda de controle sobre o experimento.
 - Acompanhar a presença do “antigo Charlie” como memória, observador interno e componente ativo da identidade atual.
-- Rastrear os motivos de labirinto, jaula, portas/janelas, luz/sombra e exclusão espacial.
+- Rastrear os motivos de labirinto, gaiola, amarras, portas/janelas, luz/sombra e liberdade.
 - Observar a progressão das memórias de Rose, Matt e Norma e como elas reorganizam a identidade de Charlie.
 - Acompanhar o contraste entre compreensão intelectual do trauma e persistência dos sintomas corporais/afetivos.
-- Verificar se o aumento da privacidade e a interrupção temporária dos relatórios evoluem para ruptura institucional aberta.
+- Observar se Charlie consegue equilibrar conhecimento excepcional com tolerância e discernimento, crítica formulada por Burt.
+- Rastrear a questão do tempo após Charlie admitir que talvez não disponha de tanto quanto imaginava.
 
 ## SOURCE_ISSUES
 
@@ -72,30 +73,30 @@
 
 ## LAST_COMPLETED_ACTION
 
-Segmento 04 concluído em `analysis/04.md`, cobrindo da entrada de 11 de maio no Relatório 11 até o fim da entrada de 8 de junho, imediatamente antes do Relatório 13. A análise registrou:
+Segmento 05 concluído em `analysis/05.md`, cobrindo o `RELATÓRIO DE PROGRESSO 13`, de 10 a 13 de junho. A análise registrou:
 
-- decisão autônoma de Charlie diante do roubo de Gimpy, encerrando o dilema moral aberto no segmento anterior;
-- desidealização ampliada de universidade e especialistas, acompanhada por crescimento de impaciência e condescendência;
-- persistência do descompasso entre inteligência e desenvolvimento afetivo/sexual;
-- demissão da Padaria Donner por pressão dos empregados e perda do principal espaço de pertencimento de Charlie;
-- retomada do motivo religioso do conhecimento proibido por Fanny Birden e contraposição com a imagem da visão/luz;
-- memórias de Rose associando sexualidade a ameaça, punição e jaula;
-- objetificação crescente por Nemur e mudança material para dependência financeira da Fundação Welberg;
-- memória de Norma revelando ressentimento e efeitos familiares da deficiência de Charlie;
-- inversão da relação com Alice, que passa a sentir-se intelectualmente inferior e decide não acompanhá-lo a Chicago;
-- expansão dos motivos de labirinto, jaula, portas/janelas e duplo Charlie;
-- tentativa de intimidade com uma desconhecida no Central Park, desencadeamento traumático pela gravidez e reconhecimento de um impulso autopunitivo.
+- voo para Chicago e memória infantil do dr. Guarino, conectando a motivação de Charlie ao desejo de corresponder às expectativas de Rose;
+- contraste entre legitimidade científica e tratamento humano, com Guarino lembrado como charlatão que ainda assim reconhecia Charlie como pessoa;
+- exposição dos limites intelectuais de Nemur e Strauss diante de literatura científica não traduzida;
+- crítica de Burt à confusão entre conhecimento extraordinário e discernimento/tolerância;
+- convenção como ápice da objetificação pública de Charlie e Algernon;
+- revelação de comportamento errático anterior de Algernon, informação que não havia sido comunicada a Charlie;
+- descoberta de filmagens das primeiras avaliações de Charlie e reação de riso da plateia;
+- reafirmação pública por Nemur de que o antigo Charlie praticamente não existia, intensificando o conflito sobre dignidade e continuidade pessoal;
+- identificação por Charlie de uma falha metodológica no período de espera usado para declarar a permanência do experimento;
+- libertação de Algernon, fuga da convenção e retorno independente a Nova York;
+- mudança da hipótese científica: a permanência do aumento deixa de ser tratável como fato e passa a ser questão aberta.
 
-Durante a leitura foi corrigida uma imprecisão de paginação em `analysis/SEGMENTATION.md`: a entrada de 8 de junho continua na p. 84 e termina antes do cabeçalho `RELATÓRIO DE PROGRESSO 13`. O limite narrativo planejado não mudou.
+Nenhum conteúdo do Relatório 14 foi incorporado ao Segmento 05.
 
 ## NEXT_ACTION
 
-Ler `books/flores-para-algernon/BOOK.md`, `books/flores-para-algernon/STATUS.md`, `books/flores-para-algernon/analysis/01.md`, `analysis/02.md`, `analysis/03.md`, `analysis/04.md` e `docs/ANALYSIS_PROTOCOL.md`.
+Ler `books/flores-para-algernon/BOOK.md`, `books/flores-para-algernon/STATUS.md`, `books/flores-para-algernon/analysis/01.md` a `analysis/05.md` e `docs/ANALYSIS_PROTOCOL.md`.
 
-Executar **somente o Segmento 05** de *Flores para Algernon*:
+Executar **somente o Segmento 06** de *Flores para Algernon*:
 
-- início: p. 84, cabeçalho `RELATÓRIO DE PROGRESSO 13`, entrada de 10 de junho;
-- fim: p. 102, conclusão da entrada de 13 de junho, imediatamente antes do Relatório 14 na p. 103;
-- criar `books/flores-para-algernon/analysis/05.md` conforme `templates/book/analysis/PART_TEMPLATE.md`;
-- usar a obra real como fonte e as análises 01–04 como memória de continuidade, registrando página + Relatório/data quando possível;
-- ao concluir, atualizar `STATUS.md` e `docs/CHECKPOINT.md` para 5/10 segmentos analisados, sem iniciar o Segmento 06 na mesma etapa.
+- início: p. 103, cabeçalho `RELATÓRIO DE PROGRESSO 14`, entrada de 15 de junho;
+- fim: p. 116, conclusão da entrada de 20 de junho;
+- criar `books/flores-para-algernon/analysis/06.md` conforme `templates/book/analysis/PART_TEMPLATE.md`;
+- usar a obra real como fonte e as análises 01–05 como memória de continuidade, registrando página + Relatório/data quando possível;
+- ao concluir, atualizar `STATUS.md` e `docs/CHECKPOINT.md` para 6/10 segmentos analisados, sem iniciar o Segmento 07 na mesma etapa.
