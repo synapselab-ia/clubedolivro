@@ -52,22 +52,27 @@ O PDF integral não deve ser enviado ao GitHub enquanto o repositório permanece
 - síntese crítica interna: **concluída**
 - posição de leitor: **concluída — `CONSTRUCTED_READER_POSITION`**
 - nota construída: **9/10**
-- `FINALIZE`: **3/4 artefatos obrigatórios concluídos**
-- artefatos de síntese concluídos:
-  - `synthesis/STRUCTURE.md`
-  - `synthesis/CHARACTERS.md`
-  - `synthesis/THEMES.md`
-  - `synthesis/SYMBOLS.md`
-  - `synthesis/KEY_PASSAGES.md`
-  - `synthesis/INTERPRETATIONS.md`
-  - `synthesis/AUDIT.md`
-  - `synthesis/CRITICAL_ANALYSIS.md`
-  - `synthesis/READER_POSITION.md`
-- artefatos finais:
-  - [x] `final/REVIEW.md`
-  - [x] `final/MY_OPINION.md`
-  - [x] `final/BOOK_CLUB_BRIEF.md`
-  - [ ] `final/DISCUSSION_QUESTIONS.md`
+- `FINALIZE`: **4/4 artefatos obrigatórios concluídos**
+- `COMPLETE`: **pendente de auditoria final de encerramento**
+
+### Artefatos de síntese
+
+- [x] `synthesis/STRUCTURE.md`
+- [x] `synthesis/CHARACTERS.md`
+- [x] `synthesis/THEMES.md`
+- [x] `synthesis/SYMBOLS.md`
+- [x] `synthesis/KEY_PASSAGES.md`
+- [x] `synthesis/INTERPRETATIONS.md`
+- [x] `synthesis/AUDIT.md`
+- [x] `synthesis/CRITICAL_ANALYSIS.md`
+- [x] `synthesis/READER_POSITION.md`
+
+### Artefatos finais
+
+- [x] `final/REVIEW.md`
+- [x] `final/MY_OPINION.md`
+- [x] `final/BOOK_CLUB_BRIEF.md`
+- [x] `final/DISCUSSION_QUESTIONS.md`
 
 ## METHODOLOGY_CANON
 
@@ -125,54 +130,50 @@ O miolo insiste mais do que o necessário em variações do bloqueio afetivo/sex
 
 ### `final/BOOK_CLUB_BRIEF.md`
 
-**COMPLETE** — documento de revisão rápida voltado ao uso antes/durante a reunião, inclusive sem leitura integral própria.
-
-Contém:
-
-- resumo em 30 segundos;
-- sete pontos essenciais;
-- personagens e temas centrais;
-- posição 9/10;
-- cronologia mínima e cronologia científica segura;
-- momentos-chave;
-- comentários para abrir conversa;
-- respostas a discordâncias previsíveis;
-- perguntas para devolver ao grupo;
-- armadilhas factuais/interpretativas;
-- respostas rápidas;
-- fala de 15 segundos e de 1 minuto.
+**COMPLETE** — revisão rápida voltada ao uso antes/durante a reunião, inclusive sem leitura integral própria, com resumo, cronologia, personagens, temas, posição, argumentos, respostas a discordâncias e armadilhas.
 
 ### `final/DISCUSSION_QUESTIONS.md`
 
-**NOT_CREATED**.
+**COMPLETE** — conjunto de 30 perguntas abertas específicas da obra, com notas de facilitação e tensões possíveis sem gabarito imposto.
+
+Cobre:
+
+- dignidade/capacidade;
+- pertencimento;
+- ciência/poder;
+- Charlie–Algernon;
+- autonomia/cuidado;
+- identidade/memória;
+- família/padaria;
+- forma/linguagem;
+- final.
 
 ## LAST_COMPLETED_ACTION
 
-Executado **somente o terceiro artefato de `FINALIZE`: `final/BOOK_CLUB_BRIEF.md`** para *Flores para Algernon*.
+Executado **somente o quarto artefato de `FINALIZE`: `final/DISCUSSION_QUESTIONS.md`** para *Flores para Algernon*.
 
 ### Execução
 
-- relidos `AGENTS.md`, este checkpoint, `BOOK.md`, `STATUS.md`, `docs/FINAL_OUTPUT_PROTOCOL.md`, `synthesis/AUDIT.md`, `synthesis/CRITICAL_ANALYSIS.md`, `synthesis/READER_POSITION.md`, `final/REVIEW.md` e `final/MY_OPINION.md`;
-- confirmado antes da escrita que `final/BOOK_CLUB_BRIEF.md` não existia;
-- criado e verificado `books/flores-para-algernon/final/BOOK_CLUB_BRIEF.md`;
-- o documento foi construído para revisão rápida antes/durante a reunião e para uso mesmo sem leitura integral própria;
-- preservadas a avaliação 9/10 e todas as salvaguardas auditadas;
-- confirmado que `final/DISCUSSION_QUESTIONS.md` ainda não existe;
-- `DISCUSSION_QUESTIONS.md` não foi criado nesta execução;
-- `FINALIZE` permanece em andamento — **3/4**.
+- relidos `AGENTS.md`, este checkpoint, `BOOK.md`, `STATUS.md`, `docs/FINAL_OUTPUT_PROTOCOL.md`, `synthesis/AUDIT.md`, `synthesis/CRITICAL_ANALYSIS.md`, `synthesis/READER_POSITION.md` e `final/BOOK_CLUB_BRIEF.md`;
+- confirmado antes da escrita que `final/DISCUSSION_QUESTIONS.md` não existia;
+- criado e verificado `books/flores-para-algernon/final/DISCUSSION_QUESTIONS.md`;
+- perguntas organizadas para gerar interpretações rivais sustentáveis por evidência textual, sem formato de questionário escolar;
+- incluídas notas de facilitação e tensões possíveis sem impor resposta correta;
+- preservadas todas as salvaguardas auditadas;
+- `FINALIZE` concluído — **4/4**;
+- `COMPLETE` não foi executado nesta execução.
 
 ## NEXT_ACTION
 
-Executar **somente o quarto artefato de `FINALIZE`: `final/DISCUSSION_QUESTIONS.md`**.
+Executar **somente `COMPLETE`** para *Flores para Algernon*.
 
-1. Ler `docs/FINAL_OUTPUT_PROTOCOL.md`, `books/flores-para-algernon/STATUS.md`, `synthesis/AUDIT.md`, `synthesis/CRITICAL_ANALYSIS.md`, `synthesis/READER_POSITION.md` e `final/BOOK_CLUB_BRIEF.md`.
-2. Confirmar antes da escrita que `books/flores-para-algernon/final/DISCUSSION_QUESTIONS.md` não existe.
-3. Criar perguntas genuinamente abertas, específicas da obra e aptas a gerar interpretações rivais sustentáveis por evidência textual.
-4. Cobrir dignidade/capacidade, pertencimento, ciência/poder, Charlie–Algernon, autonomia/cuidado, identidade/memória, família/padaria e final, sem transformar o documento em questionário escolar.
-5. Incluir notas curtas de facilitação ou tensões possíveis quando isso ampliar a discussão, sem impor resposta correta.
-6. Manter todas as salvaguardas auditadas e não inventar fatos/citações.
-7. Atualizar `STATUS.md` e este checkpoint após verificar o artefato.
-8. **Não executar `COMPLETE` na mesma execução.**
+1. Ler `docs/FINAL_OUTPUT_PROTOCOL.md`, `books/flores-para-algernon/STATUS.md`, este checkpoint e os quatro artefatos finais.
+2. Verificar no estado real do repositório a existência dos quatro artefatos finais obrigatórios.
+3. Aplicar integralmente o checklist final de qualidade de `docs/FINAL_OUTPUT_PROTOCOL.md`.
+4. Conferir coerência dos materiais finais com `synthesis/AUDIT.md`, `synthesis/CRITICAL_ANALYSIS.md` e `synthesis/READER_POSITION.md`.
+5. Corrigir apenas inconsistências bloqueantes, caso existam, e verificar novamente.
+6. Se tudo passar, marcar o livro como `COMPLETE` e atualizar este checkpoint para refletir o encerramento.
+7. Definir a próxima ação global sem iniciar automaticamente outra obra.
 
 ## CONTINUATION_COMMAND
 
