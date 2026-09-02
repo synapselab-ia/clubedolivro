@@ -32,7 +32,7 @@
 
 ## SYNTHESIS_ARTIFACTS
 
-- [ ] `synthesis/STRUCTURE.md`
+- [x] `synthesis/STRUCTURE.md`
 - [ ] `synthesis/CHARACTERS.md`
 - [ ] `synthesis/THEMES.md`
 - [ ] `synthesis/SYMBOLS.md`
@@ -40,6 +40,13 @@
 - [ ] `synthesis/INTERPRETATIONS.md`
 - [ ] `synthesis/AUDIT.md`
 - [ ] `synthesis/CRITICAL_ANALYSIS.md`
+
+## CONSOLIDATION_PROGRESS
+
+- artefatos-base previstos antes de `AUDIT`: **6**
+- concluídos: **1/6**
+- concluído nesta etapa: `synthesis/STRUCTURE.md`
+- próximo artefato: `synthesis/CHARACTERS.md`
 
 ## FINAL_ARTIFACTS
 
@@ -50,21 +57,20 @@
 
 ## OPEN_QUESTIONS
 
-Questões transferidas da leitura parcial para a etapa de consolidação/auditoria:
+Questões restantes para consolidação/auditoria:
 
-- Descrever a estrutura ascensão → pico → regressão sem reduzir a obra a uma simetria mecânica.
-- Determinar quais transformações de Charlie persistem após a perda cognitiva e quais desaparecem.
-- Consolidar a regressão formal da escrita: ortografia, sintaxe, vocabulário, extensão, abstração, organização e mudança de suporte da digitação para escrita manual.
-- Avaliar o arco do “antigo Charlie” e a continuidade pessoal sem tratá-lo literalmente como duas pessoas independentes.
+- Auditar a macroestrutura **ascensão → pico → regressão** sem tratá-la como simetria mecânica; `STRUCTURE.md` sustenta circularidade formal aproximada com transformação residual.
+- Determinar com precisão, em `CHARACTERS.md` e `THEMES.md`, quais transformações de Charlie persistem após a perda cognitiva e quais desaparecem.
+- Consolidar o arco do “antigo Charlie” sem tratá-lo literalmente como duas pessoas independentes.
 - Consolidar o paralelismo Charlie–Algernon e a mudança de Algernon de medida experimental para vínculo afetivo/memorial.
-- Avaliar a decisão final por Warren como possível combinação de autonomia residual, vergonha internalizada, medo de piedade e necessidade concreta de cuidado.
-- Mapear o arco completo da Padaria Donner e a mudança de Joe, Frank e Gimpy sem apagar as humilhações anteriores.
-- Mapear o arco de Alice: professora → mediadora → amor → desigualdade intelectual → cuidado → despedida.
-- Consolidar o reencontro familiar com Matt, Rose e Norma e distinguir reconhecimento, compreensão, perdão e reparação.
-- Rastrear os motivos de labirinto/gaiola, portas, janela/espelho, luz/escuridão, faca, ampulheta/tempo, livros, amuletos e flores.
-- Verificar a relação entre a epígrafe de Platão e a trajetória completa sem transformá-la automaticamente em chave única de leitura.
+- Avaliar a decisão final por Warren como possível combinação de autonomia residual, necessidade de cuidado, vergonha e medo de piedade.
+- Consolidar o arco completo da Padaria Donner e a mudança de Joe, Frank e Gimpy sem apagar as humilhações anteriores.
+- Consolidar o arco de Alice: professora → mediadora → amor → desigualdade intelectual → cuidado → despedida.
+- Consolidar Matt, Rose e Norma distinguindo reconhecimento, compreensão, perdão e reparação.
+- Rastrear em `SYMBOLS.md` os motivos de labirinto/gaiola, portas, janela/espelho, luz/escuridão, faca, ampulheta/tempo, livros, amuletos e flores.
+- Verificar na auditoria a relação entre a epígrafe de Platão e a trajetória completa sem transformá-la automaticamente em chave única.
 - Preservar a cadeia epistemológica: sinais em Algernon → regressão cognitiva observável → Efeito Algernon-Gordon → validação externa → regressão de Charlie → documentação formal do declínio.
-- Avaliar em interpretações concorrentes a circularidade trágica versus transformação residual no final.
+- Avaliar em `INTERPRETATIONS.md` leituras concorrentes do final: circularidade trágica versus transformação residual; Warren como autonomia versus retirada motivada por vergonha/piedade.
 
 ## SOURCE_ISSUES
 
@@ -76,70 +82,48 @@ Questões transferidas da leitura parcial para a etapa de consolidação/auditor
 - A p. 84 contém o fim da entrada de 8 de junho e o início do Relatório 13; é compartilhada apenas como localização física entre os Segmentos 04 e 05, sem sobreposição de conteúdo.
 - A p. 136 contém o fim da entrada de 12 de julho e o início do Relatório 16; é compartilhada apenas como localização física entre os Segmentos 07 e 08, sem sobreposição de conteúdo.
 - A fronteira 08/09 foi corrigida cronologicamente: depois da entrada de 26 de agosto vem **1º de setembro**, e não 2 de setembro. A paginação permanece p. 136–155 para o Segmento 08 e pp. 156–168 para o Segmento 09.
-- **Correção factual registrada no Segmento 09:** o reencontro presencial com Rose e Norma, a confissão de Norma e a cena da faca ocorrem em **27 de setembro**, e não antes de 26 de agosto. `analysis/08.md`, `analysis/09.md` e `analysis/SEGMENTATION.md` foram sincronizados.
+- **Correção factual registrada no Segmento 09:** o reencontro presencial com Rose e Norma, a confissão de Norma e a cena da faca ocorrem em **27 de setembro**, e não antes de 26 de agosto.
 - A fronteira 09/10 foi conferida: 27 de setembro encerra o Relatório 16 na p. 168; o `RELATÓRIO DE PROGRESSO 17` começa na p. 169 em 3 de outubro.
 - A fronteira final foi conferida diretamente: o Relatório 17 termina na **p. 188**, em 21 de novembro; a **p. 189** inicia `Sobre o autor`, seguida dos créditos/editorial nas pp. 190–191.
 
 ## LAST_COMPLETED_ACTION
 
-Segmento 10 concluído em `analysis/10.md`, cobrindo todo o `RELATÓRIO DE PROGRESSO 17`, de **3 de outubro a 21 de novembro**, pp. **169–188**. Com isso, `PART_ANALYSIS` foi concluída em **10/10 segmentos**.
+Concluída a **primeira ação de `CONSOLIDATE`** com criação e verificação de `synthesis/STRUCTURE.md`.
 
-A análise registrou:
+O artefato consolidou, a partir das análises 01–10 e sem pesquisa externa:
 
-- abertura do Relatório 17 com Charlie reconhecendo o declínio e rejeitando o suicídio ao pensar na continuidade do antigo Charlie;
-- decisão de continuar os relatórios como contribuição científica enquanto ainda puder;
-- irritabilidade, medo de dormir/perder-se e perda crescente de controle emocional;
-- experiência psicótica/alucinatória registrada com cautela epistemológica em 4 de outubro;
-- perda de compreensão de literatura complexa, materializada pela incapacidade de compreender e pela destruição de *Paraíso perdido*;
-- perda de orientação espacial e julgamento cotidiano em 10 de outubro;
-- tentativa de Alice de permanecer próxima e tensão entre cuidado, tutela, vergonha e autonomia;
-- deterioração motora levando ao abandono da máquina de escrever e à escrita manual;
-- em 5 de novembro, dificuldade de leitura, releitura repetida e decisão explícita de usar palavras mais simples porque o dicionário e o vocabulário complexo se tornaram custosos;
-- redução progressiva de autonomia doméstica e apoio da sra. Mooney;
-- em 15 de novembro, incapacidade de compreender os próprios relatórios sofisticados escritos anteriormente;
-- afastamento final de Alice e rejeição da dependência financeira;
-- retorno à Padaria Donner em 18 de novembro;
-- humilhação por Meyer Klaus e defesa de Charlie por Joe, Frank e Gimpy;
-- pedido de Charlie por uma segunda chance para Klaus, preservando empatia apesar da regressão cognitiva;
-- retorno por engano à antiga aula de Alice em 21 de novembro e recuperação fragmentária da memória do experimento;
-- decisão de ir voluntariamente para Warren;
-- retorno de crenças em sorte/amuletos e perda do acesso ao conteúdo científico que produzira;
-- regressão formal inequívoca da escrita até uma forma fortemente semelhante aos relatórios iniciais;
-- persistência de resíduos biográficos e afetivos: gratidão, desejo de aprender, conhecimento de que teve família, noção vaga de contribuição científica e vínculo com Algernon;
-- encerramento da narrativa na p. 188 com o pedido para que coloquem flores no túmulo de Algernon;
-- confirmação de que p. 189 já pertence ao material pós-narrativo.
+- a forma epistolar dos 17 Relatórios de Progresso e a escrita como simultaneamente narrativa e instrumento experimental;
+- a coexistência entre tempo datado do experimento e tempo autobiográfico recuperado por memória;
+- uma macroestrutura analítica em cinco movimentos:
+  1. experimento como promessa de transformação;
+  2. ascensão intelectual, autonomia e exílio social;
+  3. ruptura institucional e tentativa de vida sob controle próprio;
+  4. ciência da própria perda;
+  5. regressão, retornos e despedida;
+- Chicago como principal dobradiça institucional da trajetória;
+- a cadeia científica da falha preservando a distinção entre insuficiência metodológica, regressão observável, formulação, validação e declínio pessoal;
+- ritmo e distribuição de foco: ganho acumulativo no início, densidade social/afetiva no meio, concentração dramática em Chicago, antecipação científica em Relatórios 15–16 e deterioração da própria voz no Relatório 17;
+- paralelismos estruturais Charlie–Algernon, padaria inicial/final, aula de Alice inicial/final, objeto experimental/pesquisador/pessoa necessitando cuidado e Warren como plano → lugar observado → destino escolhido;
+- circularidade formal aproximada da escrita, explicitamente distinguida de um retorno humano perfeitamente idêntico;
+- relação início/final: o romance repete espaços, formas e vulnerabilidades, mas os reencontra com relações e resíduos de experiência modificados;
+- o pedido final de flores como encerramento do arco Algernon: competidor → paralelo → companheiro → prognóstico → memória;
+- todas as correções cronológicas canônicas, incluindo Rose/Norma em 27 de setembro e a fronteira narrativa p. 188/p. 189.
 
-### Conclusão epistemológica da leitura parcial
+### Hipótese estrutural provisória preservada para auditoria
 
-A obra completa sustenta agora, como sequência textual verificada:
-
-1. crescimento cognitivo e formal de Charlie;
-2. autonomia crescente e ruptura com a posição de objeto experimental;
-3. regressão cognitiva de Algernon observada diretamente;
-4. formulação do Efeito Algernon-Gordon por Charlie;
-5. validação externa da falha;
-6. primeiros sinais de regressão em Charlie;
-7. regressão funcional, linguística e social completa no Relatório 17.
-
-A leitura final também corrige uma simplificação possível: **Charlie não retorna de modo perfeitamente idêntico ao estado pré-operatório**. A escrita e várias capacidades cognitivas se aproximam fortemente do início, mas permanecem fragmentos de experiência, memória afetiva, empatia e decisões formadas durante a transformação. Essa diferença deve ser consolidada e auditada antes da síntese global.
-
-### Transição de etapa
-
-`PART_ANALYSIS` está concluída. Conforme `docs/METHODOLOGY.md`, o estado passa para `CONSOLIDATE`.
-
-Foi verificado que `synthesis/STRUCTURE.md` ainda **não existe**, portanto a primeira ação pequena e concreta da consolidação é criar somente esse artefato antes de avançar aos demais.
+`INTERPRETATION — HIGH, A AUDITAR`: a obra combina três movimentos simultâneos — **enredo, relações/espaços e forma escrita** — para produzir uma trajetória de ascensão, autonomia, ruptura, descoberta da falha e regressão. O início e o final se refletem sem se anularem, porque a perda cognitiva não apaga integralmente as mudanças relacionais, morais e afetivas produzidas durante a experiência.
 
 ## NEXT_ACTION
 
-Ler `docs/METHODOLOGY.md`, `docs/SYNTHESIS_PROTOCOL.md`, `books/flores-para-algernon/BOOK.md`, este `STATUS.md` e `analysis/01.md` a `analysis/10.md`.
+Ler `docs/SYNTHESIS_PROTOCOL.md`, `books/flores-para-algernon/STATUS.md`, `books/flores-para-algernon/synthesis/STRUCTURE.md` e `analysis/01.md` a `analysis/10.md`.
 
-Executar **somente a primeira ação de `CONSOLIDATE`**:
+Executar **somente a segunda ação de `CONSOLIDATE`**:
 
-- criar `books/flores-para-algernon/synthesis/STRUCTURE.md`;
-- consolidar a estrutura narrativa global da obra com base **apenas** nas análises 01–10 e na fonte interna já verificada;
-- registrar grandes viradas, ritmo/distribuição de foco, paralelismos e contrastes estruturais e a relação entre início e final, conforme `docs/SYNTHESIS_PROTOCOL.md`;
-- preservar correções cronológicas já registradas e distinguir fato estrutural de interpretação;
-- atualizar `STATUS.md` e `docs/CHECKPOINT.md` marcando apenas `synthesis/STRUCTURE.md` como concluído;
-- definir a próxima ação de consolidação após verificar o artefato criado;
-- **não criar `CHARACTERS.md`, `THEMES.md`, `SYMBOLS.md`, `KEY_PASSAGES.md` ou `INTERPRETATIONS.md` na mesma etapa**;
+- criar `books/flores-para-algernon/synthesis/CHARACTERS.md`;
+- consolidar os personagens centrais conforme `docs/SYNTHESIS_PROTOCOL.md`: posição inicial, desejo/motivação, conflito, decisões decisivas, transformação ou ausência dela, função temática, relações relevantes e ambiguidades;
+- priorizar Charlie, Algernon, Alice, Nemur, Strauss, Rose, Matt, Norma, Fay, Joe, Frank, Gimpy e Donner; incluir personagens secundários apenas quando tiverem função estrutural relevante;
+- preservar ambivalências já verificadas: Nemur não é simples vilão; Strauss não é contraponto moral perfeito; Matt combina proteção e ausência; Rose exige distinção entre compreensão e reparação; Joe/Frank/Gimpy mudam sem apagar abuso anterior; Warren não é personagem e deve permanecer em estrutura/temas, não ser tratado como tal;
+- usar somente leitura interna nesta etapa; não iniciar pesquisa externa;
+- atualizar `STATUS.md` e `docs/CHECKPOINT.md` marcando apenas `synthesis/CHARACTERS.md` como novo artefato concluído;
+- **não criar `THEMES.md`, `SYMBOLS.md`, `KEY_PASSAGES.md` ou `INTERPRETATIONS.md` na mesma etapa**;
 - **não iniciar AUDIT ou SYNTHESIZE**.
