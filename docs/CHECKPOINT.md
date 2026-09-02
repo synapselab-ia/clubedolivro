@@ -49,7 +49,8 @@ O PDF integral não deve ser enviado ao GitHub enquanto o repositório permanece
 - consolidação-base: concluída — **6/6**
 - auditoria adversarial: **concluída — PASS**
 - síntese crítica interna: **concluída**
-- opinião pessoal do usuário: **ainda não consolidada**
+- opinião pessoal do usuário: **`PENDING_USER_REACTION`**
+- bloqueio atual: faltam reações pessoais suficientes do usuário para consolidar opinião sem invenção
 - artefatos de síntese concluídos:
   - `synthesis/STRUCTURE.md`
   - `synthesis/CHARACTERS.md`
@@ -59,7 +60,7 @@ O PDF integral não deve ser enviado ao GitHub enquanto o repositório permanece
   - `synthesis/INTERPRETATIONS.md`
   - `synthesis/AUDIT.md`
   - `synthesis/CRITICAL_ANALYSIS.md`
-- próximo estágio: `PERSONALIZE`
+- estágio atual: `PERSONALIZE`
 
 ## GLOBAL_RULES
 
@@ -72,18 +73,30 @@ O PDF integral não deve ser enviado ao GitHub enquanto o repositório permanece
 
 ## LAST_COMPLETED_ACTION
 
-Executada **somente a etapa `SYNTHESIZE` correspondente a `synthesis/CRITICAL_ANALYSIS.md`** para *Flores para Algernon*:
+Executada **somente a verificação/coleta inicial do estágio `PERSONALIZE`** para *Flores para Algernon*:
 
-- relidos `AGENTS.md`, este checkpoint, `docs/SYNTHESIS_PROTOCOL.md`, `BOOK.md`, `STATUS.md`, `analysis/01.md` a `analysis/10.md`, os seis artefatos-base e `synthesis/AUDIT.md`;
-- confirmado antes da escrita que `synthesis/CRITICAL_ANALYSIS.md` não existia;
-- criado e verificado `books/flores-para-algernon/synthesis/CRITICAL_ANALYSIS.md`;
-- síntese produzida sob as restrições adversariais de `AUDIT.md`;
-- nenhuma interpretação `REJECTED` foi reintroduzida como tese;
-- nenhuma pesquisa externa foi realizada;
-- `PERSONALIZE` e `FINALIZE` não foram executados;
-- estado do livro avançado para `PERSONALIZE`.
+- relidos `AGENTS.md`, este checkpoint, `docs/PERSONAL_OPINION_PROTOCOL.md`, `BOOK.md`, `STATUS.md`, `synthesis/AUDIT.md` e `synthesis/CRITICAL_ANALYSIS.md`;
+- verificado o estado real do repositório em busca de reação/opinião pessoal já registrada;
+- verificado o contexto recuperável do usuário especificamente para reações a *Flores para Algernon*;
+- não foi encontrada reação suficiente para formular opinião pessoal sem invenção;
+- estágio marcado operacionalmente como **`PENDING_USER_REACTION`**;
+- nenhum arquivo em `final/` foi criado;
+- `PERSONALIZE` permanece incompleto;
+- `FINALIZE` não foi iniciado.
 
-### Tese crítica consolidada
+### Estado da coleta necessária
+
+Para concluir `PERSONALIZE`, é necessário receber respostas curtas do usuário cobrindo pelo menos:
+
+1. impressão geral — gostou ou não e por quê;
+2. personagem, relação ou elemento que mais funcionou ou mais irritou;
+3. ritmo e/ou estilo;
+4. se o final funcionou e por quê;
+5. nota aproximada.
+
+Respostas informais são suficientes. A etapa posterior deverá relacioná-las a fatos e arcos já auditados, distinguindo gosto pessoal de avaliação técnica sem alterar o sentido do usuário.
+
+### Tese crítica consolidada que limita a personalização
 
 `SUPPORTED` — A obra usa mudanças extremas de capacidade cognitiva para examinar **dignidade, pertencimento, autonomia, identidade e cuidado**, sem reduzir inteligência a mal, ciência a fraude ou regressão a reset humano perfeito.
 
@@ -123,15 +136,15 @@ Executada **somente a etapa `SYNTHESIZE` correspondente a `synthesis/CRITICAL_AN
 
 ## NEXT_ACTION
 
-Executar **somente `PERSONALIZE`**, conforme `docs/PERSONAL_OPINION_PROTOCOL.md`:
+Continuar **somente `PERSONALIZE`** após receber reação real do usuário:
 
-1. Ler `docs/PERSONAL_OPINION_PROTOCOL.md`, `books/flores-para-algernon/STATUS.md`, `BOOK.md`, `synthesis/AUDIT.md` e `synthesis/CRITICAL_ANALYSIS.md`.
-2. Verificar se existe reação pessoal suficiente do usuário no contexto disponível ou em artefato canônico.
-3. Não inventar sentimentos, preferências, críticas ou nota do usuário.
-4. Se a reação for insuficiente, registrar operacionalmente `PENDING_USER_REACTION` e solicitar respostas curtas e concretas sobre: impressão geral, personagem/elemento que mais funcionou ou irritou, ritmo/estilo, final e nota aproximada.
-5. Se houver material suficiente, relacionar as reações a elementos concretos da obra, distinguir gosto pessoal de avaliação técnica e consolidar a posição do usuário sem alterar seu sentido.
-6. **Não criar ainda `final/MY_OPINION.md`, `final/REVIEW.md`, `final/BOOK_CLUB_BRIEF.md` ou `final/DISCUSSION_QUESTIONS.md`.** Esses artefatos pertencem a `FINALIZE`.
-7. Atualizar `STATUS.md` e este checkpoint conforme o resultado.
+1. Usar respostas sobre impressão geral, personagem/relação/elemento que mais funcionou ou irritou, ritmo/estilo, final e nota aproximada.
+2. Registrar as reações sem alterar o sentido.
+3. Relacioná-las a elementos concretos da obra usando `synthesis/AUDIT.md` e `synthesis/CRITICAL_ANALYSIS.md`.
+4. Distinguir gosto pessoal de avaliação técnica.
+5. Consolidar a posição pessoal do usuário somente quando houver material suficiente.
+6. Atualizar `books/flores-para-algernon/STATUS.md` e este checkpoint.
+7. **Não criar ainda `final/MY_OPINION.md`, `final/REVIEW.md`, `final/BOOK_CLUB_BRIEF.md` ou `final/DISCUSSION_QUESTIONS.md`.**
 8. **Não iniciar `FINALIZE` na mesma execução.**
 
 ## CONTINUATION_COMMAND
