@@ -52,7 +52,7 @@ O PDF integral não deve ser enviado ao GitHub enquanto o repositório permanece
 - síntese crítica interna: **concluída**
 - posição de leitor: **concluída — `CONSTRUCTED_READER_POSITION`**
 - nota construída: **9/10**
-- `FINALIZE`: **2/4 artefatos obrigatórios concluídos**
+- `FINALIZE`: **3/4 artefatos obrigatórios concluídos**
 - artefatos de síntese concluídos:
   - `synthesis/STRUCTURE.md`
   - `synthesis/CHARACTERS.md`
@@ -66,7 +66,7 @@ O PDF integral não deve ser enviado ao GitHub enquanto o repositório permanece
 - artefatos finais:
   - [x] `final/REVIEW.md`
   - [x] `final/MY_OPINION.md`
-  - [ ] `final/BOOK_CLUB_BRIEF.md`
+  - [x] `final/BOOK_CLUB_BRIEF.md`
   - [ ] `final/DISCUSSION_QUESTIONS.md`
 
 ## METHODOLOGY_CANON
@@ -121,13 +121,26 @@ O miolo insiste mais do que o necessário em variações do bloqueio afetivo/sex
 
 ### `final/MY_OPINION.md`
 
-**COMPLETE** — posição em primeira pessoa no modo `CONSTRUCTED_READER_POSITION`, contendo avaliação, méritos, reservas, ritmo, estilo, final, relações centrais e sete argumentos defensáveis para conversa.
-
-Nenhuma memória autobiográfica específica de leitura foi inventada.
+**COMPLETE** — posição em primeira pessoa no modo `CONSTRUCTED_READER_POSITION`, contendo avaliação, méritos, reservas, ritmo, estilo, final, relações centrais e argumentos defensáveis para conversa.
 
 ### `final/BOOK_CLUB_BRIEF.md`
 
-**NOT_CREATED**.
+**COMPLETE** — documento de revisão rápida voltado ao uso antes/durante a reunião, inclusive sem leitura integral própria.
+
+Contém:
+
+- resumo em 30 segundos;
+- sete pontos essenciais;
+- personagens e temas centrais;
+- posição 9/10;
+- cronologia mínima e cronologia científica segura;
+- momentos-chave;
+- comentários para abrir conversa;
+- respostas a discordâncias previsíveis;
+- perguntas para devolver ao grupo;
+- armadilhas factuais/interpretativas;
+- respostas rápidas;
+- fala de 15 segundos e de 1 minuto.
 
 ### `final/DISCUSSION_QUESTIONS.md`
 
@@ -135,31 +148,31 @@ Nenhuma memória autobiográfica específica de leitura foi inventada.
 
 ## LAST_COMPLETED_ACTION
 
-Executado **somente o segundo artefato de `FINALIZE`: `final/MY_OPINION.md`** para *Flores para Algernon*.
+Executado **somente o terceiro artefato de `FINALIZE`: `final/BOOK_CLUB_BRIEF.md`** para *Flores para Algernon*.
 
 ### Execução
 
-- relidos `AGENTS.md`, este checkpoint, `BOOK.md`, `STATUS.md`, `docs/FINAL_OUTPUT_PROTOCOL.md`, `synthesis/AUDIT.md`, `synthesis/CRITICAL_ANALYSIS.md`, `synthesis/READER_POSITION.md` e `final/REVIEW.md`;
-- confirmado antes da escrita que `final/MY_OPINION.md` não existia;
-- criado e verificado `books/flores-para-algernon/final/MY_OPINION.md`;
-- mantido o modo `CONSTRUCTED_READER_POSITION` e a nota 9/10;
-- incluídos méritos, reservas, Charlie–Algernon, ritmo, estilo, final e sete argumentos de discussão;
-- nenhuma memória autobiográfica específica de leitura foi inventada;
-- confirmado que `final/BOOK_CLUB_BRIEF.md` ainda não existe;
-- `BOOK_CLUB_BRIEF.md` e `DISCUSSION_QUESTIONS.md` não foram criados nesta execução;
-- `FINALIZE` permanece em andamento — **2/4**.
+- relidos `AGENTS.md`, este checkpoint, `BOOK.md`, `STATUS.md`, `docs/FINAL_OUTPUT_PROTOCOL.md`, `synthesis/AUDIT.md`, `synthesis/CRITICAL_ANALYSIS.md`, `synthesis/READER_POSITION.md`, `final/REVIEW.md` e `final/MY_OPINION.md`;
+- confirmado antes da escrita que `final/BOOK_CLUB_BRIEF.md` não existia;
+- criado e verificado `books/flores-para-algernon/final/BOOK_CLUB_BRIEF.md`;
+- o documento foi construído para revisão rápida antes/durante a reunião e para uso mesmo sem leitura integral própria;
+- preservadas a avaliação 9/10 e todas as salvaguardas auditadas;
+- confirmado que `final/DISCUSSION_QUESTIONS.md` ainda não existe;
+- `DISCUSSION_QUESTIONS.md` não foi criado nesta execução;
+- `FINALIZE` permanece em andamento — **3/4**.
 
 ## NEXT_ACTION
 
-Executar **somente o terceiro artefato de `FINALIZE`: `final/BOOK_CLUB_BRIEF.md`**.
+Executar **somente o quarto artefato de `FINALIZE`: `final/DISCUSSION_QUESTIONS.md`**.
 
-1. Ler `docs/FINAL_OUTPUT_PROTOCOL.md`, `books/flores-para-algernon/STATUS.md`, `synthesis/AUDIT.md`, `synthesis/CRITICAL_ANALYSIS.md`, `synthesis/READER_POSITION.md`, `final/REVIEW.md` e `final/MY_OPINION.md`.
-2. Confirmar antes da escrita que `books/flores-para-algernon/final/BOOK_CLUB_BRIEF.md` não existe.
-3. Criar um documento de revisão rápida para uso antes/durante a reunião, útil mesmo sem leitura integral própria.
-4. Incluir: resumo em 30 segundos; pontos centrais; personagens; temas; minha posição; momentos-chave; comentários que abrem conversa; respostas a discordâncias; perguntas para o grupo; armadilhas factuais/interpretativas.
-5. Manter a posição 9/10 e todas as salvaguardas auditadas.
-6. Atualizar `STATUS.md` e este checkpoint após verificar o artefato.
-7. **Não criar `DISCUSSION_QUESTIONS.md` na mesma execução.**
+1. Ler `docs/FINAL_OUTPUT_PROTOCOL.md`, `books/flores-para-algernon/STATUS.md`, `synthesis/AUDIT.md`, `synthesis/CRITICAL_ANALYSIS.md`, `synthesis/READER_POSITION.md` e `final/BOOK_CLUB_BRIEF.md`.
+2. Confirmar antes da escrita que `books/flores-para-algernon/final/DISCUSSION_QUESTIONS.md` não existe.
+3. Criar perguntas genuinamente abertas, específicas da obra e aptas a gerar interpretações rivais sustentáveis por evidência textual.
+4. Cobrir dignidade/capacidade, pertencimento, ciência/poder, Charlie–Algernon, autonomia/cuidado, identidade/memória, família/padaria e final, sem transformar o documento em questionário escolar.
+5. Incluir notas curtas de facilitação ou tensões possíveis quando isso ampliar a discussão, sem impor resposta correta.
+6. Manter todas as salvaguardas auditadas e não inventar fatos/citações.
+7. Atualizar `STATUS.md` e este checkpoint após verificar o artefato.
+8. **Não executar `COMPLETE` na mesma execução.**
 
 ## CONTINUATION_COMMAND
 
