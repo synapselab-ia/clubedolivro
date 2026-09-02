@@ -49,7 +49,7 @@
 - auditoria adversarial: **PASS**
 - síntese crítica interna: **concluída**
 - posição de leitor: **concluída — `CONSTRUCTED_READER_POSITION`**
-- `FINALIZE`: **1/4 artefatos obrigatórios concluídos**
+- `FINALIZE`: **2/4 artefatos obrigatórios concluídos**
 - próximo estágio: `FINALIZE`
 
 ## READER_POSITION_CANON
@@ -79,7 +79,7 @@ A posição canônica para os materiais finais está em `synthesis/READER_POSITI
 ## FINAL_ARTIFACTS
 
 - [x] `final/REVIEW.md`
-- [ ] `final/MY_OPINION.md`
+- [x] `final/MY_OPINION.md`
 - [ ] `final/BOOK_CLUB_BRIEF.md`
 - [ ] `final/DISCUSSION_QUESTIONS.md`
 
@@ -89,20 +89,27 @@ A posição canônica para os materiais finais está em `synthesis/READER_POSITI
 
 **Concluído e verificado.**
 
-A resenha crítica contém:
+Resenha crítica com identificação, síntese, tese central, forma, temas, pontos fortes, limitações e avaliação final 9/10, preservando as salvaguardas da auditoria.
 
-- identificação da obra e edição;
-- síntese breve sem recontagem excessiva;
-- tese central sobre capacidade cognitiva versus valor humano;
-- análise dos Relatórios de Progresso como dispositivo formal;
-- Charlie como vítima, agente e também reprodutor de condescendência;
-- Algernon como ser vivo, série empírica e vínculo afetivo;
-- crítica à ciência institucional sem leitura anticientífica;
-- pertencimento, autonomia/cuidado e circularidade do final;
-- limitações do miolo e do excesso explicativo;
-- avaliação final **9/10**.
+### `final/MY_OPINION.md`
 
-A resenha não inventa memória autobiográfica de leitura, fatos ou citações.
+**Concluído e verificado.**
+
+Modo: `CONSTRUCTED_READER_POSITION`.
+
+O documento contém:
+
+- avaliação geral e nota **9/10**;
+- maior mérito técnico: a escrita dos Relatórios de Progresso acompanhando ascensão e regressão;
+- relação mais marcante: **Charlie–Algernon**;
+- leitura de Charlie como vítima, agente e também reprodutor de condescendência;
+- crítica principal ao miolo repetitivo no eixo trauma/sexualidade e ao excesso explicativo;
+- avaliação de ritmo e estilo;
+- posições sobre Alice, Nemur, família, padaria e Warren;
+- avaliação do final como **circularidade sem reset**;
+- sete argumentos defensáveis para discussão;
+- versão curta de 30 segundos;
+- nenhuma memória autobiográfica específica de leitura inventada.
 
 ## POST_AUDIT_AND_SYNTHESIS_SAFEGUARDS
 
@@ -138,25 +145,27 @@ Etapas futuras não devem:
 
 ## LAST_COMPLETED_ACTION
 
-Executado **somente o primeiro artefato de `FINALIZE`: `final/REVIEW.md`**.
+Executado **somente o segundo artefato de `FINALIZE`: `final/MY_OPINION.md`**.
 
 ### Execução
 
-- relidos `AGENTS.md`, `docs/CHECKPOINT.md`, `BOOK.md`, este `STATUS.md`, `docs/FINAL_OUTPUT_PROTOCOL.md`, `synthesis/AUDIT.md`, `synthesis/CRITICAL_ANALYSIS.md` e `synthesis/READER_POSITION.md`;
-- confirmado antes da escrita que `final/REVIEW.md` não existia;
-- criado e verificado `books/flores-para-algernon/final/REVIEW.md`;
-- resenha mantida coerente com a posição 9/10 e com as salvaguardas da auditoria;
-- confirmado que `final/MY_OPINION.md` ainda não existe;
-- `MY_OPINION.md`, `BOOK_CLUB_BRIEF.md` e `DISCUSSION_QUESTIONS.md` não foram criados nesta execução;
+- relidos `AGENTS.md`, `docs/CHECKPOINT.md`, `BOOK.md`, este `STATUS.md`, `docs/FINAL_OUTPUT_PROTOCOL.md`, `synthesis/AUDIT.md`, `synthesis/CRITICAL_ANALYSIS.md`, `synthesis/READER_POSITION.md` e `final/REVIEW.md`;
+- confirmado antes da escrita que `final/MY_OPINION.md` não existia;
+- criado e verificado `books/flores-para-algernon/final/MY_OPINION.md`;
+- mantido o modo `CONSTRUCTED_READER_POSITION` e a avaliação 9/10;
+- opinião escrita em primeira pessoa sem inventar memória autobiográfica específica de leitura;
+- confirmado que `final/BOOK_CLUB_BRIEF.md` ainda não existe;
+- `BOOK_CLUB_BRIEF.md` e `DISCUSSION_QUESTIONS.md` não foram criados nesta execução;
 - `FINALIZE` permanece em andamento.
 
 ## NEXT_ACTION
 
-Executar **somente o segundo artefato de `FINALIZE`: `final/MY_OPINION.md`**.
+Executar **somente o terceiro artefato de `FINALIZE`: `final/BOOK_CLUB_BRIEF.md`**.
 
-1. Ler `docs/FINAL_OUTPUT_PROTOCOL.md`, `synthesis/AUDIT.md`, `synthesis/CRITICAL_ANALYSIS.md`, `synthesis/READER_POSITION.md` e `final/REVIEW.md`.
-2. Confirmar antes da escrita que `final/MY_OPINION.md` não existe.
-3. Criar uma posição em primeira pessoa derivada de `READER_POSITION.md`, com avaliação geral, nota 9/10, méritos, reservas, relação/elemento mais marcante, ritmo, estilo, final e argumentos defensáveis.
-4. Manter o modo `CONSTRUCTED_READER_POSITION` e não inventar memórias autobiográficas de leitura.
-5. Atualizar este `STATUS.md` e `docs/CHECKPOINT.md` após verificar o artefato.
-6. **Não criar `BOOK_CLUB_BRIEF.md` ou `DISCUSSION_QUESTIONS.md` na mesma execução.**
+1. Ler `docs/FINAL_OUTPUT_PROTOCOL.md`, este `STATUS.md`, `synthesis/AUDIT.md`, `synthesis/CRITICAL_ANALYSIS.md`, `synthesis/READER_POSITION.md`, `final/REVIEW.md` e `final/MY_OPINION.md`.
+2. Confirmar antes da escrita que `final/BOOK_CLUB_BRIEF.md` não existe.
+3. Criar um documento de revisão rápida para uso antes/durante a reunião, útil mesmo sem leitura integral própria.
+4. Incluir: resumo em 30 segundos; pontos centrais; personagens; temas; minha posição; momentos-chave; comentários que abrem conversa; respostas a discordâncias; perguntas para o grupo; armadilhas factuais/interpretativas.
+5. Manter a posição 9/10 e todas as salvaguardas auditadas.
+6. Atualizar este `STATUS.md` e `docs/CHECKPOINT.md` após verificar o artefato.
+7. **Não criar `DISCUSSION_QUESTIONS.md` na mesma execução.**
