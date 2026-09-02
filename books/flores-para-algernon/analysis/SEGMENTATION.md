@@ -50,66 +50,80 @@ A paginação abaixo é a paginação física do PDF fornecido pelo usuário.
 | 05 | Relatório 13, 10–13 de junho | p. 84, a partir de `Relatório de Progresso 13`, até p. 102 | Unidade concentrada na convenção de Chicago: objetificação de Charlie, novas informações sobre Algernon e ruptura com o controle institucional. |
 | 06 | Relatório 14, 15–20 de junho | pp. 103–116 | Pós-fuga imediato: independência, vida fora do laboratório, Fay e reencontro com o passado/paternidade. |
 | 07 | 21 de junho–12 de julho, incluindo Relatório 15 | pp. 117–136, encerrando antes de `Relatório de Progresso 16` na p. 136 | Pesquisa autônoma, relações afetivas, integração do antigo Charlie, sinais de regressão em Algernon e retorno ao laboratório sob autonomia científica. |
-| 08 | Relatório 16, 14 de julho–26 de agosto | p. 136, a partir de `Relatório de Progresso 16`, até p. 155 | Visita a Warren, reencontro com Rose e Norma, crise relacional e investigação intensiva; termina no relatório que formula o Efeito Algernon-Gordon, antes da verificação externa. |
-| 09 | Relatório 16, 1º–27 de setembro | pp. 156–168 | Verificação da falha, sinais iniciais de regressão e novos confrontos; forma a ponte direta para o declínio explícito. |
+| 08 | Relatório 16, 14 de julho–26 de agosto | p. 136, a partir de `Relatório de Progresso 16`, até p. 155 | Visita a Warren, crise relacional e investigação intensiva; termina no relatório que formula o Efeito Algernon-Gordon, antes da verificação externa. |
+| 09 | Relatório 16, 1º–27 de setembro | pp. 156–168 | Validação externa da falha, primeiros sinais em Charlie, morte de Algernon e reencontro com Rose/Norma; encerra o Relatório 16 antes do declínio explícito. |
 | 10 | Relatório 17, 3 de outubro–21 de novembro | pp. 169–188 | Arco final de regressão cognitiva, perda, retorno e despedida. |
 
 ## Ajustes
 
 ### Ajuste de paginação — Segmentos 02/03
 
-Durante a preparação do Segmento 02 foi verificado na fonte que a **p. 40 contém simultaneamente a conclusão da entrada de 18 de abril (Rorschach revisitado) e o início do `Relatório de Progresso 10`, em 21 de abril**. A tabela anterior atribuía a p. 40 integralmente ao Segmento 03, embora o limite semântico aprovado sempre fosse “fim do Rorschach de 18 de abril / início do Relatório 10”.
+Durante a preparação do Segmento 02 foi verificado na fonte que a **p. 40 contém simultaneamente a conclusão da entrada de 18 de abril (Rorschach revisitado) e o início do `Relatório de Progresso 10`, em 21 de abril**.
 
 Correção aplicada sem alterar o limite narrativo:
 
 - Segmento 02: `pp. 25–40`, **somente até o fim da entrada de 18 de abril**;
 - Segmento 03: começa na mesma p. 40, **a partir do cabeçalho `RELATÓRIO DE PROGRESSO 10`**.
 
-A p. 40 é portanto uma página compartilhada apenas para fins de localização física; não há sobreposição de conteúdo entre as análises.
+A p. 40 é compartilhada apenas para localização física; não há sobreposição de conteúdo.
 
 ### Ajuste de paginação — Segmentos 03/04
 
-Durante a execução do Segmento 03 foi verificado na fonte que a **entrada de 10 de maio continua na p. 61 e termina antes da entrada de 11 de maio, que começa na mesma página**. A tabela anterior registrava p. 60 como término físico do Segmento 03.
+Durante a execução do Segmento 03 foi verificado na fonte que a **entrada de 10 de maio continua na p. 61 e termina antes da entrada de 11 de maio, que começa na mesma página**.
 
-Correção aplicada sem alterar o limite narrativo:
+- Segmento 03 termina na p. 61, somente até o fim de 10 de maio;
+- Segmento 04 começa na mesma p. 61, a partir de 11 de maio.
 
-- Segmento 03: termina na p. 61, **somente até o fim da entrada de 10 de maio**;
-- Segmento 04: começa na mesma p. 61, **a partir da entrada de 11 de maio**.
-
-A p. 61 é compartilhada apenas como localização física; não há sobreposição de conteúdo entre as análises.
+Não há sobreposição de conteúdo.
 
 ### Ajuste de paginação — Segmentos 04/05
 
-Durante a execução do Segmento 04 foi verificado na fonte que a **entrada de 8 de junho continua na p. 84 e termina antes do cabeçalho `RELATÓRIO DE PROGRESSO 13`, que começa na mesma página**. A tabela anterior registrava p. 83 como término físico do Segmento 04.
+Durante a execução do Segmento 04 foi verificado que a **entrada de 8 de junho continua na p. 84 e termina antes do `RELATÓRIO DE PROGRESSO 13`**, que começa na mesma página.
 
-Correção aplicada sem alterar o limite narrativo:
+- Segmento 04 termina na p. 84, somente até o fim de 8 de junho;
+- Segmento 05 começa na mesma p. 84, a partir do Relatório 13.
 
-- Segmento 04: termina na p. 84, **somente até o fim da entrada de 8 de junho**;
-- Segmento 05: começa na mesma p. 84, **a partir do cabeçalho `RELATÓRIO DE PROGRESSO 13`**.
-
-A p. 84 é compartilhada apenas como localização física; não há sobreposição de conteúdo entre as análises.
+Não há sobreposição de conteúdo.
 
 ### Ajuste de paginação — Segmentos 07/08
 
-Durante a execução do Segmento 07 foi verificado na fonte que a **entrada de 12 de julho continua no início da p. 136 e termina antes do cabeçalho `RELATÓRIO DE PROGRESSO 16`, que começa na mesma página**. A tabela anterior registrava p. 135 como término físico do Segmento 07.
+Durante a execução do Segmento 07 foi verificado que a **entrada de 12 de julho continua no início da p. 136 e termina antes do `RELATÓRIO DE PROGRESSO 16`**, que começa na mesma página.
 
-Correção aplicada sem alterar o limite narrativo:
+- Segmento 07 termina na p. 136, somente até o fim de 12 de julho;
+- Segmento 08 começa na mesma p. 136, a partir do Relatório 16.
 
-- Segmento 07: termina na p. 136, **somente até o fim da entrada de 12 de julho**;
-- Segmento 08: começa na mesma p. 136, **a partir do cabeçalho `RELATÓRIO DE PROGRESSO 16`**.
-
-A p. 136 é compartilhada apenas como localização física; não há sobreposição de conteúdo entre as análises.
+Não há sobreposição de conteúdo.
 
 ### Ajuste de fronteira — Segmentos 08/09
 
-Durante a execução do Segmento 08 foi verificado na fonte que a **entrada de 26 de agosto encerra o Segmento 08 e é seguida pela entrada de 1º de setembro**. A tabela anterior registrava 2 de setembro como início do Segmento 09; 2 de setembro é, na verdade, a entrada subsequente.
+Durante a execução do Segmento 08 foi verificado que a **entrada de 26 de agosto é seguida pela entrada de 1º de setembro**. A tabela anterior registrava 2 de setembro como início do Segmento 09; 2 de setembro é a entrada subsequente.
 
-Correção aplicada sem mudança de paginação:
+- Segmento 08 permanece p. 136–155, 14 de julho–26 de agosto;
+- Segmento 09 permanece pp. 156–168, mas inicia em **1º de setembro**.
 
-- Segmento 08: permanece da p. 136, a partir do `RELATÓRIO DE PROGRESSO 16`, até p. 155, **14 de julho–26 de agosto**;
-- Segmento 09: permanece nas pp. 156–168, mas passa a ser **1º–27 de setembro**.
+A correção foi cronológica, sem mudança de paginação.
 
-A correção é cronológica, não estrutural: não há sobreposição de conteúdo nem alteração das páginas canônicas.
+### Correção factual de atribuição — Rose e Norma
+
+Durante a execução do Segmento 09, a fonte foi conferida novamente e mostrou que o **reencontro presencial com Rose e Norma, a confissão de Norma sobre a infância, a oferta de apoio de Charlie e a repetição da cena da faca por Rose ocorrem na entrada de 27 de setembro**.
+
+Uma versão anterior de `analysis/08.md` havia atribuído esses eventos ao Segmento 08. A correção aplicada é:
+
+- Segmento 08 continua encerrando em 26 de agosto com a formulação do Efeito Algernon-Gordon;
+- esses acontecimentos familiares pertencem ao Segmento 09, pp. 156–168;
+- `analysis/08.md` foi revisado para remover a atribuição incorreta;
+- `analysis/09.md` registra os acontecimentos no local cronológico correto.
+
+Não houve mudança dos limites físicos dos segmentos.
+
+### Verificação de fronteira — Segmentos 09/10
+
+Durante a execução do Segmento 09 foi confirmado que a entrada de **27 de setembro encerra o `RELATÓRIO DE PROGRESSO 16`** e é seguida, na **p. 169**, pelo cabeçalho `RELATÓRIO DE PROGRESSO 17`, entrada de **3 de outubro**.
+
+- Segmento 09 termina na p. 168, ao fim de 27 de setembro;
+- Segmento 10 começa na p. 169, com o Relatório 17 em 3 de outubro.
+
+Não há página compartilhada nem sobreposição de conteúdo nessa fronteira.
 
 Qualquer alteração posterior exige registrar primeiro o motivo aqui e em `STATUS.md`. Segmentos já analisados não devem ter seus limites alterados sem auditoria explícita.
 
