@@ -50,8 +50,8 @@ A paginação abaixo é a paginação física do PDF fornecido pelo usuário.
 | 05 | Relatório 13, 10–13 de junho | p. 84, a partir de `Relatório de Progresso 13`, até p. 102 | Unidade concentrada na convenção de Chicago: objetificação de Charlie, novas informações sobre Algernon e ruptura com o controle institucional. |
 | 06 | Relatório 14, 15–20 de junho | pp. 103–116 | Pós-fuga imediato: independência, vida fora do laboratório, Fay e reencontro com o passado/paternidade. |
 | 07 | 21 de junho–12 de julho, incluindo Relatório 15 | pp. 117–136, encerrando antes de `Relatório de Progresso 16` na p. 136 | Pesquisa autônoma, relações afetivas, integração do antigo Charlie, sinais de regressão em Algernon e retorno ao laboratório sob autonomia científica. |
-| 08 | Relatório 16, 14 de julho–26 de agosto | p. 136, a partir de `Relatório de Progresso 16`, até p. 155 | Visita a Warren e investigação intensiva do experimento; termina na carta formal a Nemur, antes da confirmação definitiva. |
-| 09 | Relatório 16, 2–27 de setembro | pp. 156–168 | Confirmação da falha, sinais iniciais de regressão e confrontos familiares; forma a ponte direta para o declínio explícito. |
+| 08 | Relatório 16, 14 de julho–26 de agosto | p. 136, a partir de `Relatório de Progresso 16`, até p. 155 | Visita a Warren, reencontro com Rose e Norma, crise relacional e investigação intensiva; termina no relatório que formula o Efeito Algernon-Gordon, antes da verificação externa. |
+| 09 | Relatório 16, 1º–27 de setembro | pp. 156–168 | Verificação da falha, sinais iniciais de regressão e novos confrontos; forma a ponte direta para o declínio explícito. |
 | 10 | Relatório 17, 3 de outubro–21 de novembro | pp. 169–188 | Arco final de regressão cognitiva, perda, retorno e despedida. |
 
 ## Ajustes
@@ -99,6 +99,17 @@ Correção aplicada sem alterar o limite narrativo:
 - Segmento 08: começa na mesma p. 136, **a partir do cabeçalho `RELATÓRIO DE PROGRESSO 16`**.
 
 A p. 136 é compartilhada apenas como localização física; não há sobreposição de conteúdo entre as análises.
+
+### Ajuste de fronteira — Segmentos 08/09
+
+Durante a execução do Segmento 08 foi verificado na fonte que a **entrada de 26 de agosto encerra o Segmento 08 e é seguida pela entrada de 1º de setembro**. A tabela anterior registrava 2 de setembro como início do Segmento 09; 2 de setembro é, na verdade, a entrada subsequente.
+
+Correção aplicada sem mudança de paginação:
+
+- Segmento 08: permanece da p. 136, a partir do `RELATÓRIO DE PROGRESSO 16`, até p. 155, **14 de julho–26 de agosto**;
+- Segmento 09: permanece nas pp. 156–168, mas passa a ser **1º–27 de setembro**.
+
+A correção é cronológica, não estrutural: não há sobreposição de conteúdo nem alteração das páginas canônicas.
 
 Qualquer alteração posterior exige registrar primeiro o motivo aqui e em `STATUS.md`. Segmentos já analisados não devem ter seus limites alterados sem auditoria explícita.
 
