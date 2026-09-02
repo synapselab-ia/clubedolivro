@@ -35,7 +35,7 @@
 - [x] `synthesis/STRUCTURE.md`
 - [x] `synthesis/CHARACTERS.md`
 - [x] `synthesis/THEMES.md`
-- [ ] `synthesis/SYMBOLS.md`
+- [x] `synthesis/SYMBOLS.md`
 - [ ] `synthesis/KEY_PASSAGES.md`
 - [ ] `synthesis/INTERPRETATIONS.md`
 - [ ] `synthesis/AUDIT.md`
@@ -44,9 +44,9 @@
 ## CONSOLIDATION_PROGRESS
 
 - artefatos-base previstos antes de `AUDIT`: **6**
-- concluídos: **3/6**
-- concluídos: `synthesis/STRUCTURE.md`, `synthesis/CHARACTERS.md`, `synthesis/THEMES.md`
-- próximo artefato: `synthesis/SYMBOLS.md`
+- concluídos: **4/6**
+- concluídos: `synthesis/STRUCTURE.md`, `synthesis/CHARACTERS.md`, `synthesis/THEMES.md`, `synthesis/SYMBOLS.md`
+- próximo artefato: `synthesis/KEY_PASSAGES.md`
 
 ## FINAL_ARTIFACTS
 
@@ -59,16 +59,16 @@
 
 Questões restantes para consolidação/auditoria:
 
-- Auditar a hierarquia temática provisória registrada em `THEMES.md`, especialmente a centralidade relativa de inteligência/valor humano, dignidade/estigma, identidade, pertencimento e ciência/responsabilidade.
-- Determinar com precisão quanto das transformações morais e afetivas de Charlie persiste após a perda cognitiva; `CHARACTERS.md` e `THEMES.md` sustentam persistência parcial, não reset perfeito.
-- Consolidar em `SYMBOLS.md` labirinto/gaiola, portas, janela/espelho, luz/escuridão, faca, ampulheta/tempo, livros, amuletos, flores e outros padrões apenas quando houver suporte distribuído suficiente.
-- Consolidar o paralelismo Charlie–Algernon sem reduzir Algernon apenas a símbolo ou antropomorfizá-lo.
+- Auditar a hierarquia temática provisória de `THEMES.md` e a hierarquia simbólica de `SYMBOLS.md`.
+- Determinar com precisão quanto das transformações morais e afetivas de Charlie persiste após a regressão; a leitura interna sustenta persistência parcial, não reset perfeito.
+- Preservar o estatuto de Algernon como personagem, ser vivo e evidência empírica, ainda que o paralelismo Charlie–Algernon seja estruturalmente muito forte.
 - Avaliar a decisão final por Warren como combinação possível de autonomia residual, necessidade de cuidado, vergonha e medo de piedade.
-- Preservar a ambivalência dos arcos já consolidados: Nemur não é simples vilão; Strauss não é contraponto moral perfeito; Matt combina proteção e ausência; Rose exige distinção entre compreensão e reparação; Joe/Frank/Gimpy mudam sem apagar abuso anterior.
-- Verificar na auditoria a relação entre a epígrafe de Platão, o tema transversal de conhecimento/limite e os motivos de luz/escuridão sem transformar a epígrafe em chave única.
+- Preservar a ambivalência de Nemur, Strauss, Matt, Rose e dos colegas da padaria.
+- Verificar na auditoria a relação entre a epígrafe de Platão, conhecimento/limite e o motivo luz/escuridão sem transformá-la em chave única.
 - Preservar a cadeia epistemológica: sinais em Algernon → regressão cognitiva observável → Efeito Algernon-Gordon → validação externa → regressão de Charlie → documentação formal do declínio.
 - Avaliar em `INTERPRETATIONS.md` leituras concorrentes do final: circularidade trágica versus transformação residual; Warren como autonomia versus retirada motivada por vergonha/piedade.
-- Manter separação entre tema e símbolo: por exemplo, pertencimento é tema; janela/porta são possíveis motivos que o figuram.
+- Manter rebaixadas, até auditoria, hipóteses simbólicas locais como ampulheta, sombra, “três ratos cegos”, medalhão/objetos brilhantes e reflexo de Algernon.
+- Selecionar em `KEY_PASSAGES.md` momentos de maior valor analítico sem reproduzir extensamente o texto.
 
 ## SOURCE_ISSUES
 
@@ -86,52 +86,64 @@ Questões restantes para consolidação/auditoria:
 
 ## LAST_COMPLETED_ACTION
 
-Concluída a **terceira ação de `CONSOLIDATE`** com criação e verificação de `synthesis/THEMES.md`.
+Concluída a **quarta ação de `CONSOLIDATE`** com criação e verificação de `synthesis/SYMBOLS.md`.
 
-O artefato consolidou, usando somente a leitura interna, dez temas principais:
+O artefato separa explicitamente **símbolos fortemente sustentados**, **motivos recorrentes** e **hipóteses simbólicas**, usando apenas leitura interna.
 
-1. **inteligência e valor humano**;
-2. **dignidade, deficiência e estigma**;
-3. **memória, identidade e continuidade pessoal**;
-4. **pertencimento e solidão**;
-5. **ciência, falibilidade e responsabilidade**;
-6. **autonomia e cuidado**;
-7. **inteligência versus maturidade, afeto e sabedoria**;
-8. **trauma, vergonha e sexualidade**;
-9. **tempo, mortalidade e perda**;
-10. **comunicação, linguagem e acesso à experiência**.
+### Símbolos fortemente sustentados
 
-Também foi registrado **conhecimento, inocência e limite** como tema transversal `MEDIUM/HIGH`, sem elevá-lo automaticamente ao núcleo estrutural antes da auditoria.
+- **labirinto / caminhos / becos sem saída / choques:** parte do aparato experimental e depois linguagem para escolhas, trauma, impasses afetivos e investigação;
+- **gaiola / jaula / contenção:** controle experimental, ameaça traumática de Rose e poder institucional sobre Charlie e Algernon;
+- **janela / posição dentro-fora:** exclusão, proximidade sem acesso e continuidade entre estados de Charlie;
+- **flores / túmulo de Algernon:** deslocamento de desempenho/utilidade para memória, luto e cuidado.
 
-Para cada tema foram registrados definição específica na obra, evidências distribuídas pelos segmentos, personagens/eventos associados, evolução, tensões/contradições e grau de confiança.
+### Motivos recorrentes consolidados
 
-### Decisões metodológicas preservadas
+- antigo Charlie como observador/duplo, sem tratá-lo como personagem independente;
+- espelho/reflexo;
+- portas, fechaduras e acesso;
+- faca/sangue e ameaça corporal;
+- livros, leitura, escrita e Relatórios de Progresso;
+- luz/escuridão/visão;
+- amuletos/sorte/pensamento mágico;
+- sintomas corporais de trauma;
+- gravações/filmes/fotografias e documentação;
+- comida/recompensa/condicionamento;
+- tempo como contagem regressiva.
 
-- não foi adotada a leitura simplista de que a obra condena inteligência ou ciência;
-- inteligência foi tratada como capacidade real e valiosa, mas insuficiente como medida de humanidade, pertencimento, maturidade ou vida boa;
-- falibilidade científica foi distinguida de anticientificismo: a falha gera revisão, descoberta, validação e conhecimento;
-- dignidade/estigma foi separado de pertencimento/solidão e de autonomia/cuidado;
-- cuidado foi preservado como ambivalente: pode proteger e também assumir forma paternalista/tutelar;
-- compreensão intelectual do trauma não foi equiparada a resolução corporal/emocional;
-- regressão cognitiva não foi tratada como apagamento uniforme de toda experiência ou aprendizado moral;
-- labirinto, janela, flores, faca, amuletos e demais padrões imagéticos foram deliberadamente deixados para `SYMBOLS.md`.
+### Hipóteses mantidas rebaixadas
 
-### Hipótese temática provisória
+- ampulheta/areia: `MEDIUM` como imagem específica, embora tempo seja motivo `HIGH`;
+- sombra do sonho da montanha: `LOW/MEDIUM`;
+- “três ratos cegos”: `LOW`;
+- medalhão/objetos brilhantes: `LOW/MEDIUM`;
+- reflexo de Algernon no toalete: `LOW`.
 
-`INTERPRETATION — HIGH, A AUDITAR`: o núcleo da obra investiga **o que permanece humano quando capacidade cognitiva, reconhecimento social e autonomia mudam radicalmente**. A inteligência amplia conhecimento e liberdade, mas não substitui afeto, dignidade, responsabilidade ou pertencimento; sua perda, por sua vez, não elimina automaticamente todos os vínculos e transformações morais adquiridos durante a experiência.
+### Decisões metodológicas
+
+- Algernon **não foi reduzido a símbolo**: foi registrado como paralelismo estrutural `HIGH`, mantendo função de personagem e série empírica;
+- Warren e Padaria Donner não foram convertidos em símbolos unívocos;
+- Relatórios de Progresso foram tratados principalmente como motivo formal/dispositivo narrativo;
+- a epígrafe de Platão não foi usada para fechar a leitura de luz/escuridão;
+- amuletos sustentam circularidade cognitiva, mas não comprovam reset humano perfeito;
+- padrões locais ou ambíguos permaneceram com confiança reduzida.
+
+### Hipótese simbólica provisória
+
+`INTERPRETATION — HIGH, A AUDITAR`: o sistema imagético mais consistente organiza-se em torno de **controle, acesso e continuidade**. Labirintos estruturam busca e desempenho; gaiolas estruturam contenção; janelas, portas e espelhos estruturam exclusão/acesso/reconhecimento; escrita materializa conhecimento e perda; faca e sintomas corporais preservam o trauma no corpo; flores encerram o arco de Algernon em memória e cuidado.
 
 ## NEXT_ACTION
 
-Ler `docs/SYNTHESIS_PROTOCOL.md`, `books/flores-para-algernon/STATUS.md`, `books/flores-para-algernon/synthesis/STRUCTURE.md`, `books/flores-para-algernon/synthesis/CHARACTERS.md`, `books/flores-para-algernon/synthesis/THEMES.md` e `analysis/01.md` a `analysis/10.md`.
+Ler `docs/SYNTHESIS_PROTOCOL.md`, `books/flores-para-algernon/STATUS.md`, `books/flores-para-algernon/synthesis/STRUCTURE.md`, `synthesis/CHARACTERS.md`, `synthesis/THEMES.md`, `synthesis/SYMBOLS.md` e `analysis/01.md` a `analysis/10.md`.
 
-Executar **somente a quarta ação de `CONSOLIDATE`**:
+Executar **somente a quinta ação de `CONSOLIDATE`**:
 
-- criar `books/flores-para-algernon/synthesis/SYMBOLS.md`;
-- registrar somente padrões com suporte razoável, separando explicitamente **símbolo fortemente sustentado**, **motivo recorrente** e **hipótese simbólica**, conforme `docs/SYNTHESIS_PROTOCOL.md`;
-- priorizar para verificação: Algernon como paralelo que excede função simbólica; labirinto; gaiola/jaula; portas/janelas/estar do lado de fora; espelho/reflexo/duplo; flores; faca/sangue; luz/escuridão; tempo/ampulheta/areia; livros/escrita/relatórios; amuletos/sorte; corpo e sintomas recorrentes; gravações/filmes/fotografias; comida/recompensa;
-- não transformar automaticamente personagens, temas ou espaços em símbolos; exigir recorrência e função textual;
-- preservar níveis de confiança e rebaixar padrões que permaneçam locais ou especulativos;
+- criar `books/flores-para-algernon/synthesis/KEY_PASSAGES.md`;
+- selecionar apenas momentos de maior valor analítico distribuídos pela obra;
+- para cada entrada, registrar localização verificável, paráfrase/contexto e função analítica, conforme `docs/SYNTHESIS_PROTOCOL.md`;
+- evitar reprodução extensa do texto e usar citações literais apenas quando uma formulação curta for indispensável;
+- garantir cobertura dos principais arcos: desejo inicial de inteligência; primeiro reconhecimento de mudança; descoberta da humilhação; autonomia moral; expulsão da padaria; Chicago; libertação de Algernon; integração do antigo Charlie; jovem do restaurante; regressão de Algernon; Warren; Efeito Algernon-Gordon; confirmação externa; morte/enterro de Algernon; reencontro familiar; regressão formal; retorno à padaria; retorno à aula; pedido final das flores;
 - usar somente leitura interna; não iniciar pesquisa externa;
-- ao concluir, atualizar `STATUS.md` e `docs/CHECKPOINT.md` marcando somente `synthesis/SYMBOLS.md` como novo artefato concluído;
-- **não criar `KEY_PASSAGES.md` ou `INTERPRETATIONS.md` na mesma etapa**;
-- **não iniciar AUDIT ou SYNTHESIZE**.
+- ao concluir, atualizar `STATUS.md` e `docs/CHECKPOINT.md` marcando somente `synthesis/KEY_PASSAGES.md` como novo artefato concluído;
+- **não criar `INTERPRETATIONS.md` na mesma etapa**;
+- **não iniciar `AUDIT`, `SYNTHESIZE`, `PERSONALIZE` ou `FINALIZE`**.
