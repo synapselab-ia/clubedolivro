@@ -45,6 +45,8 @@ A pipeline padrão é:
 - Não avance duas etapas grandes de uma vez se isso impedir registrar checkpoint intermediário confiável.
 - Ao terminar uma etapa, atualize o `STATUS.md` do livro e `docs/CHECKPOINT.md` quando houver mudança global relevante.
 - Toda `NEXT_ACTION` deve ser concreta, executável e pequena o suficiente para uma próxima conversa assumir sem ambiguidade.
+- Toda **nota numérica final** deve seguir `docs/RATING_PROTOCOL.md`; não escolher a nota apenas por impressão global nem inflá-la porque os melhores momentos da obra são muito fortes.
+- Notas `9,0+` exigem justificativa excepcional explícita conforme a rubrica; `10,0` deve ser tratado como nota de referência, não como sinônimo de “gostei muito”.
 
 ## 5. Política de evidências
 
