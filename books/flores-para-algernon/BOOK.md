@@ -27,12 +27,16 @@
 - `READER_POSITION_MODE`: CONSTRUCTED_BY_DEFAULT
 - `USER_REACTION_INPUT`: OPTIONAL
 - `READER_POSITION_STATUS`: COMPLETE
+- `RATING_MODE`: STRICT_RUBRIC
+- `RATING_PROTOCOL`: docs/RATING_PROTOCOL.md
 
 ## PERSONALIZATION_NOTE
 
 O usuário não precisa ter realizado leitura integral da obra para concluir `PERSONALIZE`. A posição de leitor foi construída a partir da análise auditada em `synthesis/AUDIT.md` e `synthesis/CRITICAL_ANALYSIS.md` e está registrada em `synthesis/READER_POSITION.md`.
 
 Reações reais do usuário, quando existirem, funcionam como calibração opcional e têm prioridade sobre preferências geradas. Não inventar memórias autobiográficas de leitura nem afirmar que o usuário leu trecho específico.
+
+A nota foi posteriormente recalibrada por solicitação explícita do usuário para uma escala crítica mais rígida, conforme `docs/RATING_PROTOCOL.md`, sem alteração da análise factual ou das interpretações auditadas.
 
 ## STRUCTURE_NOTES
 
