@@ -52,17 +52,36 @@
 ## FINAL_POSITION
 
 - modo: `CONSTRUCTED_READER_POSITION`
-- nota construída: **9/10**
+- `RATING_MODE`: `STRICT_RUBRIC`
+- `RAW_SCORE`: **8,75/10**
+- `FINAL_SCORE`: **8,5/10**
+- interpretação da nota: **excelente, mas não extraordinário**
 - maior mérito técnico: os Relatórios de Progresso incorporam ascensão e regressão na própria linguagem
 - relação mais forte: **Charlie–Algernon**
-- principal reserva: repetição no miolo do eixo trauma/sexualidade e algum excesso explicativo
+- principal reserva: repetição no miolo do eixo trauma/sexualidade, queda de ritmo e algum excesso explicativo
 - leitura do final: **circularidade sem reset perfeito**
+
+### Rubrica aplicada
+
+| Dimensão | Peso | Nota |
+|---|---:|---:|
+| Execução formal e estilo | 20% | 9,5 |
+| Profundidade temática e intelectual | 20% | 9,0 |
+| Personagens e relações | 15% | 8,5 |
+| Estrutura e ritmo | 15% | 7,5 |
+| Originalidade e identidade artística | 10% | 8,5 |
+| Impacto emocional/estético | 10% | 9,0 |
+| Consistência e fechamento | 10% | 9,0 |
+
+O `RAW_SCORE` de 8,75 fica exatamente entre 8,5 e 9,0. Conforme `docs/RATING_PROTOCOL.md`, o desempate é conservador. A recorrência das limitações do miolo também aciona teto qualitativo de 8,5.
 
 ## FINAL_AUDIT
 
 `FINAL_AUDIT: PASS`
 
-Checklist aplicado conforme `docs/FINAL_OUTPUT_PROTOCOL.md`:
+`RATING_RECALIBRATION: PASS`
+
+Checklist aplicado conforme `docs/FINAL_OUTPUT_PROTOCOL.md` e `docs/RATING_PROTOCOL.md`:
 
 - [x] os materiais finais não contradizem `synthesis/AUDIT.md`;
 - [x] fatos e interpretações permanecem distinguidos adequadamente;
@@ -74,9 +93,13 @@ Checklist aplicado conforme `docs/FINAL_OUTPUT_PROTOCOL.md`:
 - [x] `final/BOOK_CLUB_BRIEF.md` é utilizável como revisão rápida antes/durante reunião;
 - [x] `final/BOOK_CLUB_BRIEF.md` contém armadilhas factuais e respostas a discordâncias;
 - [x] os quatro artefatos finais obrigatórios existem no estado real do repositório;
-- [x] este `STATUS.md` reflete os arquivos realmente existentes.
+- [x] a nota foi recalculada por dimensão em vez de escolhida por impressão global;
+- [x] as limitações auditadas afetam materialmente a dimensão `Estrutura e ritmo`;
+- [x] a regra anti-inflacionamento foi aplicada;
+- [x] `READER_POSITION.md`, `REVIEW.md`, `MY_OPINION.md` e `BOOK_CLUB_BRIEF.md` usam **8,5/10**;
+- [x] este `STATUS.md` reflete a recalibração.
 
-### Salvaguardas confirmadas na auditoria final
+### Salvaguardas confirmadas
 
 Os materiais finais preservam as formulações canônicas de que:
 
@@ -107,14 +130,16 @@ Os materiais finais preservam as formulações canônicas de que:
 
 ## LAST_COMPLETED_ACTION
 
-Executada **somente a etapa `COMPLETE`** como auditoria final de encerramento.
+Executada recalibração avaliativa explícita solicitada pelo usuário após `COMPLETE`.
 
-- verificada a existência real dos quatro artefatos finais;
-- aplicado integralmente o checklist de `docs/FINAL_OUTPUT_PROTOCOL.md`;
-- conferidos os materiais contra `synthesis/AUDIT.md`, `synthesis/CRITICAL_ANALYSIS.md` e `synthesis/READER_POSITION.md`;
-- nenhuma inconsistência bloqueante foi encontrada;
-- `FINAL_AUDIT: PASS`;
-- livro encerrado como `COMPLETE`.
+- criada a rubrica global rígida em `docs/RATING_PROTOCOL.md`;
+- a análise factual e a auditoria literária não foram reabertas;
+- a nota anterior de 9/10 foi reavaliada por dimensões;
+- `RAW_SCORE: 8,75`;
+- aplicado desempate conservador e teto qualitativo;
+- `FINAL_SCORE: 8,5/10`;
+- posição de leitor e materiais finais que exibem nota foram atualizados;
+- livro permanece `COMPLETE`.
 
 ## NEXT_ACTION
 
