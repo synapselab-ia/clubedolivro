@@ -8,6 +8,8 @@ O objetivo operacional do projeto é permitir que o usuário **chegue à discuss
 
 Isso não autoriza inventar fatos da obra nem fabricar memórias autobiográficas de leitura. A preparação pode gerar uma posição crítica em primeira pessoa para uso do usuário, mas não deve criar alegações como “quando eu estava lendo a página X eu senti...” se essa experiência não foi fornecida pelo usuário.
 
+Toda nota numérica final deve seguir `docs/RATING_PROTOCOL.md`. A nota é consequência da análise, não um palpite global escolhido antes da justificativa.
+
 ## Pipeline
 
 ### 0. INGEST
@@ -103,7 +105,7 @@ Modo padrão: `CONSTRUCTED_READER_POSITION`.
 
 A IA deve construir, a partir da obra e da síntese:
 - impressão geral plausível e específica;
-- nota aproximada defensável;
+- **nota crítica calculada conforme `docs/RATING_PROTOCOL.md`**;
 - principais elogios;
 - críticas e reservas reais;
 - personagem, relação ou elemento mais marcante;
@@ -112,6 +114,8 @@ A IA deve construir, a partir da obra e da síntese:
 - pontos de concordância e discordância;
 - 3–7 argumentos que o usuário consiga sustentar em conversa;
 - possíveis respostas a objeções de outros leitores.
+
+A nota deve ser produzida **depois** de pontuar as dimensões da rubrica. Registrar `RATING_MODE`, notas dimensionais, `RAW_SCORE`, eventual teto qualitativo e `FINAL_SCORE` em `synthesis/READER_POSITION.md`.
 
 Se o usuário fornecer reações reais, elas têm prioridade e devem substituir ou ajustar a posição construída. O input pessoal é **opcional**, não pré-requisito.
 
@@ -134,6 +138,8 @@ Saídas padrão:
 
 `final/MY_OPINION.md` deve derivar de `synthesis/READER_POSITION.md`, incorporando eventuais preferências explícitas do usuário quando existirem.
 
+A nota publicada em `REVIEW.md`, `MY_OPINION.md` e `BOOK_CLUB_BRIEF.md` deve ser exatamente o `FINAL_SCORE` da rubrica, salvo se o usuário pedir explicitamente uma segunda nota separada de gosto pessoal.
+
 ### 9. COMPLETE
 
 Um livro só pode ser marcado `COMPLETE` quando:
@@ -143,7 +149,9 @@ Um livro só pode ser marcado `COMPLETE` quando:
 - a auditoria estiver concluída;
 - a síntese crítica existir;
 - a posição de leitor estiver consolidada;
+- a rubrica de nota estiver aplicada e auditada;
 - os artefatos finais obrigatórios existirem;
+- a mesma nota final estiver consistente nos artefatos canônicos;
 - `STATUS.md` refletir o estado real.
 
 ## Princípios de qualidade
@@ -173,6 +181,18 @@ Não misturar:
 
 A posição de leitor deve fazer escolhas. Ela precisa conter preferências, reservas e juízos específicos sustentáveis pela obra. Evitar produzir uma opinião neutra que apenas repita a análise crítica.
 
+### Severidade de nota
+
+A escala é deliberadamente exigente:
+
+- `8,0` = muito bom;
+- `8,5` = excelente;
+- `9,0` = extraordinário;
+- `9,5` = raríssimo;
+- `10,0` = referência excepcional.
+
+Uma limitação recorrente ou uma seção claramente inferior deve pesar materialmente na nota. Os melhores momentos da obra não anulam automaticamente seus pontos fracos.
+
 ### Análise adversarial
 
-A síntese e a posição de leitor devem sobreviver a tentativas explícitas de refutação.
+A síntese, a posição de leitor **e a nota** devem sobreviver a tentativas explícitas de refutação.
