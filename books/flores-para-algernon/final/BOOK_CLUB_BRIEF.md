@@ -16,7 +16,7 @@ Charlie Gordon é um adulto com deficiência intelectual que aceita uma cirurgia
 
 Pra mim, o livro não está dizendo que **inteligência é ruim**. A inteligência dá ganhos reais a Charlie. O ponto mais forte é outro: **capacidade cognitiva não é medida suficiente de dignidade, humanidade, pertencimento ou maturidade**. A própria escrita dos Relatórios de Progresso acompanha a ascensão e a regressão, e isso é o maior acerto formal do romance.
 
-**Minha nota: 9/10.**
+**Minha nota: 8,5/10.** Na escala rígida do projeto, isso significa **excelente**. O miolo repetitivo e alguns excessos explicativos impedem o 9, reservado a obras extraordinárias com fragilidades menores.
 
 ---
 
@@ -58,15 +58,15 @@ Principal nome ligado ao experimento. Ambicioso, paternalista e frequentemente o
 
 ## Dr. Strauss
 
-Psiquiatra ligado ao projeto. É mais atento à dimensão psicológica que Nemur, mas continua participante da estrutura institucional que controla Charlie.
+Psiquiatra ligado ao projeto. É mais atento à dimensão psicológica que Nemur, mas continua participante da estrutura institucional.
 
 ## Burt Selden
 
-Responsável por muitos testes e medições. Participa do aparato experimental, mas também funciona como contraponto quando Charlie passa a se considerar intelectualmente superior a todos.
+Responsável por muitos testes e medições. Participa do aparato experimental e também funciona como contraponto à tendência de Charlie de se considerar superior a todos.
 
 ## Fay Lillman
 
-Vizinha de Charlie após a ruptura com o projeto. Oferece uma relação mais espontânea e corporal, menos marcada pela antiga hierarquia professor–aluno existente com Alice.
+Vizinha de Charlie após a ruptura com o projeto. Oferece relação mais espontânea e corporal, menos marcada pela antiga hierarquia professor–aluno existente com Alice.
 
 ## Rose, Matt e Norma
 
@@ -74,7 +74,7 @@ Família de Charlie.
 
 - **Rose:** mãe; centro de muitos traumas, vergonha e punições.
 - **Matt:** pai; proteção limitada, insuficiente para reparar o dano.
-- **Norma:** irmã; no reencontro adulto consegue reconhecer parte do que aconteceu e demonstrar arrependimento.
+- **Norma:** irmã; no reencontro adulto reconhece parte do que aconteceu e demonstra arrependimento.
 
 **A família não é plenamente reconciliada.**
 
@@ -86,7 +86,7 @@ Colegas da padaria. No início participam de humilhações; depois rejeitam Char
 
 ## Sr. Donner
 
-Dono da padaria. Oferece trabalho e certa proteção, embora sua relação com Charlie também tenha componente paternalista.
+Dono da padaria. Oferece trabalho e certa proteção, embora a relação também tenha componente paternalista.
 
 ## Warren
 
@@ -110,7 +110,7 @@ Charlie imagina que inteligência finalmente o fará pertencer. A mudança revel
 
 ## 3. Autonomia versus cuidado
 
-O crescimento de Charlie é também crescimento de autonomia. A regressão traz de volta necessidades reais de cuidado. O livro não resolve facilmente a tensão entre proteção e tutela.
+O crescimento de Charlie é também crescimento de autonomia. A regressão traz necessidades reais de cuidado. O livro não resolve facilmente a tensão entre proteção e tutela.
 
 ## 4. Ciência, poder e responsabilidade
 
@@ -118,7 +118,7 @@ A ciência consegue corrigir o próprio erro e produzir conhecimento. Ao mesmo t
 
 ## 5. Memória e identidade
 
-Charlie continua sendo a mesma pessoa biográfica através de mudanças extremas de capacidade, embora viva momentos de forte cisão subjetiva em relação ao “antigo Charlie”.
+Charlie continua sendo a mesma pessoa biográfica através de mudanças extremas de capacidade, embora viva forte cisão subjetiva em relação ao “antigo Charlie”.
 
 ## 6. Conhecimento intelectual versus trauma
 
@@ -130,7 +130,14 @@ Entender racionalmente a origem de um trauma não significa controlar automatica
 
 ## Nota
 
-**9/10.**
+**8,5/10 — excelente.**
+
+### Por que não 9
+
+- o miolo repete mais do que deveria o eixo trauma/sexualidade;
+- o ritmo cai de forma perceptível nessa parte;
+- algumas ideias são explicadas depois de já terem sido demonstradas narrativamente;
+- alguns secundários funcionam mais como forças no arco de Charlie do que como personagens plenamente autônomos.
 
 ## O maior mérito
 
@@ -146,14 +153,12 @@ A escrita acompanhar diretamente a transformação de Charlie.
 
 ## Principal crítica
 
-O miolo é mais repetitivo, sobretudo nos bloqueios afetivos/sexuais de Charlie e na reaparição dos traumas da infância.
-
-> Eu entendo a função dessas cenas, mas acho que algumas poderiam ser condensadas. Em certos momentos o livro explica uma ideia que a própria estrutura já tinha demonstrado.
+> Eu entendo a função do arco de trauma e sexualidade, mas acho que o miolo insiste demais nele. Algumas cenas poderiam ser condensadas sem perder a ideia.
 
 ## Ritmo
 
 - começo: muito forte;
-- miolo: desacelera;
+- miolo: desacelera e repete;
 - último terço: volta a ganhar muita tensão com Algernon, pesquisa e regressão.
 
 ## Estilo
@@ -220,85 +225,29 @@ Charlie decide partir para Warren. O pedido para que coloquem flores no túmulo 
 
 # Momentos-chave para citar numa conversa
 
-## 1. Charlie percebe que riam dele, não com ele
-
-Serve para discutir dignidade, deficiência e a diferença entre não perceber uma humilhação e ela não existir.
-
-## 2. Dilema de Gimpy
-
-Charlie descobre irregularidades na padaria e precisa decidir como agir. É um momento importante de autonomia moral: inteligência não fornece automaticamente uma resposta ética simples.
-
-## 3. Expulsão da padaria
-
-Mostra que sua antiga inclusão dependia parcialmente de uma posição social específica. Quando Charlie muda, os colegas deixam de saber como se relacionar com ele.
-
-## 4. Convenção de Chicago
-
-Momento de ruptura com a objetificação institucional. Charlie deixa de aceitar que Nemur e o projeto controlem o significado de sua transformação.
-
-**Mas Chicago não é a descoberta completa da regressão.**
-
-## 5. Jovem lavador de pratos
-
-Charlie inicialmente acompanha o riso dirigido a um jovem com deficiência e depois reconhece o que está acontecendo.
-
-É uma cena excelente para mostrar que Charlie também pode reproduzir a lógica de superioridade da qual foi vítima.
-
-## 6. Regressão de Algernon e pesquisa de Charlie
-
-Transforma Charlie de sujeito experimental em investigador. O fracasso biológico do experimento produz conhecimento científico real.
-
-## 7. Morte e enterro de Algernon
-
-Algernon deixa definitivamente de ser mero dado experimental. O cuidado continua depois que desempenho e utilidade desaparecem.
-
-## 8. Reencontro com Rose e Norma
-
-Norma oferece arrependimento e compreensão parcial; Rose reativa o trauma. A cena separa entendimento, perdão, reconciliação e reparação.
-
-## 9. Defesa de Charlie na padaria
-
-Joe, Frank e Gimpy o defendem de uma nova humilhação. Há transformação relacional, sem base suficiente para declarar redenção completa.
-
-## 10. Retorno à sala de Alice
-
-Durante a regressão, Charlie volta por engano para a aula. É um dos retornos que produzem a circularidade trágica do final.
-
-## 11. Flores para Algernon
-
-O gesto final liga memória, luto e cuidado depois do fim da utilidade experimental.
+1. **Charlie percebe que riam dele, não com ele** — dignidade e humilhação independente da percepção da vítima.
+2. **Dilema de Gimpy** — inteligência não fornece automaticamente resposta moral simples.
+3. **Expulsão da padaria** — o antigo pertencimento dependia de uma posição social específica.
+4. **Convenção de Chicago** — ruptura com a objetificação institucional; não é ainda prova da regressão.
+5. **Jovem lavador de pratos** — Charlie também pode reproduzir a lógica de superioridade.
+6. **Regressão de Algernon e pesquisa de Charlie** — sujeito experimental vira investigador.
+7. **Morte e enterro de Algernon** — cuidado continua depois da utilidade.
+8. **Reencontro com Rose e Norma** — compreensão parcial não equivale a reparação.
+9. **Defesa de Charlie na padaria** — mudança relacional sem redenção completa demonstrada.
+10. **Retorno à sala de Alice** — circularidade trágica.
+11. **Flores para Algernon** — memória e cuidado depois do desempenho.
 
 ---
 
 # Comentários que abrem conversa
 
-## 1.
-
-> O que eu acho mais cruel é que ganhar inteligência não cria a humilhação do começo; só dá ao Charlie instrumentos para perceber uma humilhação que já estava acontecendo.
-
-## 2.
-
-> Pra mim, o livro fica melhor quando você não lê como “inteligência é ruim”. A inteligência melhora muito a autonomia dele. O que ela não consegue comprar é pertencimento.
-
-## 3.
-
-> O Charlie também começa a reproduzir condescendência quando fica genial, e acho isso essencial para o livro não virar uma história moralmente fácil.
-
-## 4.
-
-> Eu acho Algernon mais importante que Alice para o eixo emocional da obra, porque ele é ao mesmo tempo companheiro, prognóstico e dado científico.
-
-## 5.
-
-> A parte científica é mais interessante porque o experimento falha, mas a ciência não: Charlie consegue transformar a própria falha em conhecimento verificável.
-
-## 6.
-
-> O final parece um círculo, só que não fecha perfeitamente. O Charlie volta a condições parecidas, mas as pessoas e o mundo ao redor dele carregam consequências que não desaparecem.
-
-## 7.
-
-> Warren funciona melhor pra mim justamente porque não é nem solução perfeita nem prisão monstruosa. É cuidado real misturado com perda real de independência.
+1. > O que eu acho mais cruel é que ganhar inteligência não cria a humilhação do começo; só dá ao Charlie instrumentos para perceber uma humilhação que já estava acontecendo.
+2. > Pra mim, o livro fica melhor quando você não lê como “inteligência é ruim”. A inteligência melhora a autonomia dele; o que ela não compra é pertencimento.
+3. > O Charlie também começa a reproduzir condescendência quando fica genial, e isso impede a história de ser moralmente fácil.
+4. > Eu acho Algernon mais importante que Alice para o eixo emocional porque ele é companheiro, prognóstico e dado científico ao mesmo tempo.
+5. > O experimento falha biologicamente, mas a ciência não desaparece: Charlie transforma a falha em conhecimento verificável.
+6. > O final parece um círculo, só que não fecha perfeitamente. O mundo ao redor do Charlie carrega consequências que não desaparecem.
+7. > Warren funciona justamente porque não é nem solução perfeita nem prisão monstruosa: é cuidado real misturado com perda real de independência.
 
 ---
 
@@ -306,39 +255,27 @@ O gesto final liga memória, luto e cuidado depois do fim da utilidade experimen
 
 ## “O livro mostra que ser inteligente é uma tragédia.”
 
-**Resposta segura:**
-
-Não exatamente. Charlie ganha autonomia, conhecimento e capacidade de decisão reais. A tragédia está na reversão e na expectativa de que inteligência resolveria problemas que não são apenas cognitivos.
+**Resposta segura:** não exatamente. Charlie ganha autonomia, conhecimento e capacidade de decisão reais. A tragédia está na reversão e na expectativa de que inteligência resolveria problemas que não são apenas cognitivos.
 
 ## “Nemur é o vilão e enganou Charlie.”
 
-**Resposta segura:**
-
-Nemur é paternalista, vaidoso e participa da objetificação de Charlie, mas os riscos do procedimento são apresentados antes da cirurgia e a falha específica ainda não era conhecida. É mais interessante como crítica de poder institucional do que como vilão fraudulento.
+**Resposta segura:** Nemur é paternalista, vaidoso e participa da objetificação, mas os riscos do procedimento são apresentados antes da cirurgia e a falha específica ainda não era conhecida.
 
 ## “Charlie vira uma pessoa ruim quando fica inteligente.”
 
-**Resposta segura:**
-
-Ele realmente fica arrogante e condescendente em vários momentos, mas também ganha autonomia, faz julgamentos morais próprios, produz ciência e consegue rever parte dessa superioridade. O arco é deliberadamente contraditório.
+**Resposta segura:** ele realmente fica arrogante em vários momentos, mas também ganha autonomia, produz ciência e revê parte dessa superioridade. O arco é contraditório de propósito.
 
 ## “Algernon é só uma metáfora para Charlie.”
 
-**Resposta segura:**
-
-Ele é paralelo de Charlie, mas também é um animal concreto, principal fonte dos dados sobre a regressão e objeto de cuidado. Reduzi-lo a símbolo elimina metade da função dele.
+**Resposta segura:** ele é paralelo de Charlie, mas também é animal concreto, fonte dos dados sobre a regressão e objeto de cuidado.
 
 ## “No final tudo volta ao começo.”
 
-**Resposta segura:**
-
-A forma quase volta: linguagem, padaria, sala de Alice, dependência. Mas não é reset. Os colegas mudaram, o conhecimento científico existe, Algernon tornou-se memória e outras pessoas carregam a história de Charlie.
+**Resposta segura:** a forma quase volta, mas não há reset. Os colegas mudaram, o conhecimento científico existe, Algernon virou memória e outras pessoas carregam a história de Charlie.
 
 ## “Warren é uma prisão.”
 
-**Resposta segura:**
-
-Há perda de independência, sem dúvida. Mas a visita mostra cuidado real, e Charlie participa da decisão de ir. A melhor leitura é agência sob constrangimento, não liberdade plena nem prisão simples.
+**Resposta segura:** há perda de independência, mas também cuidado real e alguma participação de Charlie na decisão. A melhor leitura é agência sob constrangimento.
 
 ---
 
@@ -346,9 +283,9 @@ Há perda de independência, sem dúvida. Mas a visita mostra cuidado real, e Ch
 
 1. Se Charlie não compreendia que estava sendo humilhado, isso torna a humilhação menos grave?
 2. Charlie se torna mais sozinho porque ganha inteligência ou porque passa a enxergar relações que já eram frágeis?
-3. A arrogância de Charlie no auge contradiz a crítica do livro ao preconceito ou torna essa crítica mais complexa?
+3. A arrogância de Charlie no auge contradiz a crítica ao preconceito ou torna essa crítica mais complexa?
 4. Em que momento o experimento deixa de “pertencer” aos cientistas e passa a pertencer também a Charlie?
-5. A decisão de ir para Warren pode ser chamada de autônoma quando as alternativas de Charlie já estão diminuindo?
+5. A decisão de ir para Warren pode ser chamada de autônoma quando as alternativas já estão diminuindo?
 6. O que permanece de uma experiência quando a pessoa deixa de conseguir lembrar ou compreender grande parte dela?
 7. Por que o último gesto importante é ligado a Algernon, e não a Alice, à família ou aos cientistas?
 
@@ -372,8 +309,8 @@ Há perda de independência, sem dúvida. Mas a visita mostra cuidado real, e Ch
 - **Não dizer:** “antigo Charlie” e “novo Charlie” são literalmente duas pessoas.
 - **Correto:** existe continuidade biográfica com forte cisão subjetiva/formal.
 
-- **Não dizer:** a inteligência torna Charlie simplesmente pior.
-- **Correto:** ela amplia capacidade e autonomia, mas não garante maturidade ou empatia.
+- **Não dizer:** inteligência torna Charlie simplesmente pior.
+- **Correto:** amplia capacidade e autonomia, mas não garante maturidade ou empatia.
 
 ## Algernon
 
@@ -404,8 +341,6 @@ Há perda de independência, sem dúvida. Mas a visita mostra cuidado real, e Ch
 
 # Cronologia científica segura
 
-Decorar esta ordem evita a maior armadilha factual da discussão:
-
 1. comportamento irregular de Algernon;
 2. **12 de julho:** regressão cognitiva observável em Algernon;
 3. Charlie inicia investigação independente;
@@ -420,13 +355,16 @@ Decorar esta ordem evita a maior armadilha factual da discussão:
 # Respostas rápidas se me perguntarem diretamente
 
 **Gostou?**  
-Sim. Bastante. **9/10.**
+Sim. Bastante. **8,5/10.**
 
 **O que mais gostou?**  
 A mudança da própria escrita junto com a inteligência de Charlie e a relação Charlie–Algernon.
 
 **O que menos gostou?**  
 O miolo repete um pouco demais os bloqueios afetivos/sexuais e os traumas de Charlie.
+
+**Por que não 9?**  
+Porque essa repetição afeta o ritmo de forma recorrente, e o livro às vezes explica ideias que a própria forma já mostrou. Na escala rígida, 9 fica para obras extraordinárias com defeitos menores e localizados.
 
 **Personagem mais interessante?**  
 Charlie, porque a inteligência aumenta a capacidade dele sem produzir crescimento moral automático.
@@ -441,7 +379,7 @@ Sim, mas acho mais interessante a instabilidade de poder e cuidado entre os dois
 Não no sentido simples. É um cientista real, mas vaidoso, paternalista e institucionalmente desumanizador.
 
 **O livro é anticiência?**  
-Não. Ele critica autoridade e objetificação científicas, mas valoriza método, revisão e conhecimento.
+Não. Critica autoridade e objetificação científicas, mas valoriza método, revisão e conhecimento.
 
 **Tema principal?**  
 Capacidade cognitiva não é medida suficiente de dignidade ou valor humano.
@@ -456,16 +394,18 @@ Porque o cuidado com Algernon continua mesmo depois do fim de qualquer desempenh
 
 # Minha fala de 15 segundos
 
-> Pra mim é um 9/10. O maior acerto é a própria linguagem acompanhar a inteligência e depois a regressão do Charlie. E eu não vejo como uma história dizendo que inteligência é ruim; vejo como uma história sobre como capacidade não garante dignidade, pertencimento ou maturidade. Algernon, pra mim, é a relação mais forte, e o final funciona porque parece um retorno ao começo sem realmente apagar tudo que mudou.
+> Pra mim é um 8,5/10. O maior acerto é a própria linguagem acompanhar a inteligência e depois a regressão do Charlie. Não vejo como uma história dizendo que inteligência é ruim; vejo como uma história sobre como capacidade não garante dignidade, pertencimento ou maturidade. O que segura a nota abaixo de 9 é principalmente o miolo mais repetitivo.
 
 ---
 
 # Minha fala de 1 minuto
 
-> Eu gostei bastante e daria 9. O livro começa parecendo uma história sobre aumentar inteligência, mas pra mim ele acaba sendo muito mais sobre dignidade e pertencimento. O Charlie realmente ganha coisas importantes com a inteligência: autonomia, capacidade de entender abusos e até de produzir ciência. Só que isso não resolve trauma, afeto ou solidão. O maior mérito técnico é a escrita dos Relatórios de Progresso mudar junto com ele, porque a regressão aparece na própria linguagem. E eu acho a relação com Algernon mais forte que o romance com Alice, porque Algernon é companheiro, dado científico e antecipação do destino do Charlie ao mesmo tempo. Minha principal crítica é que o miolo repete um pouco demais os bloqueios afetivos e sexuais. E o final é excelente justamente porque parece circular, mas não é um reset: Charlie perde capacidade, só que as relações, o conhecimento que ele produziu e a memória de Algernon continuam existindo.
+> Eu gostei bastante e daria 8,5. O livro começa parecendo uma história sobre aumentar inteligência, mas acaba sendo muito mais sobre dignidade e pertencimento. O Charlie realmente ganha coisas importantes com a inteligência: autonomia, capacidade de entender abusos e até de produzir ciência. Só que isso não resolve trauma, afeto ou solidão. O maior mérito técnico é a escrita dos Relatórios de Progresso mudar junto com ele, porque a regressão aparece na própria linguagem. E eu acho a relação com Algernon mais forte que o romance com Alice. O que impede um 9 é o miolo, que repete um pouco demais os bloqueios afetivos e sexuais e às vezes explica o que a própria forma já mostrou. O final é excelente porque parece circular, mas não é um reset.
 
 ---
 
 ## Veredito do brief
 
 **`BOOK_CLUB_BRIEF: COMPLETE`**
+
+**`FINAL_SCORE: 8,5/10`**
