@@ -10,6 +10,8 @@ O modo padrão é:
 
 O usuário pode fornecer reações pessoais, mas isso é opcional. Quando existirem, elas prevalecem sobre preferências geradas pela IA.
 
+Toda nota numérica deve seguir `docs/RATING_PROTOCOL.md` no modo padrão `STRICT_RUBRIC`.
+
 ## Princípio central
 
 A IA deve construir uma posição que uma pessoa bem informada consiga sustentar em conversa porque conhece:
@@ -23,10 +25,13 @@ A IA deve construir uma posição que uma pessoa bem informada consiga sustentar
 
 A posição não deve ser um resumo neutro. Precisa fazer escolhas avaliativas.
 
+A nota não deve ser escolhida intuitivamente para depois receber uma justificativa. Primeiro avaliar méritos e limitações por dimensão; depois calcular e auditar a nota.
+
 ## Inputs obrigatórios
 
 - `synthesis/AUDIT.md`;
 - `synthesis/CRITICAL_ANALYSIS.md`;
+- `docs/RATING_PROTOCOL.md`;
 - quando necessário, `STRUCTURE.md`, `CHARACTERS.md`, `THEMES.md`, `KEY_PASSAGES.md` e análises parciais.
 
 ## Inputs opcionais do usuário
@@ -42,26 +47,37 @@ Se disponíveis, usar para calibrar:
 
 A ausência desses inputs **não bloqueia `PERSONALIZE`**.
 
+Se o usuário fornecer uma nota de gosto pessoal, manter explícita a diferença entre `CRITICAL_SCORE` e `PERSONAL_ENJOYMENT` quando elas não coincidirem.
+
 ## Procedimento
 
 1. extrair da síntese 3–5 méritos fortes da obra;
 2. identificar 1–3 limitações ou reservas defensáveis;
-3. escolher uma avaliação geral coerente com esse balanço;
-4. definir uma nota aproximada compatível com a avaliação;
-5. selecionar personagem, relação ou elemento mais marcante;
-6. avaliar ritmo e estilo de forma específica;
-7. formular posição sobre o final;
-8. escolher ao menos uma interpretação com a qual a posição construída concorda fortemente;
-9. escolher ao menos uma nuance, crítica ou discordância para evitar opinião artificialmente perfeita;
-10. preparar argumentos curtos que possam ser usados em conversa;
-11. registrar contra-argumentos plausíveis e respostas defensáveis;
-12. salvar em `synthesis/READER_POSITION.md`.
+3. pontuar as dimensões definidas em `docs/RATING_PROTOCOL.md`;
+4. calcular o `RAW_SCORE` ponderado;
+5. aplicar regras de teto, severidade e anti-inflacionamento;
+6. definir o `FINAL_SCORE` em incrementos de 0,5;
+7. responder explicitamente por que a obra não merece 0,5 ponto a mais, especialmente se `FINAL_SCORE >= 8,5`;
+8. escolher uma avaliação geral coerente com a nota calculada;
+9. selecionar personagem, relação ou elemento mais marcante;
+10. avaliar ritmo e estilo de forma específica;
+11. formular posição sobre o final;
+12. escolher ao menos uma interpretação com a qual a posição construída concorda fortemente;
+13. escolher ao menos uma nuance, crítica ou discordância para evitar opinião artificialmente perfeita;
+14. preparar argumentos curtos que possam ser usados em conversa;
+15. registrar contra-argumentos plausíveis e respostas defensáveis;
+16. salvar em `synthesis/READER_POSITION.md`.
 
 ## Estrutura mínima de `READER_POSITION.md`
 
 - `MODE`: `CONSTRUCTED_READER_POSITION` ou `USER_CALIBRATED_READER_POSITION`;
+- `RATING_MODE: STRICT_RUBRIC`;
 - avaliação geral;
-- nota;
+- notas por dimensão e pesos;
+- `RAW_SCORE`;
+- teto qualitativo, quando aplicável;
+- `FINAL_SCORE`;
+- justificativa de por que não recebeu 0,5 ponto a mais;
 - o que mais funciona;
 - o que menos funciona / reservas;
 - personagem/relação/elemento mais marcante;
@@ -84,6 +100,18 @@ A posição pode ser redigida em primeira pessoa para ser naturalmente reutiliz�
 
 Isso é uma **posição crítica preparada**, não uma alegação de memória autobiográfica.
 
+## Regra de severidade
+
+A interpretação verbal da nota deve seguir a escala canônica:
+
+- `8,0` — muito bom;
+- `8,5` — excelente;
+- `9,0` — extraordinário;
+- `9,5` — raríssimo / próximo de referência;
+- `10,0` — referência excepcional.
+
+Não usar 9 ou 10 como sinônimos genéricos de “gostei bastante”. Uma falha recorrente, uma seção claramente mais fraca ou problemas relevantes em múltiplas dimensões devem reduzir materialmente a nota.
+
 ## Proibições
 
 Não:
@@ -93,10 +121,12 @@ Não:
 - afirmar que o usuário leu uma passagem específica;
 - inventar experiências sensoriais ou cronológicas de leitura, como “quando cheguei nesse capítulo fiquei...”;
 - transformar hipótese rejeitada pela auditoria em opinião factual;
-- produzir uma posição tão genérica que pudesse servir para qualquer livro.
+- produzir uma posição tão genérica que pudesse servir para qualquer livro;
+- escolher a nota antes de aplicar a rubrica;
+- elevar a nota apenas por popularidade, reputação ou impacto emocional isolado.
 
 ## Critério de conclusão
 
-`PERSONALIZE` está concluído quando existe um `synthesis/READER_POSITION.md` coerente com a auditoria e suficientemente específico para alimentar `final/MY_OPINION.md` e `final/BOOK_CLUB_BRIEF.md`.
+`PERSONALIZE` está concluído quando existe um `synthesis/READER_POSITION.md` coerente com a auditoria, com rubrica de nota registrada e suficientemente específico para alimentar `final/MY_OPINION.md` e `final/BOOK_CLUB_BRIEF.md`.
 
-Se o usuário posteriormente fornecer reações próprias, atualizar a posição para `USER_CALIBRATED_READER_POSITION` sem refazer a análise da obra.
+Se o usuário posteriormente fornecer reações próprias, atualizar a posição para `USER_CALIBRATED_READER_POSITION` sem refazer a análise da obra. Se fornecer preferência explícita de severidade de nota, ela pode recalibrar a rubrica prospectivamente e, por ordem explícita, retrospectivamente.
