@@ -53,6 +53,15 @@ A quantidade pode ser ajustada se a segmentação semântica exigir.
 - não bloquear `PERSONALIZE` pela ausência de reação real do usuário
 - se o usuário fornecer preferências/reação, calibrar a posição sem refazer a análise
 
+## RATING
+
+- `RATING_MODE`: `STRICT_RUBRIC`
+- protocolo: `docs/RATING_PROTOCOL.md`
+- `RAW_SCORE`: NOT_CALCULATED
+- `FINAL_SCORE`: NOT_CALCULATED
+- notas `>= 9,0` exigem justificativa excepcional explícita
+- antes de `COMPLETE`, verificar consistência da nota em todos os artefatos finais e no checkpoint
+
 ## FINAL_ARTIFACTS
 
 - [ ] `final/REVIEW.md`
