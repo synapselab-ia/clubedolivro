@@ -25,10 +25,27 @@ A pipeline canônica é:
 
 Na etapa `PERSONALIZE`, o modo padrão é `CONSTRUCTED_READER_POSITION`: a IA transforma a análise auditada em uma posição crítica utilizável pelo usuário. Reações pessoais do usuário podem calibrar essa posição, mas não são obrigatórias.
 
+## Avaliação crítica
+
+Toda nota numérica segue `docs/RATING_PROTOCOL.md` no modo `STRICT_RUBRIC`.
+
+A nota não é escolhida por impressão global. A obra é pontuada por dimensões — forma/estilo, profundidade temática, personagens, estrutura/ritmo, originalidade, impacto e fechamento — e só depois recebe o `FINAL_SCORE`.
+
+A escala é deliberadamente rígida:
+
+- **8,0** — muito bom;
+- **8,5** — excelente;
+- **9,0** — extraordinário;
+- **9,5** — raríssimo / próximo de referência;
+- **10,0** — referência excepcional.
+
+Notas 9+ exigem justificativa excepcional explícita. Uma seção claramente inferior ou uma falha recorrente deve afetar a nota de modo material; os melhores momentos de uma obra não anulam automaticamente seus defeitos.
+
 ## Estrutura
 
 - `AGENTS.md` — contrato operacional para qualquer IA que trabalhe no repositório.
 - `docs/` — metodologia e protocolos canônicos.
+- `docs/RATING_PROTOCOL.md` — rubrica rígida para notas.
 - `templates/book/` — modelo de estrutura para cada livro.
 - `books/_inbox/` — área de entrada de novas obras.
 - `books/<slug>/` — dossiê persistente de cada livro analisado.
