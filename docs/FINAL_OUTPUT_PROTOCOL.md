@@ -2,6 +2,8 @@
 
 Os materiais finais só devem ser produzidos depois de análise parcial, consolidação, auditoria, síntese crítica e `PERSONALIZE`, salvo ordem explícita do usuário.
 
+Toda nota numérica publicada nos materiais finais deve ser o `FINAL_SCORE` calculado conforme `docs/RATING_PROTOCOL.md`, salvo se o usuário pedir explicitamente uma segunda nota separada de gosto pessoal.
+
 ## 1. `final/REVIEW.md`
 
 Resenha crítica pronta para consulta ou adaptação.
@@ -13,7 +15,8 @@ Deve conter:
 - pontos fortes;
 - limitações/críticas;
 - temas e escolhas formais relevantes;
-- avaliação final coerente com as evidências.
+- avaliação final coerente com as evidências;
+- nota final coerente com a rubrica crítica.
 
 Evitar linguagem genérica que poderia servir para qualquer livro.
 
@@ -35,7 +38,7 @@ Deve registrar de forma natural:
 - personagem, relação ou elemento mais marcante;
 - percepção de ritmo e estilo;
 - reação/avaliação do final;
-- nota;
+- `FINAL_SCORE` da rubrica;
 - 3–7 argumentos que sustentem a posição.
 
 A redação pode ser em primeira pessoa, mas não deve inventar memórias autobiográficas de leitura. Evitar frases como “quando cheguei na página X” ou “lembro de ter sentido...” se isso não veio do usuário.
@@ -59,7 +62,7 @@ Lista curta com papel e arco.
 Somente os temas mais defensáveis.
 
 ### Minha posição
-Resumo de `synthesis/READER_POSITION.md` em linguagem conversacional.
+Resumo de `synthesis/READER_POSITION.md` em linguagem conversacional, incluindo a mesma nota final da rubrica.
 
 ### Momentos-chave
 Referências aos eventos/passagens mais úteis para discussão.
@@ -103,4 +106,7 @@ Antes de marcar `COMPLETE`, verificar:
 - [ ] não há citações extensas desnecessárias;
 - [ ] `BOOK_CLUB_BRIEF.md` pode ser revisado rapidamente antes da reunião;
 - [ ] `BOOK_CLUB_BRIEF.md` contém armadilhas factuais e respostas a discordâncias;
+- [ ] a nota deriva de `docs/RATING_PROTOCOL.md` e possui registro dimensional em `READER_POSITION.md`;
+- [ ] qualquer nota `>= 9,0` possui justificativa excepcional explícita;
+- [ ] a mesma nota final aparece em `READER_POSITION.md`, `REVIEW.md`, `MY_OPINION.md`, `BOOK_CLUB_BRIEF.md`, `STATUS.md` e checkpoint da obra;
 - [ ] `STATUS.md` reflete os arquivos realmente existentes.
